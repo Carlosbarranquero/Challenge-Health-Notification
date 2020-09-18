@@ -1,0 +1,73 @@
+Challenge Overview
+ 
+1. CONTEXT
+ 
+PROJECT CONTEXT
+ 
+CHALLENGE CONTEXT
+This is the first challenge in the project meant to create a notification system that can notify copilots, admins and others concerned people about the 'health of an ongoing challenge.
+In this challenge, we will start the project by building a core regression model whose job will be to take challenge attributes as input and return the predicted number of submissions in the challenge. The predicted number of submissions will later be used to infer the health of any give challenge.
+ 
+2. CHALLENGE DETAILS
+ 
+DATASET
+The dataset is in JSON format, and can be found in the forum. It contains 27 json files, each containing about 90 challenges. If required, the participants can choose to combine them into a single file and convert it into a CSV file to make it easier to process in usual machine learning workflows.
+
+This dataset is available to the contestants to train and cross-validate their models, and the output model will be tested using the data from 9 test json files, which have not been shared with the contestants.
+THE MODEL SHOULD WORK ON ACTIVE CHALLENGES
+Important - It should be noted that the included dataset contains challenges that are already complete, but the model will be used on active, ongoing challenges in the real world use case.
+
+To help the contestants understand what could be different in active challenges vs completed challenge, we have included a JSON file in the forum containing details of about 20 active challenges. The contestants are recommended to do a proper study of all the attributes in the active challenges vs the completed challenges, and do feature selection and feature engineering accordingly, to ensure that the model runs as usual in active challenges.
+
+If some kind of preprocessing need to be carried out with the testing set as well, to make it more similar to active challenges, the contestants are recommended to include a the code to do that along with their submission, and should describe it in detail in the documentation.
+WHAT TO PREDICT
+The provided json files contain several attributes of a given challenge, like start dates, challenge specification, number of submissions, number of winners etc. The contestants are free to use any attribute as features for their regression model, except the 'winners' attribute and any other attribute which can indicate if the challenge was a failure or a success.
+
+The winners attribute will be used to come up with the target regression value. The label will be the number of winners (i.e. the number of entries inside the 'winners' attribute in the json).
+IMPORTANT: THE 'NO SUBMISSION' CASE IS VASTLY MORE IMPORTANT
+It should be noted that a simple regression metric like Mean Square Error will not be used. The scoring will be slightly more elaborate. Although this is a regression task, the scoring will be a combination of regression and classification.
+ 
+Some context
+Before discussing the exact metric, here is some background. We basically want the regressor to first be very good at distinguishing between a challenge with 0 submissions and a challenge with 1 or more submissions.
+
+This is because if a challenge has 4 submissions and if the copilot ideally wanted only max 2 submissions, then it will cost some extra review payment and will take time to review, but other than that, it is not a big issue. But if a challenge gets 0 submission, then that is a huge problem because the challenge will have to be reposted and it will take time to run it again.
+
+Hence the metric will be such that it first tests the classification performance of the model where it will treat any prediction equal to and greater than 1 as True and prediction less the 1 as False.
+ 
+The metric
+The metric will hence be: F1-score of classification * Mean-squared Error of regression.
+
+So during testing, we will first calculate the classification F-score (where model's regression prediction which are less than 1 will be labelled as False, and equal to & greater than will be labelled as True). We will then calculate the simple mean squared error of the regression outputs, and we will multiple the two values.
+
+This score will be considered the final performance score of your model. Note that there will be other subjective aspects of the submission that will be analysed as well, which are discussed in the judging criteria section below.
+ 
+It is acceptable if a separate classification model is used
+Note that, it is acceptable if the contestants want to submit a separate classification model for the classification task, and a separate regression model for regression task.
+JUPYTER NOTEBOOKS ARE ACCEPTABLE
+Jupyter notebooks are acceptable, but they should contain detailed descriptions and should run without any issues. In case Jupyter Notebooks are used, the submitter should ideally also be available to convert the notebook into usual code files, if required after the challenge, in case they win a prize.
+ 
+3. EXPECTED OUTCOME
+ 
+The expected outcome of this challenge is: a regression model along with its training and inference/demo code and documentation, which can predict the number of submissions in a given challenge.
+ 
+4. SCORECARD AID
+ 
+JUDGING CRITERIA
+ 
+IMPORTANT NOTE
+The review will be broadly done on the basis of following weightage:
+70% - Performance score (i.e. F1-score * MSE, as discussed above)
+15% - Code quality
+10% - documentation quality
+5% - demo video
+In case the number of submissions is too large (more than 5-6), then to mitigate the review expenses from going out of hand, we might have to ask the submitters to self-report their final test score and do the testing on video, which they are expected to do honestly, where any malpractice if detected, might need to immediate disqualification and other subsequent action.
+
+
+Final Submission Guidelines
+The submission should include:
+All the code developed for training, testing, verification etc.
+The trained regression model (and optionally also the classification model).
+Detailed documentation - Note, the documentation should be written with the assumption that the reader is just a layperson who can just follow the instructions and set up the environment. The installation instruction of each prerequisite should be mentioned and no step should be skipped.
+A video demonstrating the model
+Payments
+Topcoder will compensate members in accordance with our standard payment policies, unless otherwise specified in this challenge. For information on payment policies, setting up your profile to receive payments, and general payment questions, please refer to ‌Payment Policies and Instructions.

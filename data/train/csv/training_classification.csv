@@ -1,0 +1,2431 @@
+type,legacyId,track,challenge_duration,createdBy,updatedBy,day_of_year,challenge_prize,numOfSubmissions
+0,30117628,Development,9,high_freq_createdBy,medium_freq_updatedBy,60,100.0,1
+1,30116342,Development,9,high_freq_createdBy,high_freq_updatedBy,50,1800.0,1
+1,30116496,Development,8,high_freq_createdBy,high_freq_updatedBy,51,2100.0,1
+1,30112815,Data Science,31,low_freq_createdBy,high_freq_updatedBy,15,21000.0,1
+0,30117192,Development,2,high_freq_createdBy,medium_freq_updatedBy,57,400.0,1
+1,30116780,Development,6,high_freq_createdBy,high_freq_updatedBy,53,900.0,1
+1,30112410,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,6,1375.0,1
+1,30112409,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,6,1375.0,1
+0,30117102,Development,10,medium_freq_createdBy,high_freq_updatedBy,56,80.0,1
+1,30111695,Data Science,60,medium_freq_createdBy,high_freq_updatedBy,357,1375.0,1
+1,30111694,Data Science,60,medium_freq_createdBy,high_freq_updatedBy,357,1375.0,1
+1,30116476,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,51,1300.0,1
+1,30116212,Development,8,medium_freq_createdBy,high_freq_updatedBy,49,1050.0,1
+1,30114365,Design,24,medium_freq_createdBy,medium_freq_updatedBy,34,2000.0,1
+1,30116406,Development,8,high_freq_createdBy,high_freq_updatedBy,51,1800.0,1
+1,30116382,Development,8,high_freq_createdBy,high_freq_updatedBy,50,1200.0,1
+0,30117228,Development,10,high_freq_createdBy,high_freq_updatedBy,57,150.0,1
+1,30116150,Development,9,high_freq_createdBy,high_freq_updatedBy,49,1800.0,1
+1,30116735,Development,5,medium_freq_createdBy,high_freq_updatedBy,52,2250.0,1
+1,30116762,Development,5,medium_freq_createdBy,medium_freq_updatedBy,53,600.0,1
+1,30114388,Data Science,22,medium_freq_createdBy,high_freq_updatedBy,35,3500.0,1
+1,30115768,Development,12,medium_freq_createdBy,high_freq_updatedBy,45,600.0,1
+1,30114809,Data Science,16,low_freq_createdBy,high_freq_updatedBy,37,896.0,1
+1,30116087,Development,8,medium_freq_createdBy,high_freq_updatedBy,48,900.0,1
+0,30116609,Development,4,high_freq_createdBy,high_freq_updatedBy,52,500.0,1
+1,30115709,Data Science,11,medium_freq_createdBy,low_freq_updatedBy,44,2400.0,1
+1,30114836,Development,6,high_freq_createdBy,medium_freq_updatedBy,38,2100.0,1
+1,30115776,Development,10,medium_freq_createdBy,high_freq_updatedBy,45,1050.0,1
+1,30114802,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,37,1300.0,1
+0,30116827,Development,1,high_freq_createdBy,medium_freq_updatedBy,54,250.0,1
+1,30116128,Development,6,medium_freq_createdBy,high_freq_updatedBy,49,1200.0,1
+1,30114893,Development,17,high_freq_createdBy,high_freq_updatedBy,38,3100.0,1
+1,30114648,Design,19,medium_freq_createdBy,high_freq_updatedBy,36,1550.0,1
+0,30116756,Development,2,medium_freq_createdBy,high_freq_updatedBy,53,100.0,1
+1,30115892,Development,8,medium_freq_createdBy,high_freq_updatedBy,46,2100.0,1
+1,30114803,Development,13,medium_freq_createdBy,high_freq_updatedBy,37,1839.65,1
+0,30116788,Development,1,high_freq_createdBy,medium_freq_updatedBy,53,150.0,1
+1,30115666,Development,7,medium_freq_createdBy,high_freq_updatedBy,44,1800.0,1
+1,30116001,Development,6,high_freq_createdBy,high_freq_updatedBy,48,2250.0,1
+1,30115752,Development,8,medium_freq_createdBy,high_freq_updatedBy,45,2100.0,1
+1,30115866,Development,8,medium_freq_createdBy,high_freq_updatedBy,46,1200.0,1
+0,30116822,Development,0,high_freq_createdBy,medium_freq_updatedBy,54,100.0,1
+0,30116508,Development,10,medium_freq_createdBy,medium_freq_updatedBy,51,150.0,1
+1,30115867,Development,8,medium_freq_createdBy,high_freq_updatedBy,46,1200.0,1
+0,30116728,Development,0,high_freq_createdBy,medium_freq_updatedBy,52,100.0,1
+1,30115262,Development,10,high_freq_createdBy,high_freq_updatedBy,42,1400.0,1
+1,30115756,Development,6,medium_freq_createdBy,high_freq_updatedBy,45,1800.0,1
+0,30116497,Development,0,high_freq_createdBy,medium_freq_updatedBy,51,150.0,1
+0,30115717,Development,10,medium_freq_createdBy,medium_freq_updatedBy,45,500.0,1
+1,30112810,Design,29,medium_freq_createdBy,medium_freq_updatedBy,14,3150.0,1
+1,30114978,Development,8,medium_freq_createdBy,medium_freq_updatedBy,40,1800.0,1
+1,30115523,Development,8,high_freq_createdBy,medium_freq_updatedBy,43,2700.0,1
+1,30112922,Data Science,19,low_freq_createdBy,medium_freq_updatedBy,17,6300.0,1
+0,30116245,Development,0,high_freq_createdBy,medium_freq_updatedBy,50,300.0,1
+0,30116259,Development,0,high_freq_createdBy,medium_freq_updatedBy,50,75.0,1
+1,30113382,Development,22,medium_freq_createdBy,high_freq_updatedBy,23,2750.0,1
+1,30114766,Data Science,12,medium_freq_createdBy,high_freq_updatedBy,37,5950.0,1
+1,30115492,Development,7,high_freq_createdBy,high_freq_updatedBy,43,1500.0,1
+0,30115716,Development,4,medium_freq_createdBy,high_freq_updatedBy,45,250.0,1
+1,30115489,Development,7,high_freq_createdBy,high_freq_updatedBy,43,900.0,1
+1,30115550,Development,5,high_freq_createdBy,high_freq_updatedBy,43,900.0,1
+1,30115788,Development,4,high_freq_createdBy,medium_freq_updatedBy,45,4.0,1
+0,30115718,Development,10,medium_freq_createdBy,high_freq_updatedBy,45,250.0,1
+1,30112926,Design,16,medium_freq_createdBy,medium_freq_updatedBy,17,2750.0,1
+1,30114505,Development,8,high_freq_createdBy,medium_freq_updatedBy,35,1500.0,1
+0,30115261,Development,6,medium_freq_createdBy,high_freq_updatedBy,41,300.0,1
+0,30115951,Development,1,high_freq_createdBy,medium_freq_updatedBy,47,150.0,1
+1,30112630,Design,36,medium_freq_createdBy,high_freq_updatedBy,11,2000.0,1
+1,30115712,Development,3,high_freq_createdBy,high_freq_updatedBy,44,600.0,1
+1,30111693,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,357,1375.0,1
+1,30111692,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,357,1375.0,1
+1,30110013,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,343,1375.0,1
+1,30110012,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,343,1375.0,1
+0,30115954,Development,0,high_freq_createdBy,medium_freq_updatedBy,47,150.0,1
+1,30115500,Quality Assurance,3,medium_freq_createdBy,high_freq_updatedBy,43,600.0,1
+1,30114954,Development,7,high_freq_createdBy,high_freq_updatedBy,39,2100.0,1
+0,30113370,Development,11,medium_freq_createdBy,high_freq_updatedBy,23,350.0,1
+1,30114956,Development,7,medium_freq_createdBy,high_freq_updatedBy,39,600.0,1
+1,30114551,Design,9,medium_freq_createdBy,high_freq_updatedBy,36,500.0,1
+0,30115760,Development,1,high_freq_createdBy,medium_freq_updatedBy,45,400.0,1
+1,30114554,Development,9,medium_freq_createdBy,medium_freq_updatedBy,36,450.0,1
+1,30114378,Quality Assurance,8,medium_freq_createdBy,low_freq_updatedBy,35,450.0,1
+0,30115584,Development,1,high_freq_createdBy,medium_freq_updatedBy,44,100.0,1
+0,30115511,Development,2,medium_freq_createdBy,medium_freq_updatedBy,43,50.0,1
+0,30114988,Development,3,medium_freq_createdBy,high_freq_updatedBy,40,500.0,1
+1,30113598,Design,15,medium_freq_createdBy,high_freq_updatedBy,28,2750.0,1
+0,30115520,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,300.0,1
+1,30113487,Data Science,19,medium_freq_createdBy,high_freq_updatedBy,24,5950.0,1
+0,30115544,Development,9,medium_freq_createdBy,medium_freq_updatedBy,43,200.0,1
+0,30115514,Development,0,high_freq_createdBy,medium_freq_updatedBy,43,150.0,1
+1,30113090,Design,20,medium_freq_createdBy,medium_freq_updatedBy,20,2750.0,1
+1,30114473,Development,8,medium_freq_createdBy,medium_freq_updatedBy,35,1200.0,1
+0,30114672,Development,4,medium_freq_createdBy,high_freq_updatedBy,37,100.0,1
+1,30114674,Development,6,high_freq_createdBy,high_freq_updatedBy,37,1200.0,1
+1,30114835,Development,5,medium_freq_createdBy,high_freq_updatedBy,38,1200.0,1
+1,30114263,Development,8,medium_freq_createdBy,high_freq_updatedBy,33,2250.0,1
+1,30114550,Development,5,medium_freq_createdBy,high_freq_updatedBy,36,900.0,1
+0,30115206,Development,10,high_freq_createdBy,medium_freq_updatedBy,41,100.0,1
+0,30115331,Development,10,high_freq_createdBy,medium_freq_updatedBy,42,100.0,1
+0,30115332,Development,0,high_freq_createdBy,medium_freq_updatedBy,42,100.0,1
+0,30115205,Development,0,medium_freq_createdBy,medium_freq_updatedBy,41,50.0,1
+0,30114918,Development,2,high_freq_createdBy,high_freq_updatedBy,38,100.0,1
+1,30114486,Development,6,high_freq_createdBy,high_freq_updatedBy,35,1200.0,1
+0,30115099,Development,10,high_freq_createdBy,medium_freq_updatedBy,41,200.0,1
+1,30112920,Data Science,19,high_freq_createdBy,high_freq_updatedBy,16,5050.0,1
+1,30110010,Data Science,45,medium_freq_createdBy,high_freq_updatedBy,343,1375.0,1
+0,30114837,Development,1,medium_freq_createdBy,high_freq_updatedBy,38,200.0,1
+1,30114543,Development,5,high_freq_createdBy,high_freq_updatedBy,35,1200.0,1
+0,30114792,Development,1,medium_freq_createdBy,high_freq_updatedBy,37,150.0,1
+1,30114259,Development,7,medium_freq_createdBy,high_freq_updatedBy,32,1050.0,1
+1,30113495,Design,15,medium_freq_createdBy,high_freq_updatedBy,25,2000.0,1
+0,30114791,Development,10,medium_freq_createdBy,high_freq_updatedBy,37,150.0,1
+0,30114870,Development,1,high_freq_createdBy,high_freq_updatedBy,38,300.0,1
+0,30114675,Development,10,high_freq_createdBy,high_freq_updatedBy,37,250.0,1
+0,30114926,Development,0,high_freq_createdBy,medium_freq_updatedBy,39,100.0,1
+0,30114919,Development,10,high_freq_createdBy,medium_freq_updatedBy,38,60.0,1
+0,30114920,Development,10,high_freq_createdBy,medium_freq_updatedBy,38,60.0,1
+0,30114730,Development,10,high_freq_createdBy,high_freq_updatedBy,37,300.0,1
+1,30114542,Development,2,high_freq_createdBy,high_freq_updatedBy,35,600.0,1
+1,30114007,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,31,1282.0,1
+1,30113997,Development,7,medium_freq_createdBy,high_freq_updatedBy,30,900.0,1
+1,30114285,Development,4,medium_freq_createdBy,high_freq_updatedBy,33,900.0,1
+0,30113944,Development,0,high_freq_createdBy,high_freq_updatedBy,30,100.0,1
+1,30113988,Development,7,medium_freq_createdBy,high_freq_updatedBy,30,900.0,1
+1,30113334,Development,8,medium_freq_createdBy,medium_freq_updatedBy,22,2100.0,1
+1,30113785,Development,7,high_freq_createdBy,medium_freq_updatedBy,29,2100.0,1
+1,30113345,Development,9,medium_freq_createdBy,high_freq_updatedBy,23,1922.8,1
+0,30114555,Development,0,medium_freq_createdBy,medium_freq_updatedBy,36,100.0,1
+1,30113343,Quality Assurance,12,medium_freq_createdBy,high_freq_updatedBy,23,1359.0,1
+1,30111738,Data Science,31,medium_freq_createdBy,high_freq_updatedBy,357,5950.0,1
+1,30113164,Development,13,medium_freq_createdBy,high_freq_updatedBy,21,900.0,1
+0,30113513,Development,7,medium_freq_createdBy,high_freq_updatedBy,27,200.0,1
+0,30113943,Development,5,high_freq_createdBy,high_freq_updatedBy,30,300.0,1
+1,30113892,Development,5,medium_freq_createdBy,high_freq_updatedBy,29,1200.0,1
+0,30113508,Development,8,high_freq_createdBy,medium_freq_updatedBy,26,150.0,1
+0,30114311,Development,0,high_freq_createdBy,medium_freq_updatedBy,34,175.0,1
+0,30113681,Development,4,medium_freq_createdBy,high_freq_updatedBy,28,150.0,1
+1,30113482,Development,9,medium_freq_createdBy,high_freq_updatedBy,24,2400.0,1
+1,30113597,Quality Assurance,5,medium_freq_createdBy,medium_freq_updatedBy,28,415.0,1
+1,30113877,Development,3,medium_freq_createdBy,high_freq_updatedBy,29,600.0,1
+1,30113503,Development,7,medium_freq_createdBy,high_freq_updatedBy,25,1800.0,1
+0,30113935,Development,2,high_freq_createdBy,high_freq_updatedBy,30,250.0,1
+1,30113625,Quality Assurance,4,medium_freq_createdBy,high_freq_updatedBy,28,625.0,1
+1,30111446,Design,44,medium_freq_createdBy,high_freq_updatedBy,352,1550.0,1
+1,30110011,Data Science,45,medium_freq_createdBy,high_freq_updatedBy,343,1375.0,1
+0,30113494,Development,6,medium_freq_createdBy,medium_freq_updatedBy,25,800.0,1
+1,30113160,Design,10,medium_freq_createdBy,high_freq_updatedBy,20,1550.0,1
+1,30111358,Data Science,36,medium_freq_createdBy,medium_freq_updatedBy,351,11500.0,1
+1,30108038,Data Science,65,medium_freq_createdBy,high_freq_updatedBy,329,1375.0,1
+1,30108037,Data Science,65,medium_freq_createdBy,high_freq_updatedBy,329,1375.0,1
+1,30113391,Development,6,medium_freq_createdBy,high_freq_updatedBy,23,600.0,1
+1,30111357,Data Science,39,medium_freq_createdBy,medium_freq_updatedBy,351,5950.0,1
+1,30113264,Development,7,high_freq_createdBy,high_freq_updatedBy,22,900.0,1
+1,30111726,Design,36,medium_freq_createdBy,high_freq_updatedBy,357,2000.0,1
+1,30109464,Development,9,low_freq_createdBy,low_freq_updatedBy,340,600.0,1
+1,30112930,Development,11,medium_freq_createdBy,high_freq_updatedBy,17,2100.0,1
+1,30113181,Development,7,high_freq_createdBy,high_freq_updatedBy,21,610.0,1
+1,30112236,Design,20,medium_freq_createdBy,high_freq_updatedBy,2,2000.0,1
+1,30112950,Quality Assurance,10,medium_freq_createdBy,high_freq_updatedBy,17,1250.0,1
+1,30112623,Design,17,medium_freq_createdBy,high_freq_updatedBy,10,1550.0,1
+1,30113401,Development,4,medium_freq_createdBy,high_freq_updatedBy,23,1200.0,1
+1,30088255,Design,18,medium_freq_createdBy,medium_freq_updatedBy,99,3750.0,1
+1,30112567,Development,13,medium_freq_createdBy,high_freq_updatedBy,9,1804.3,1
+0,30112907,Design,10,medium_freq_createdBy,high_freq_updatedBy,16,400.0,1
+0,30113425,Development,9,high_freq_createdBy,high_freq_updatedBy,24,200.0,1
+1,30113241,Development,4,high_freq_createdBy,high_freq_updatedBy,21,900.0,1
+1,30113238,Design,4,medium_freq_createdBy,medium_freq_updatedBy,21,200.0,1
+1,30113048,Development,8,high_freq_createdBy,high_freq_updatedBy,18,1050.0,1
+0,30113381,Development,10,medium_freq_createdBy,high_freq_updatedBy,23,150.0,1
+1,30113052,Development,6,high_freq_createdBy,high_freq_updatedBy,18,600.0,1
+1,30113029,Development,7,medium_freq_createdBy,high_freq_updatedBy,17,1800.0,1
+0,30113492,Development,10,high_freq_createdBy,medium_freq_updatedBy,25,50.0,1
+0,30113254,Development,3,high_freq_createdBy,high_freq_updatedBy,22,350.0,1
+1,30113051,Development,6,high_freq_createdBy,high_freq_updatedBy,18,1200.0,1
+0,30113148,Development,10,medium_freq_createdBy,high_freq_updatedBy,20,150.0,1
+1,30112566,Quality Assurance,14,medium_freq_createdBy,high_freq_updatedBy,9,1550.0,1
+0,30113369,Development,10,high_freq_createdBy,high_freq_updatedBy,23,100.0,1
+1,30110916,Design,40,medium_freq_createdBy,medium_freq_updatedBy,347,2000.0,1
+0,30113032,Development,10,medium_freq_createdBy,high_freq_updatedBy,18,200.0,1
+1,30112925,Development,6,high_freq_createdBy,high_freq_updatedBy,17,1200.0,1
+1,30112927,Development,5,medium_freq_createdBy,high_freq_updatedBy,17,1050.0,1
+1,30112583,Data Science,12,medium_freq_createdBy,high_freq_updatedBy,9,1800.0,1
+1,30103825,Data Science,41,low_freq_createdBy,high_freq_updatedBy,276,25000.0,1
+1,30111804,Design,28,medium_freq_createdBy,high_freq_updatedBy,358,2750.0,1
+1,30112857,Development,6,medium_freq_createdBy,high_freq_updatedBy,16,900.0,1
+1,30112672,Development,8,high_freq_createdBy,high_freq_updatedBy,13,1200.0,1
+0,30113057,Development,3,high_freq_createdBy,medium_freq_updatedBy,19,200.0,1
+1,30112681,Development,8,medium_freq_createdBy,medium_freq_updatedBy,13,900.0,1
+1,30111095,Development,28,medium_freq_createdBy,high_freq_updatedBy,349,900.0,1
+1,30108036,Data Science,55,medium_freq_createdBy,high_freq_updatedBy,329,1375.0,1
+1,30108035,Data Science,55,medium_freq_createdBy,high_freq_updatedBy,329,1375.0,1
+1,30106341,Data Science,69,medium_freq_createdBy,high_freq_updatedBy,315,1375.0,1
+0,30113096,Development,10,medium_freq_createdBy,medium_freq_updatedBy,20,200.0,1
+1,30106340,Data Science,69,medium_freq_createdBy,high_freq_updatedBy,315,1375.0,1
+1,30112234,Design,17,medium_freq_createdBy,high_freq_updatedBy,2,2000.0,1
+1,30112702,Development,6,high_freq_createdBy,high_freq_updatedBy,13,900.0,1
+1,30112802,Development,4,medium_freq_createdBy,high_freq_updatedBy,14,2250.0,1
+1,30112499,Development,10,low_freq_createdBy,high_freq_updatedBy,8,1350.0,1
+1,30112569,Development,8,medium_freq_createdBy,high_freq_updatedBy,9,1200.0,1
+0,30112913,Development,10,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+1,30112625,Development,7,high_freq_createdBy,high_freq_updatedBy,11,1350.0,1
+1,30107639,Quality Assurance,30,medium_freq_createdBy,medium_freq_updatedBy,326,1.0,1
+0,30112932,Development,0,medium_freq_createdBy,high_freq_updatedBy,17,250.0,1
+1,30111946,Design,12,high_freq_createdBy,medium_freq_updatedBy,361,1800.0,1
+1,30112535,Design,8,medium_freq_createdBy,high_freq_updatedBy,9,2750.0,1
+1,30112534,Design,8,medium_freq_createdBy,high_freq_updatedBy,9,2000.0,1
+0,30112832,Development,1,medium_freq_createdBy,high_freq_updatedBy,15,100.0,1
+0,30112241,Design,8,medium_freq_createdBy,high_freq_updatedBy,2,300.0,1
+0,30112633,Development,4,high_freq_createdBy,high_freq_updatedBy,12,50.0,1
+0,30112856,Development,10,high_freq_createdBy,high_freq_updatedBy,16,150.0,1
+1,30111105,Data Science,12,medium_freq_createdBy,high_freq_updatedBy,349,3400.0,1
+1,30112574,Development,6,high_freq_createdBy,high_freq_updatedBy,9,900.0,1
+1,30109230,Data Science,40,medium_freq_createdBy,high_freq_updatedBy,339,10000.0,1
+1,30110483,Design,33,medium_freq_createdBy,high_freq_updatedBy,345,2000.0,1
+1,30110470,Design,33,medium_freq_createdBy,high_freq_updatedBy,345,2000.0,1
+1,30111443,Development,7,medium_freq_createdBy,high_freq_updatedBy,352,2100.0,1
+1,30112418,Development,6,medium_freq_createdBy,high_freq_updatedBy,7,700.0,1
+1,30109228,Data Science,38,medium_freq_createdBy,high_freq_updatedBy,339,10000.0,1
+0,30112636,Development,1,high_freq_createdBy,high_freq_updatedBy,12,200.0,1
+0,30112635,Development,1,high_freq_createdBy,high_freq_updatedBy,12,100.0,1
+0,30112673,Development,0,medium_freq_createdBy,high_freq_updatedBy,13,75.0,1
+1,30109373,Data Science,38,medium_freq_createdBy,medium_freq_updatedBy,339,20000.0,1
+1,30109461,Design,38,medium_freq_createdBy,high_freq_updatedBy,340,2000.0,1
+1,30112293,Development,7,medium_freq_createdBy,low_freq_updatedBy,3,1200.0,1
+0,30112509,Development,4,medium_freq_createdBy,high_freq_updatedBy,8,200.0,1
+0,30112661,Development,10,high_freq_createdBy,high_freq_updatedBy,13,50.0,1
+1,30112578,Development,3,high_freq_createdBy,high_freq_updatedBy,9,600.0,1
+0,30112510,Development,4,high_freq_createdBy,high_freq_updatedBy,8,300.0,1
+1,30112325,Development,7,medium_freq_createdBy,high_freq_updatedBy,5,1500.0,1
+1,30111456,Design,24,medium_freq_createdBy,high_freq_updatedBy,353,2000.0,1
+0,30112601,Development,2,high_freq_createdBy,high_freq_updatedBy,10,100.0,1
+0,30112631,Development,9,high_freq_createdBy,high_freq_updatedBy,11,100.0,1
+0,30112524,Development,1,medium_freq_createdBy,high_freq_updatedBy,8,600.0,1
+0,30112560,Development,1,high_freq_createdBy,high_freq_updatedBy,9,100.0,1
+1,30112184,Development,8,high_freq_createdBy,high_freq_updatedBy,1,1800.0,1
+0,30112600,Development,0,high_freq_createdBy,medium_freq_updatedBy,10,300.0,1
+1,30112181,Quality Assurance,10,medium_freq_createdBy,high_freq_updatedBy,365,500.0,1
+1,30112299,Development,6,high_freq_createdBy,high_freq_updatedBy,4,1350.0,1
+1,30110931,Data Science,25,medium_freq_createdBy,high_freq_updatedBy,347,5950.0,1
+0,30104353,Development,0,high_freq_createdBy,medium_freq_updatedBy,288,75.0,1
+0,30103963,Development,1,high_freq_createdBy,medium_freq_updatedBy,281,65.0,1
+0,30104425,Development,0,high_freq_createdBy,medium_freq_updatedBy,289,150.0,1
+0,30104489,Development,0,high_freq_createdBy,medium_freq_updatedBy,290,80.0,1
+0,30104491,Development,10,high_freq_createdBy,medium_freq_updatedBy,290,80.0,1
+0,30104492,Development,0,high_freq_createdBy,medium_freq_updatedBy,290,50.0,1
+0,30104739,Development,6,high_freq_createdBy,medium_freq_updatedBy,295,350.0,1
+0,30104831,Development,0,high_freq_createdBy,medium_freq_updatedBy,296,150.0,1
+0,30104897,Development,0,high_freq_createdBy,medium_freq_updatedBy,296,100.0,1
+0,30105063,Development,1,high_freq_createdBy,medium_freq_updatedBy,297,100.0,1
+0,30105064,Development,1,high_freq_createdBy,medium_freq_updatedBy,297,150.0,1
+0,30105640,Development,10,high_freq_createdBy,medium_freq_updatedBy,305,100.0,1
+0,30105642,Development,2,high_freq_createdBy,medium_freq_updatedBy,305,100.0,1
+0,30105755,Development,10,high_freq_createdBy,medium_freq_updatedBy,309,100.0,1
+0,30105882,Development,1,high_freq_createdBy,medium_freq_updatedBy,311,100.0,1
+0,30105911,Development,1,high_freq_createdBy,medium_freq_updatedBy,311,150.0,1
+0,30106069,Development,10,high_freq_createdBy,medium_freq_updatedBy,312,125.0,1
+0,30107353,Development,2,high_freq_createdBy,medium_freq_updatedBy,324,200.0,1
+0,30108163,Development,9,high_freq_createdBy,medium_freq_updatedBy,330,250.0,1
+0,30108441,Development,0,high_freq_createdBy,medium_freq_updatedBy,332,100.0,1
+0,30108867,Development,0,high_freq_createdBy,medium_freq_updatedBy,337,175.0,1
+0,30109255,Development,1,high_freq_createdBy,medium_freq_updatedBy,339,150.0,1
+0,30109319,Development,1,high_freq_createdBy,medium_freq_updatedBy,339,150.0,1
+0,30109902,Development,1,high_freq_createdBy,medium_freq_updatedBy,343,250.0,1
+0,30109948,Development,0,high_freq_createdBy,medium_freq_updatedBy,343,50.0,1
+0,30110615,Development,3,high_freq_createdBy,medium_freq_updatedBy,346,150.0,1
+0,30111133,Development,0,high_freq_createdBy,medium_freq_updatedBy,350,65.0,1
+0,30111432,Development,3,high_freq_createdBy,medium_freq_updatedBy,352,300.0,1
+0,30111622,Development,4,high_freq_createdBy,medium_freq_updatedBy,355,175.0,1
+0,30111699,Development,0,high_freq_createdBy,medium_freq_updatedBy,357,100.0,1
+0,30111812,Development,0,high_freq_createdBy,medium_freq_updatedBy,359,75.0,1
+0,30112454,Development,0,high_freq_createdBy,medium_freq_updatedBy,7,400.0,1
+0,30112477,Development,10,low_freq_createdBy,high_freq_updatedBy,7,15.0,1
+0,30110986,Development,9,medium_freq_createdBy,high_freq_updatedBy,348,750.0,1
+1,30112232,Development,6,medium_freq_createdBy,high_freq_updatedBy,2,1200.0,1
+1,30111811,Quality Assurance,15,medium_freq_createdBy,medium_freq_updatedBy,359,1350.0,1
+1,30112189,Development,7,high_freq_createdBy,high_freq_updatedBy,1,1200.0,1
+1,30112115,Quality Assurance,8,medium_freq_createdBy,high_freq_updatedBy,364,500.0,1
+1,30111644,Development,8,medium_freq_createdBy,high_freq_updatedBy,355,1711.5,1
+0,30112320,Development,3,high_freq_createdBy,high_freq_updatedBy,4,600.0,1
+1,30111643,Quality Assurance,11,medium_freq_createdBy,high_freq_updatedBy,355,2000.0,1
+1,30109376,Data Science,31,medium_freq_createdBy,medium_freq_updatedBy,339,10000.0,1
+1,30110632,Data Science,10,medium_freq_createdBy,high_freq_updatedBy,346,0.0,1
+0,30111546,Development,16,medium_freq_createdBy,high_freq_updatedBy,354,1200.0,1
+1,30111996,Design,8,medium_freq_createdBy,high_freq_updatedBy,361,5750.0,1
+1,30111938,Development,8,medium_freq_createdBy,high_freq_updatedBy,360,2100.0,1
+1,30106339,Data Science,53,medium_freq_createdBy,high_freq_updatedBy,315,1375.0,1
+1,30106338,Data Science,53,medium_freq_createdBy,high_freq_updatedBy,315,1375.0,1
+0,30112200,Development,2,medium_freq_createdBy,high_freq_updatedBy,2,100.0,1
+1,30105244,Data Science,67,medium_freq_createdBy,high_freq_updatedBy,301,1375.0,1
+1,30105243,Data Science,67,medium_freq_createdBy,high_freq_updatedBy,301,1375.0,1
+1,30112025,Development,6,medium_freq_createdBy,high_freq_updatedBy,363,900.0,1
+1,30111809,Quality Assurance,10,medium_freq_createdBy,medium_freq_updatedBy,358,600.0,1
+1,30111724,Development,9,high_freq_createdBy,high_freq_updatedBy,357,900.0,1
+1,30111837,Development,6,medium_freq_createdBy,high_freq_updatedBy,360,1500.0,1
+1,30111978,Development,7,medium_freq_createdBy,high_freq_updatedBy,361,1500.0,1
+1,30112031,Development,4,medium_freq_createdBy,high_freq_updatedBy,363,900.0,1
+1,30110823,Development,18,medium_freq_createdBy,high_freq_updatedBy,347,900.0,1
+1,30112014,Quality Assurance,5,high_freq_createdBy,medium_freq_updatedBy,362,460.0,1
+1,30111831,Development,6,high_freq_createdBy,high_freq_updatedBy,360,1500.0,1
+0,30112187,Development,0,high_freq_createdBy,high_freq_updatedBy,1,300.0,1
+0,30112185,Development,10,medium_freq_createdBy,high_freq_updatedBy,1,60.0,1
+0,30112119,Development,1,medium_freq_createdBy,high_freq_updatedBy,365,170.0,1
+1,30108777,Development,29,medium_freq_createdBy,high_freq_updatedBy,336,0.0,1
+1,30110295,Data Science,19,medium_freq_createdBy,high_freq_updatedBy,345,5950.0,1
+0,30112117,Development,0,medium_freq_createdBy,high_freq_updatedBy,365,80.0,1
+1,30110353,Design,19,medium_freq_createdBy,high_freq_updatedBy,345,2750.0,1
+1,30111513,Development,8,medium_freq_createdBy,medium_freq_updatedBy,353,1300.0,1
+1,30111816,Quality Assurance,4,high_freq_createdBy,high_freq_updatedBy,359,442.0,1
+1,30111607,Development,8,medium_freq_createdBy,high_freq_updatedBy,354,2100.0,1
+1,30111526,Development,8,medium_freq_createdBy,high_freq_updatedBy,354,2100.0,1
+0,30111107,Development,12,medium_freq_createdBy,medium_freq_updatedBy,350,150.0,1
+1,30111394,Development,10,medium_freq_createdBy,high_freq_updatedBy,352,1275.0,1
+1,30111682,Development,4,medium_freq_createdBy,high_freq_updatedBy,356,1200.0,1
+1,30111815,Quality Assurance,3,high_freq_createdBy,high_freq_updatedBy,359,452.0,1
+1,30111814,Quality Assurance,3,high_freq_createdBy,high_freq_updatedBy,359,500.0,1
+1,30111612,Development,7,medium_freq_createdBy,high_freq_updatedBy,355,1200.0,1
+1,30111618,Development,7,medium_freq_createdBy,high_freq_updatedBy,355,1200.0,1
+1,30108194,Design,30,medium_freq_createdBy,high_freq_updatedBy,331,2750.0,1
+1,30111426,Development,8,medium_freq_createdBy,high_freq_updatedBy,352,1200.0,1
+1,30105762,Development,7,medium_freq_createdBy,medium_freq_updatedBy,309,900.0,1
+1,30107427,Design,33,medium_freq_createdBy,high_freq_updatedBy,324,2750.0,1
+1,30111527,Development,4,medium_freq_createdBy,medium_freq_updatedBy,354,1020.0,1
+1,30111329,Development,7,high_freq_createdBy,high_freq_updatedBy,351,1200.0,1
+1,30109404,Design,18,medium_freq_createdBy,high_freq_updatedBy,339,1550.0,1
+1,30111408,Development,5,medium_freq_createdBy,high_freq_updatedBy,352,150.0,1
+1,30111407,Development,5,medium_freq_createdBy,high_freq_updatedBy,352,150.0,1
+1,30111406,Development,5,medium_freq_createdBy,high_freq_updatedBy,352,150.0,1
+1,30111336,Development,6,high_freq_createdBy,high_freq_updatedBy,351,1200.0,1
+1,30111405,Development,5,medium_freq_createdBy,high_freq_updatedBy,352,150.0,1
+1,30111412,Development,5,medium_freq_createdBy,high_freq_updatedBy,352,150.0,1
+0,30111486,Development,4,medium_freq_createdBy,high_freq_updatedBy,353,500.0,1
+1,30105242,Data Science,56,medium_freq_createdBy,high_freq_updatedBy,301,1375.0,1
+1,30105241,Data Science,56,medium_freq_createdBy,high_freq_updatedBy,301,1375.0,1
+1,30104320,Data Science,69,medium_freq_createdBy,high_freq_updatedBy,287,1375.0,1
+1,30104319,Data Science,69,medium_freq_createdBy,high_freq_updatedBy,287,1375.0,1
+1,30111335,Development,5,high_freq_createdBy,high_freq_updatedBy,351,1200.0,1
+1,30110634,Development,6,medium_freq_createdBy,high_freq_updatedBy,346,2751.55,1
+1,30110974,Development,8,medium_freq_createdBy,high_freq_updatedBy,348,1500.0,1
+1,30110926,Development,9,medium_freq_createdBy,high_freq_updatedBy,347,1800.0,1
+1,30111328,Development,4,high_freq_createdBy,high_freq_updatedBy,351,600.0,1
+1,30111106,Development,5,medium_freq_createdBy,high_freq_updatedBy,350,2100.0,1
+1,30111274,Development,4,high_freq_createdBy,high_freq_updatedBy,351,900.0,1
+1,30109523,Development,14,medium_freq_createdBy,high_freq_updatedBy,340,2100.0,1
+0,30111356,Development,3,medium_freq_createdBy,high_freq_updatedBy,351,150.0,1
+0,30111401,Development,10,high_freq_createdBy,high_freq_updatedBy,352,300.0,1
+1,30109215,Design,15,medium_freq_createdBy,high_freq_updatedBy,338,250.0,1
+0,30111348,Development,10,medium_freq_createdBy,high_freq_updatedBy,351,180.0,1
+1,30110631,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,346,2000.0,1
+0,30111108,Development,4,high_freq_createdBy,high_freq_updatedBy,350,400.0,1
+1,30104317,Data Science,66,medium_freq_createdBy,high_freq_updatedBy,287,1375.0,1
+1,30104318,Data Science,66,medium_freq_createdBy,high_freq_updatedBy,287,1375.0,1
+1,30106903,Design,34,medium_freq_createdBy,high_freq_updatedBy,319,2750.0,1
+1,30103744,Data Science,79,medium_freq_createdBy,high_freq_updatedBy,273,1375.0,1
+1,30103745,Data Science,79,medium_freq_createdBy,high_freq_updatedBy,274,1375.0,1
+1,30110598,Development,6,medium_freq_createdBy,high_freq_updatedBy,346,1200.0,1
+1,30107575,Design,27,medium_freq_createdBy,high_freq_updatedBy,325,2000.0,1
+1,30107461,Data Science,16,medium_freq_createdBy,medium_freq_updatedBy,324,0.0,1
+1,30109428,Development,12,medium_freq_createdBy,high_freq_updatedBy,340,2400.0,1
+0,30111327,Development,0,high_freq_createdBy,high_freq_updatedBy,351,100.0,1
+0,30109423,Development,10,high_freq_createdBy,medium_freq_updatedBy,340,300.0,1
+1,30109429,Development,11,medium_freq_createdBy,high_freq_updatedBy,340,2400.0,1
+1,30108356,Design,19,medium_freq_createdBy,high_freq_updatedBy,331,2750.0,1
+1,30109229,Development,11,medium_freq_createdBy,high_freq_updatedBy,339,3100.0,1
+1,30109582,Design,9,medium_freq_createdBy,medium_freq_updatedBy,341,1550.0,1
+1,30110559,Development,4,high_freq_createdBy,high_freq_updatedBy,346,900.0,1
+1,30109573,Design,8,medium_freq_createdBy,high_freq_updatedBy,341,5750.0,1
+1,30110225,Design,4,medium_freq_createdBy,high_freq_updatedBy,345,250.0,1
+1,30109445,Development,8,medium_freq_createdBy,high_freq_updatedBy,340,1800.0,1
+1,30109424,Development,8,medium_freq_createdBy,high_freq_updatedBy,340,1800.0,1
+1,30108593,Development,16,medium_freq_createdBy,high_freq_updatedBy,333,350.0,1
+1,30110114,Development,2,medium_freq_createdBy,medium_freq_updatedBy,344,125.0,1
+1,30109460,Development,2,medium_freq_createdBy,high_freq_updatedBy,340,250.0,1
+0,30110921,Development,10,high_freq_createdBy,high_freq_updatedBy,347,150.0,1
+0,30110633,Development,10,medium_freq_createdBy,high_freq_updatedBy,346,500.0,1
+1,30109100,Development,8,high_freq_createdBy,high_freq_updatedBy,338,2500.0,1
+0,30109089,Development,8,high_freq_createdBy,high_freq_updatedBy,338,200.0,1
+1,30108355,Development,10,medium_freq_createdBy,high_freq_updatedBy,331,2928.85,1
+1,30109099,Development,8,high_freq_createdBy,high_freq_updatedBy,338,2500.0,1
+1,30109341,Development,7,medium_freq_createdBy,high_freq_updatedBy,339,1400.0,1
+1,30109575,Development,5,medium_freq_createdBy,high_freq_updatedBy,341,1200.0,1
+1,30108902,Development,6,medium_freq_createdBy,low_freq_updatedBy,337,1100.0,1
+1,30109576,Development,5,medium_freq_createdBy,high_freq_updatedBy,341,1500.0,1
+1,30107821,Design,19,medium_freq_createdBy,high_freq_updatedBy,327,2750.0,1
+1,30107014,Design,23,medium_freq_createdBy,high_freq_updatedBy,322,2750.0,1
+1,30108620,Development,7,medium_freq_createdBy,high_freq_updatedBy,335,1800.0,1
+1,30109219,Design,6,medium_freq_createdBy,high_freq_updatedBy,338,5750.0,1
+1,30108353,Development,12,medium_freq_createdBy,high_freq_updatedBy,331,2000.0,1
+1,30107759,Design,18,medium_freq_createdBy,high_freq_updatedBy,326,2750.0,1
+1,30109411,Development,4,medium_freq_createdBy,high_freq_updatedBy,339,750.0,1
+0,30109402,Development,4,medium_freq_createdBy,high_freq_updatedBy,339,100.0,1
+0,30109813,Development,1,high_freq_createdBy,high_freq_updatedBy,342,150.0,1
+1,30108612,Development,8,medium_freq_createdBy,high_freq_updatedBy,334,1200.0,1
+0,30109422,Development,4,high_freq_createdBy,medium_freq_updatedBy,340,100.0,1
+0,30109391,Development,4,high_freq_createdBy,high_freq_updatedBy,339,100.0,1
+1,30109406,Development,3,high_freq_createdBy,high_freq_updatedBy,339,900.0,1
+0,30109380,Development,10,high_freq_createdBy,high_freq_updatedBy,339,100.0,1
+1,30108611,Development,7,medium_freq_createdBy,high_freq_updatedBy,334,1200.0,1
+1,30100149,Data Science,17,medium_freq_createdBy,medium_freq_updatedBy,235,0.0,1
+1,30108558,Development,8,medium_freq_createdBy,medium_freq_updatedBy,333,1800.0,1
+1,30108102,Development,11,medium_freq_createdBy,high_freq_updatedBy,330,1150.0,1
+1,30108372,Development,8,medium_freq_createdBy,high_freq_updatedBy,332,825.0,1
+1,30108600,Development,5,medium_freq_createdBy,high_freq_updatedBy,334,2100.0,1
+1,30108374,Development,7,medium_freq_createdBy,high_freq_updatedBy,332,1200.0,1
+0,30107926,Development,10,medium_freq_createdBy,high_freq_updatedBy,328,450.0,1
+1,30107754,Development,10,medium_freq_createdBy,high_freq_updatedBy,326,2500.0,1
+1,30103000,Development,8,medium_freq_createdBy,low_freq_updatedBy,262,600.0,1
+0,30109083,Development,10,low_freq_createdBy,high_freq_updatedBy,338,30.0,1
+1,30108491,Development,6,medium_freq_createdBy,high_freq_updatedBy,333,900.0,1
+1,30108352,Development,6,medium_freq_createdBy,high_freq_updatedBy,331,900.0,1
+0,30108868,Development,10,high_freq_createdBy,high_freq_updatedBy,337,100.0,1
+1,30107267,Development,8,medium_freq_createdBy,medium_freq_updatedBy,323,1400.0,1
+1,30103841,Development,5,medium_freq_createdBy,medium_freq_updatedBy,276,900.0,1
+1,30107961,Development,6,high_freq_createdBy,high_freq_updatedBy,329,1200.0,1
+0,30108609,Development,1,medium_freq_createdBy,high_freq_updatedBy,334,1000.0,1
+1,30107642,Development,9,medium_freq_createdBy,high_freq_updatedBy,326,825.0,1
+1,30107067,Development,8,medium_freq_createdBy,high_freq_updatedBy,323,2100.0,1
+1,30107425,Development,9,medium_freq_createdBy,medium_freq_updatedBy,324,1200.0,1
+1,30108341,Development,2,medium_freq_createdBy,high_freq_updatedBy,331,1200.0,1
+1,30107574,Development,8,medium_freq_createdBy,high_freq_updatedBy,325,1400.0,1
+1,30105578,Design,28,medium_freq_createdBy,high_freq_updatedBy,304,2750.0,1
+1,30106141,Design,20,low_freq_createdBy,high_freq_updatedBy,312,2000.0,1
+1,30107057,Development,8,medium_freq_createdBy,medium_freq_updatedBy,322,1800.0,1
+1,30106752,Development,13,medium_freq_createdBy,medium_freq_updatedBy,318,3050.0,1
+1,30106694,Development,8,high_freq_createdBy,medium_freq_updatedBy,318,1200.0,1
+1,30107063,Development,8,medium_freq_createdBy,high_freq_updatedBy,323,1800.0,1
+1,30107225,Development,7,high_freq_createdBy,high_freq_updatedBy,323,1800.0,1
+1,30105831,Design,21,medium_freq_createdBy,low_freq_updatedBy,310,850.0,1
+1,30107737,Development,4,high_freq_createdBy,high_freq_updatedBy,326,900.0,1
+1,30106322,Development,15,medium_freq_createdBy,high_freq_updatedBy,315,650.0,1
+1,30106924,Development,9,medium_freq_createdBy,high_freq_updatedBy,320,695.0,1
+0,30107530,Development,4,high_freq_createdBy,high_freq_updatedBy,325,200.0,1
+1,30105898,Development,15,medium_freq_createdBy,medium_freq_updatedBy,311,1350.0,1
+1,30106385,Development,7,medium_freq_createdBy,high_freq_updatedBy,316,3087.5,1
+1,30107572,Development,3,medium_freq_createdBy,high_freq_updatedBy,325,900.0,1
+1,30104784,Data Science,20,medium_freq_createdBy,high_freq_updatedBy,295,12000.0,1
+1,30106383,Development,10,medium_freq_createdBy,high_freq_updatedBy,316,1916.5,1
+1,30103847,Data Science,37,medium_freq_createdBy,high_freq_updatedBy,276,10000.0,1
+1,30105410,Design,22,medium_freq_createdBy,high_freq_updatedBy,303,2750.0,1
+1,30104416,Data Science,36,medium_freq_createdBy,medium_freq_updatedBy,288,10000.0,1
+1,30106606,Development,8,high_freq_createdBy,high_freq_updatedBy,317,1500.0,1
+1,30106588,Development,7,high_freq_createdBy,high_freq_updatedBy,317,750.0,1
+1,30105169,Design,25,medium_freq_createdBy,high_freq_updatedBy,299,2000.0,1
+1,30106916,Design,11,medium_freq_createdBy,medium_freq_updatedBy,320,0.0,1
+1,30106897,Design,11,medium_freq_createdBy,medium_freq_updatedBy,319,0.0,1
+1,30106762,Design,11,medium_freq_createdBy,medium_freq_updatedBy,318,0.0,1
+1,30106770,Design,11,medium_freq_createdBy,medium_freq_updatedBy,318,0.0,1
+1,30105733,Design,17,medium_freq_createdBy,medium_freq_updatedBy,308,0.0,1
+1,30105833,Development,12,medium_freq_createdBy,high_freq_updatedBy,310,2400.0,1
+0,30106508,Development,10,high_freq_createdBy,high_freq_updatedBy,316,400.0,1
+1,30104182,Development,32,medium_freq_createdBy,high_freq_updatedBy,284,23000.0,1
+1,30103846,Data Science,34,medium_freq_createdBy,high_freq_updatedBy,276,10000.0,1
+1,30105580,Development,9,medium_freq_createdBy,medium_freq_updatedBy,304,3000.0,1
+1,30106540,Development,5,medium_freq_createdBy,high_freq_updatedBy,316,600.0,1
+1,30105830,Development,9,medium_freq_createdBy,high_freq_updatedBy,310,975.0,1
+1,30105829,Development,8,medium_freq_createdBy,medium_freq_updatedBy,310,900.0,1
+1,30105409,Development,10,medium_freq_createdBy,high_freq_updatedBy,303,2725.7,1
+1,30076384,Development,4,low_freq_createdBy,high_freq_updatedBy,341,1050.0,1
+1,30105408,Development,12,medium_freq_createdBy,high_freq_updatedBy,303,1909.5,1
+1,30105878,Development,6,medium_freq_createdBy,high_freq_updatedBy,311,1200.0,1
+0,30105871,Development,2,medium_freq_createdBy,high_freq_updatedBy,310,300.0,1
+1,30104419,Design,21,medium_freq_createdBy,high_freq_updatedBy,289,2750.0,1
+1,30105832,Development,6,high_freq_createdBy,high_freq_updatedBy,310,1200.0,1
+1,30104817,Design,20,medium_freq_createdBy,high_freq_updatedBy,295,1550.0,1
+0,30106195,Development,1,high_freq_createdBy,high_freq_updatedBy,315,250.0,1
+0,30106139,Development,10,medium_freq_createdBy,medium_freq_updatedBy,312,300.0,1
+0,30106100,Development,9,medium_freq_createdBy,high_freq_updatedBy,312,400.0,1
+0,30106140,Development,0,medium_freq_createdBy,high_freq_updatedBy,312,450.0,1
+0,30105869,Development,2,medium_freq_createdBy,high_freq_updatedBy,310,250.0,1
+0,30105868,Development,3,medium_freq_createdBy,high_freq_updatedBy,310,200.0,1
+1,30105692,Development,5,medium_freq_createdBy,high_freq_updatedBy,306,1200.0,1
+0,30104828,Development,6,medium_freq_createdBy,high_freq_updatedBy,296,300.0,1
+1,30105597,Development,7,low_freq_createdBy,medium_freq_updatedBy,304,1100.0,1
+1,30105015,Development,9,medium_freq_createdBy,low_freq_updatedBy,296,1200.0,1
+1,30104621,Development,18,medium_freq_createdBy,high_freq_updatedBy,292,4950.0,1
+1,30105130,Development,8,medium_freq_createdBy,high_freq_updatedBy,298,2100.0,1
+1,30105166,Development,7,medium_freq_createdBy,high_freq_updatedBy,299,1800.0,1
+1,30105556,Development,5,high_freq_createdBy,high_freq_updatedBy,304,1200.0,1
+1,30094205,Data Science,116,medium_freq_createdBy,medium_freq_updatedBy,175,92500.0,1
+0,30105413,Development,2,high_freq_createdBy,high_freq_updatedBy,303,50.0,1
+1,30105170,Development,7,high_freq_createdBy,medium_freq_updatedBy,299,2100.0,1
+1,30105502,Development,2,medium_freq_createdBy,high_freq_updatedBy,303,600.0,1
+0,30105575,Development,10,high_freq_createdBy,high_freq_updatedBy,304,50.0,1
+1,30105086,Development,6,medium_freq_createdBy,high_freq_updatedBy,297,1200.0,1
+1,30105167,Development,6,high_freq_createdBy,high_freq_updatedBy,299,1500.0,1
+1,30105486,Development,2,high_freq_createdBy,high_freq_updatedBy,303,1000.0,1
+0,30104300,Development,10,medium_freq_createdBy,medium_freq_updatedBy,287,100.0,1
+1,30104625,Design,13,medium_freq_createdBy,high_freq_updatedBy,292,0.0,1
+1,30105174,Development,5,medium_freq_createdBy,high_freq_updatedBy,300,600.0,1
+1,30105053,Development,7,high_freq_createdBy,high_freq_updatedBy,297,1500.0,1
+1,30104729,Development,10,medium_freq_createdBy,low_freq_updatedBy,295,1500.0,1
+1,30104703,Development,8,medium_freq_createdBy,medium_freq_updatedBy,294,1800.0,1
+1,30104418,Development,9,medium_freq_createdBy,high_freq_updatedBy,288,2935.6499999999996,1
+1,30105079,Development,6,high_freq_createdBy,high_freq_updatedBy,297,1500.0,1
+1,30105092,Development,5,medium_freq_createdBy,high_freq_updatedBy,297,1000.0,1
+0,30105046,Development,9,medium_freq_createdBy,high_freq_updatedBy,297,500.0,1
+0,30105407,Development,10,medium_freq_createdBy,medium_freq_updatedBy,303,200.0,1
+1,30105165,Development,4,high_freq_createdBy,high_freq_updatedBy,299,1500.0,1
+0,30105069,Development,7,low_freq_createdBy,high_freq_updatedBy,297,435.0,1
+1,30094383,Data Science,40,medium_freq_createdBy,low_freq_updatedBy,177,17000.0,1
+1,30105043,Development,6,medium_freq_createdBy,high_freq_updatedBy,296,1100.0,1
+1,30104417,Development,7,medium_freq_createdBy,high_freq_updatedBy,288,2000.0,1
+0,30105278,Development,0,low_freq_createdBy,high_freq_updatedBy,302,20.0,1
+1,30105095,Development,4,medium_freq_createdBy,high_freq_updatedBy,298,600.0,1
+1,30104447,Development,7,medium_freq_createdBy,high_freq_updatedBy,289,750.0,1
+1,30104718,Development,6,medium_freq_createdBy,medium_freq_updatedBy,294,900.0,1
+1,30102688,Data Science,16,medium_freq_createdBy,medium_freq_updatedBy,260,1400.0,1
+1,30103267,Data Science,31,medium_freq_createdBy,medium_freq_updatedBy,267,5950.0,1
+1,30104820,Development,5,medium_freq_createdBy,medium_freq_updatedBy,295,3000.0,1
+0,30104533,Design,10,medium_freq_createdBy,high_freq_updatedBy,290,200.0,1
+1,30105000,Development,5,medium_freq_createdBy,high_freq_updatedBy,296,1200.0,1
+1,30104497,Development,10,medium_freq_createdBy,high_freq_updatedBy,290,900.0,1
+1,30104645,Development,6,medium_freq_createdBy,high_freq_updatedBy,293,1800.0,1
+1,30104655,Development,6,high_freq_createdBy,high_freq_updatedBy,294,1050.0,1
+1,30104626,Development,6,high_freq_createdBy,high_freq_updatedBy,292,900.0,1
+0,30105078,Development,10,high_freq_createdBy,high_freq_updatedBy,297,300.0,1
+0,30105081,Development,2,high_freq_createdBy,high_freq_updatedBy,297,180.0,1
+0,30105085,Development,10,high_freq_createdBy,high_freq_updatedBy,297,120.0,1
+0,30105084,Development,10,high_freq_createdBy,high_freq_updatedBy,297,100.0,1
+1,30104644,Development,6,high_freq_createdBy,high_freq_updatedBy,293,1500.0,1
+0,30105083,Development,10,high_freq_createdBy,high_freq_updatedBy,297,80.0,1
+0,30105082,Development,10,high_freq_createdBy,high_freq_updatedBy,297,60.0,1
+1,30104423,Development,9,medium_freq_createdBy,high_freq_updatedBy,289,1800.0,1
+1,30104528,Development,7,medium_freq_createdBy,high_freq_updatedBy,290,900.0,1
+1,30104420,Development,8,medium_freq_createdBy,high_freq_updatedBy,289,900.0,1
+1,30104600,Development,6,high_freq_createdBy,high_freq_updatedBy,291,900.0,1
+0,30104819,Development,1,high_freq_createdBy,high_freq_updatedBy,295,150.0,1
+0,30104822,Development,10,high_freq_createdBy,high_freq_updatedBy,295,100.0,1
+0,30104821,Development,10,high_freq_createdBy,high_freq_updatedBy,295,60.0,1
+0,30104818,Development,9,high_freq_createdBy,high_freq_updatedBy,295,40.0,1
+0,30104823,Development,10,high_freq_createdBy,high_freq_updatedBy,295,80.0,1
+1,30104524,Development,5,high_freq_createdBy,high_freq_updatedBy,290,900.0,1
+1,30103942,Development,15,medium_freq_createdBy,medium_freq_updatedBy,280,250.0,1
+0,30104647,Development,2,high_freq_createdBy,high_freq_updatedBy,293,100.0,1
+0,30104632,Development,3,medium_freq_createdBy,high_freq_updatedBy,292,200.0,1
+1,30104234,Development,8,medium_freq_createdBy,high_freq_updatedBy,287,1800.0,1
+0,30104618,Development,10,medium_freq_createdBy,high_freq_updatedBy,291,1200.0,1
+1,30104405,Design,5,low_freq_createdBy,low_freq_updatedBy,288,1000.0,1
+1,30103813,Development,7,medium_freq_createdBy,high_freq_updatedBy,275,2700.0,1
+1,30104222,Development,6,medium_freq_createdBy,high_freq_updatedBy,287,900.0,1
+1,30104178,Development,9,medium_freq_createdBy,high_freq_updatedBy,284,750.0,1
+0,30104622,Development,1,high_freq_createdBy,high_freq_updatedBy,292,50.0,1
+0,30104617,Development,1,high_freq_createdBy,high_freq_updatedBy,291,100.0,1
+0,30104249,Development,5,medium_freq_createdBy,high_freq_updatedBy,287,100.0,1
+0,30104629,Development,2,medium_freq_createdBy,high_freq_updatedBy,292,300.0,1
+1,30104233,Development,4,medium_freq_createdBy,high_freq_updatedBy,287,600.0,1
+1,30104376,Design,3,low_freq_createdBy,low_freq_updatedBy,288,1550.0,1
+0,30104616,Development,9,high_freq_createdBy,high_freq_updatedBy,291,50.0,1
+1,30103957,Quality Assurance,4,high_freq_createdBy,medium_freq_updatedBy,280,450.0,1
+0,30104195,Development,9,high_freq_createdBy,high_freq_updatedBy,285,150.0,1
+0,30104410,Development,2,high_freq_createdBy,high_freq_updatedBy,288,100.0,1
+1,30103933,Data Science,10,medium_freq_createdBy,high_freq_updatedBy,280,1800.0,1
+1,30103980,Development,7,medium_freq_createdBy,high_freq_updatedBy,282,1050.0,1
+0,30104161,Development,5,high_freq_createdBy,high_freq_updatedBy,284,200.0,1
+0,30104136,Development,6,high_freq_createdBy,high_freq_updatedBy,283,200.0,1
+0,30104424,Development,0,high_freq_createdBy,high_freq_updatedBy,289,100.0,1
+0,30104202,Development,3,high_freq_createdBy,high_freq_updatedBy,285,200.0,1
+1,30103782,Development,8,medium_freq_createdBy,high_freq_updatedBy,274,3627.4,1
+0,30104408,Development,0,high_freq_createdBy,medium_freq_updatedBy,288,100.0,1
+0,30103986,Development,5,medium_freq_createdBy,high_freq_updatedBy,282,500.0,1
+1,30103268,Data Science,20,medium_freq_createdBy,medium_freq_updatedBy,267,3500.0,1
+0,30104203,Development,9,high_freq_createdBy,high_freq_updatedBy,285,200.0,1
+0,30104201,Development,9,high_freq_createdBy,high_freq_updatedBy,285,200.0,1
+0,30104135,Development,4,high_freq_createdBy,high_freq_updatedBy,283,200.0,1
+1,30103838,Development,9,medium_freq_createdBy,medium_freq_updatedBy,276,1800.0,1
+1,30103946,Development,7,medium_freq_createdBy,high_freq_updatedBy,280,900.0,1
+0,30104152,Development,9,high_freq_createdBy,high_freq_updatedBy,284,200.0,1
+0,30104134,Development,3,high_freq_createdBy,high_freq_updatedBy,283,200.0,1
+0,30104242,Development,11,high_freq_createdBy,high_freq_updatedBy,287,50.0,1
+0,30104171,Development,2,high_freq_createdBy,high_freq_updatedBy,284,150.0,1
+0,30103165,Development,10,low_freq_createdBy,high_freq_updatedBy,266,360.0,1
+1,30103914,Development,7,medium_freq_createdBy,high_freq_updatedBy,277,900.0,1
+0,30104176,Development,11,medium_freq_createdBy,high_freq_updatedBy,284,200.0,1
+0,30103277,Development,16,medium_freq_createdBy,high_freq_updatedBy,268,70.0,1
+1,30102956,Design,22,medium_freq_createdBy,high_freq_updatedBy,262,2750.0,1
+1,30103885,Development,6,high_freq_createdBy,high_freq_updatedBy,277,1800.0,1
+1,30103814,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,275,500.0,1
+1,30103852,Development,7,medium_freq_createdBy,high_freq_updatedBy,276,835.0,1
+1,30103927,Development,4,high_freq_createdBy,high_freq_updatedBy,279,900.0,1
+1,30103668,Development,9,high_freq_createdBy,high_freq_updatedBy,273,1200.0,1
+1,30103022,Design,20,medium_freq_createdBy,high_freq_updatedBy,263,2750.0,1
+1,30103195,Data Science,9,medium_freq_createdBy,medium_freq_updatedBy,267,0.0,1
+1,30096611,Data Science,25,medium_freq_createdBy,high_freq_updatedBy,204,8000.0,1
+1,30103781,Development,6,medium_freq_createdBy,high_freq_updatedBy,274,1962.0,1
+0,30099184,Development,56,medium_freq_createdBy,high_freq_updatedBy,225,200.0,1
+1,30103816,Development,7,high_freq_createdBy,high_freq_updatedBy,275,900.0,1
+1,30103667,Development,8,high_freq_createdBy,high_freq_updatedBy,273,1200.0,1
+1,30103665,Development,8,high_freq_createdBy,high_freq_updatedBy,273,1200.0,1
+0,30103958,Development,10,high_freq_createdBy,high_freq_updatedBy,280,100.0,1
+1,30101622,Development,4,medium_freq_createdBy,high_freq_updatedBy,250,900.0,1
+1,30103664,Development,7,high_freq_createdBy,high_freq_updatedBy,273,1800.0,1
+1,30103666,Development,7,high_freq_createdBy,high_freq_updatedBy,273,1200.0,1
+0,30103921,Development,2,medium_freq_createdBy,high_freq_updatedBy,279,180.0,1
+1,30103611,Development,7,medium_freq_createdBy,medium_freq_updatedBy,273,1500.0,1
+1,30053240,Data Science,29,medium_freq_createdBy,medium_freq_updatedBy,69,10000.0,1
+1,30053152,Data Science,30,medium_freq_createdBy,medium_freq_updatedBy,61,20000.0,1
+1,30042883,Data Science,59,low_freq_createdBy,low_freq_updatedBy,137,15000.0,1
+1,30053259,Data Science,0,medium_freq_createdBy,medium_freq_updatedBy,70,6000.0,1
+1,30026434,Data Science,5,medium_freq_createdBy,low_freq_updatedBy,81,7500.0,0
+1,30031038,Data Science,9,low_freq_createdBy,medium_freq_updatedBy,299,7500.0,1
+1,30026040,Data Science,16,low_freq_createdBy,medium_freq_updatedBy,62,300.0,0
+1,30026433,Data Science,5,medium_freq_createdBy,low_freq_updatedBy,81,7500.0,0
+1,30042292,Data Science,37,low_freq_createdBy,medium_freq_updatedBy,119,15000.0,1
+1,30048348,Data Science,10,medium_freq_createdBy,low_freq_updatedBy,7,8500.0,0
+1,30034400,Data Science,11,low_freq_createdBy,medium_freq_updatedBy,155,15000.0,1
+1,30033953,Data Science,7,low_freq_createdBy,high_freq_updatedBy,121,13000.01,1
+1,30030842,Data Science,2,medium_freq_createdBy,high_freq_updatedBy,289,0.0,1
+1,30034034,Data Science,6,medium_freq_createdBy,high_freq_updatedBy,129,10000.0,1
+1,30047265,Data Science,0,low_freq_createdBy,medium_freq_updatedBy,319,7500.0,1
+1,30053260,Data Science,14,medium_freq_createdBy,medium_freq_updatedBy,70,15000.0,1
+1,30036106,Data Science,2,low_freq_createdBy,medium_freq_updatedBy,298,10000.0,1
+1,30053242,Data Science,0,medium_freq_createdBy,medium_freq_updatedBy,69,18000.0,1
+1,30035960,Data Science,21,medium_freq_createdBy,high_freq_updatedBy,281,14000.0,1
+1,30035836,Data Science,7,medium_freq_createdBy,medium_freq_updatedBy,269,0.0,1
+1,30036176,Data Science,7,medium_freq_createdBy,medium_freq_updatedBy,310,0.0,1
+1,30039594,Data Science,7,low_freq_createdBy,medium_freq_updatedBy,49,10000.0,1
+1,30033865,Data Science,4,medium_freq_createdBy,high_freq_updatedBy,114,10000.0,1
+1,30026234,Data Science,3,medium_freq_createdBy,medium_freq_updatedBy,74,0.0,0
+1,30034479,Data Science,3,medium_freq_createdBy,high_freq_updatedBy,162,6000.0,1
+1,30026233,Data Science,3,medium_freq_createdBy,medium_freq_updatedBy,74,0.0,0
+1,30026235,Data Science,3,medium_freq_createdBy,medium_freq_updatedBy,74,0.0,0
+1,30045704,Data Science,1,low_freq_createdBy,medium_freq_updatedBy,252,3000.0,0
+1,30026431,Data Science,5,medium_freq_createdBy,medium_freq_updatedBy,81,7500.0,0
+1,30032577,Data Science,10,medium_freq_createdBy,medium_freq_updatedBy,39,0.0,1
+1,30026232,Data Science,368,medium_freq_createdBy,medium_freq_updatedBy,74,0.0,0
+1,30028223,Data Science,5,medium_freq_createdBy,medium_freq_updatedBy,171,1500.0,0
+1,30040820,Data Science,2,medium_freq_createdBy,medium_freq_updatedBy,52,20000.0,1
+1,30053261,Data Science,0,medium_freq_createdBy,medium_freq_updatedBy,70,17000.0,1
+1,30047159,Data Science,0,low_freq_createdBy,medium_freq_updatedBy,315,7500.0,1
+1,30030167,Data Science,8,medium_freq_createdBy,medium_freq_updatedBy,259,1500.0,1
+1,30026432,Data Science,5,medium_freq_createdBy,low_freq_updatedBy,81,7500.0,0
+1,30028312,Data Science,9,medium_freq_createdBy,low_freq_updatedBy,178,1.5,1
+1,30103468,Development,9,medium_freq_createdBy,high_freq_updatedBy,270,900.0,1
+1,30103574,Development,8,high_freq_createdBy,high_freq_updatedBy,271,1500.0,1
+1,30103576,Development,8,high_freq_createdBy,high_freq_updatedBy,271,900.0,1
+1,30095463,Development,4,medium_freq_createdBy,high_freq_updatedBy,190,750.0,1
+1,30102263,Design,22,medium_freq_createdBy,high_freq_updatedBy,255,2000.0,1
+0,30103770,Development,4,medium_freq_createdBy,high_freq_updatedBy,274,400.0,1
+1,30103590,Development,6,high_freq_createdBy,high_freq_updatedBy,272,1200.0,1
+1,30102274,Design,21,medium_freq_createdBy,high_freq_updatedBy,256,2000.0,1
+1,30103353,Development,8,high_freq_createdBy,high_freq_updatedBy,268,900.0,1
+1,30103178,Development,10,high_freq_createdBy,medium_freq_updatedBy,266,1800.0,1
+1,30103394,Development,7,medium_freq_createdBy,high_freq_updatedBy,269,300.0,1
+1,30103414,Design,6,medium_freq_createdBy,high_freq_updatedBy,269,5750.0,1
+0,30099295,Design,49,medium_freq_createdBy,high_freq_updatedBy,226,800.0,1
+1,30100244,Development,4,high_freq_createdBy,medium_freq_updatedBy,237,750.0,1
+1,30103464,Development,6,medium_freq_createdBy,high_freq_updatedBy,270,600.0,1
+0,30103818,Development,10,high_freq_createdBy,high_freq_updatedBy,275,60.0,1
+0,30103753,Development,2,medium_freq_createdBy,high_freq_updatedBy,274,70.0,1
+1,30102919,Development,13,high_freq_createdBy,high_freq_updatedBy,262,625.0,1
+0,30103817,Development,0,high_freq_createdBy,high_freq_updatedBy,275,60.0,1
+0,30103819,Development,9,high_freq_createdBy,high_freq_updatedBy,275,100.0,1
+1,30103311,Development,6,high_freq_createdBy,high_freq_updatedBy,268,1050.0,1
+1,30103090,Development,9,medium_freq_createdBy,high_freq_updatedBy,264,2100.0,1
+1,30085346,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,64,100000.0,1
+1,30076905,Data Science,47,medium_freq_createdBy,high_freq_updatedBy,346,23000.0,1
+1,30086139,Data Science,20,medium_freq_createdBy,high_freq_updatedBy,71,11500.0,1
+1,30096444,Data Science,37,medium_freq_createdBy,high_freq_updatedBy,203,8000.0,1
+1,30092166,Data Science,43,medium_freq_createdBy,high_freq_updatedBy,151,0.0,1
+1,30091712,Data Science,31,medium_freq_createdBy,high_freq_updatedBy,146,0.0,1
+1,30089301,Data Science,48,medium_freq_createdBy,high_freq_updatedBy,119,16000.0,1
+1,30089234,Data Science,36,medium_freq_createdBy,high_freq_updatedBy,117,6500.0,1
+1,30089008,Data Science,9,medium_freq_createdBy,high_freq_updatedBy,114,0.0,1
+1,30088735,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,108,27500.0,1
+1,30088355,Data Science,90,medium_freq_createdBy,high_freq_updatedBy,100,50000.0,1
+1,30087723,Data Science,53,medium_freq_createdBy,high_freq_updatedBy,88,23000.0,1
+1,30087004,Data Science,60,medium_freq_createdBy,high_freq_updatedBy,81,20000.0,1
+1,30086998,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,81,33000.0,1
+1,30086997,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,81,33000.0,1
+1,30095821,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095823,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095824,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095825,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30102819,Development,7,medium_freq_createdBy,high_freq_updatedBy,260,3740.45,1
+1,30092483,Data Science,61,medium_freq_createdBy,high_freq_updatedBy,155,0.0,1
+1,30101930,Data Science,9,medium_freq_createdBy,high_freq_updatedBy,253,0.0,1
+1,30103383,Development,4,high_freq_createdBy,high_freq_updatedBy,269,900.0,1
+1,30098928,Data Science,27,low_freq_createdBy,medium_freq_updatedBy,221,17000.0,1
+0,30103371,Development,40,low_freq_createdBy,high_freq_updatedBy,269,0.0,1
+0,30103497,Development,36,low_freq_createdBy,high_freq_updatedBy,270,0.0,1
+1,30102998,Development,8,medium_freq_createdBy,medium_freq_updatedBy,262,1800.0,1
+0,30103426,Development,10,high_freq_createdBy,medium_freq_updatedBy,270,80.0,1
+1,30102713,Development,11,medium_freq_createdBy,high_freq_updatedBy,260,2700.0,1
+1,30102972,Development,8,medium_freq_createdBy,high_freq_updatedBy,262,2100.0,1
+1,30103177,Development,4,high_freq_createdBy,high_freq_updatedBy,266,600.0,1
+1,30103002,Development,9,high_freq_createdBy,high_freq_updatedBy,262,1200.0,1
+1,30102905,Design,9,medium_freq_createdBy,medium_freq_updatedBy,261,75.0,1
+1,30102857,Development,10,low_freq_createdBy,high_freq_updatedBy,261,1050.0,1
+1,30103009,Development,8,high_freq_createdBy,high_freq_updatedBy,263,1800.0,1
+0,30103274,Development,3,medium_freq_createdBy,high_freq_updatedBy,268,100.0,1
+1,30103003,Development,8,high_freq_createdBy,high_freq_updatedBy,262,1200.0,1
+1,30102635,Development,9,medium_freq_createdBy,high_freq_updatedBy,259,900.0,1
+0,30103191,Development,10,medium_freq_createdBy,high_freq_updatedBy,267,150.0,1
+1,30103025,Development,6,high_freq_createdBy,medium_freq_updatedBy,263,1500.0,1
+1,30100114,Design,32,medium_freq_createdBy,high_freq_updatedBy,234,1550.0,1
+1,30101502,Design,21,medium_freq_createdBy,high_freq_updatedBy,248,1550.0,1
+0,30101492,Development,25,low_freq_createdBy,high_freq_updatedBy,248,29.0,1
+0,30101466,Development,25,low_freq_createdBy,high_freq_updatedBy,248,38.67,1
+0,30103276,Development,2,medium_freq_createdBy,high_freq_updatedBy,268,50.0,1
+0,30103275,Development,11,medium_freq_createdBy,high_freq_updatedBy,268,70.0,1
+1,30100273,Design,31,medium_freq_createdBy,high_freq_updatedBy,237,1550.0,1
+1,30099707,Data Science,25,medium_freq_createdBy,high_freq_updatedBy,231,8000.0,1
+1,30102818,Development,6,medium_freq_createdBy,high_freq_updatedBy,260,1875.5,1
+1,30095641,Data Science,20,medium_freq_createdBy,medium_freq_updatedBy,193,5050.0,1
+1,30102897,Development,7,high_freq_createdBy,high_freq_updatedBy,261,1500.0,1
+1,30101505,Design,18,medium_freq_createdBy,high_freq_updatedBy,249,2000.0,1
+1,30103145,Data Science,5,medium_freq_createdBy,medium_freq_updatedBy,266,0.0,1
+1,30100625,Design,25,medium_freq_createdBy,high_freq_updatedBy,242,2750.0,1
+0,30103143,Development,2,high_freq_createdBy,high_freq_updatedBy,266,200.0,1
+1,30090463,Development,7,medium_freq_createdBy,high_freq_updatedBy,130,1200.0,1
+1,30090464,Development,7,medium_freq_createdBy,high_freq_updatedBy,130,1200.0,1
+1,30102653,Development,7,high_freq_createdBy,high_freq_updatedBy,259,1200.0,1
+1,30102275,Development,8,medium_freq_createdBy,high_freq_updatedBy,256,0.0,1
+0,30103189,Development,0,medium_freq_createdBy,medium_freq_updatedBy,266,2000.0,1
+1,30102667,Development,7,high_freq_createdBy,high_freq_updatedBy,259,1500.0,1
+1,30098241,Design,19,medium_freq_createdBy,high_freq_updatedBy,212,2000.0,1
+1,30102567,Design,1,medium_freq_createdBy,high_freq_updatedBy,259,0.0,1
+1,30102678,Design,1,medium_freq_createdBy,low_freq_updatedBy,259,0.0,1
+1,30102256,Development,9,high_freq_createdBy,high_freq_updatedBy,255,2100.0,1
+0,30103087,Development,10,high_freq_createdBy,medium_freq_updatedBy,264,0.0,1
+1,30103089,Quality Assurance,0,high_freq_createdBy,medium_freq_updatedBy,264,0.0,1
+0,30103075,Development,0,high_freq_createdBy,high_freq_updatedBy,263,400.0,1
+1,30102264,Development,8,medium_freq_createdBy,high_freq_updatedBy,255,750.0,1
+1,30100548,Data Science,22,medium_freq_createdBy,high_freq_updatedBy,240,4375.0,1
+1,30100547,Data Science,22,medium_freq_createdBy,high_freq_updatedBy,240,4375.0,1
+1,30102649,Development,4,high_freq_createdBy,high_freq_updatedBy,259,600.0,1
+1,30102388,Development,6,high_freq_createdBy,high_freq_updatedBy,257,900.0,1
+1,30102280,Development,7,medium_freq_createdBy,medium_freq_updatedBy,256,900.0,1
+1,30102069,Development,8,medium_freq_createdBy,medium_freq_updatedBy,254,1800.0,1
+1,30102111,Development,8,high_freq_createdBy,high_freq_updatedBy,254,900.0,1
+1,30102717,Development,3,medium_freq_createdBy,high_freq_updatedBy,260,600.0,1
+1,30102114,Development,8,high_freq_createdBy,high_freq_updatedBy,254,1200.0,1
+1,30101973,Development,9,medium_freq_createdBy,high_freq_updatedBy,254,2700.0,1
+1,30102416,Development,5,medium_freq_createdBy,high_freq_updatedBy,257,900.0,1
+1,30100120,Design,27,medium_freq_createdBy,high_freq_updatedBy,234,2750.0,1
+1,30101338,Development,9,medium_freq_createdBy,high_freq_updatedBy,247,3702.55,1
+1,30100545,Data Science,20,medium_freq_createdBy,medium_freq_updatedBy,240,4375.0,1
+1,30100546,Data Science,20,medium_freq_createdBy,high_freq_updatedBy,240,4375.0,1
+1,30099141,Design,36,medium_freq_createdBy,high_freq_updatedBy,225,1550.0,1
+1,30101948,Development,8,high_freq_createdBy,high_freq_updatedBy,253,1200.0,1
+1,30101628,Development,9,medium_freq_createdBy,high_freq_updatedBy,250,1800.0,1
+1,30101839,Development,8,high_freq_createdBy,high_freq_updatedBy,252,1800.0,1
+1,30101700,Data Science,9,medium_freq_createdBy,medium_freq_updatedBy,252,0.0,1
+1,30100119,Design,26,medium_freq_createdBy,medium_freq_updatedBy,234,2750.0,1
+1,30102680,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30101366,Development,10,low_freq_createdBy,high_freq_updatedBy,248,1200.0,1
+1,30102683,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30102676,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+0,30101362,Development,11,high_freq_createdBy,high_freq_updatedBy,248,300.0,1
+0,30102518,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30102495,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30099185,Data Science,21,medium_freq_createdBy,medium_freq_updatedBy,225,3000.0,1
+1,30102491,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30102442,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30102443,Design,0,medium_freq_createdBy,medium_freq_updatedBy,259,0.0,1
+1,30098413,Development,7,high_freq_createdBy,high_freq_updatedBy,215,2200.0,1
+1,30102441,Design,0,medium_freq_createdBy,medium_freq_updatedBy,258,0.0,1
+1,30101445,Development,9,low_freq_createdBy,high_freq_updatedBy,248,700.0,1
+1,30102438,Design,0,medium_freq_createdBy,medium_freq_updatedBy,258,0.0,1
+1,30102382,Design,1,medium_freq_createdBy,high_freq_updatedBy,256,0.0,1
+1,30101652,Development,6,high_freq_createdBy,high_freq_updatedBy,251,1050.0,1
+1,30101546,Development,8,medium_freq_createdBy,high_freq_updatedBy,249,600.0,1
+1,30101631,Development,6,medium_freq_createdBy,high_freq_updatedBy,251,900.0,1
+1,30101885,Development,4,medium_freq_createdBy,high_freq_updatedBy,252,900.0,1
+1,30101313,Development,10,high_freq_createdBy,high_freq_updatedBy,247,1800.0,1
+1,30101607,Development,7,medium_freq_createdBy,high_freq_updatedBy,249,1500.0,1
+1,30101689,Data Science,5,medium_freq_createdBy,high_freq_updatedBy,251,1000.0,1
+1,30100600,Development,9,low_freq_createdBy,high_freq_updatedBy,241,600.0,1
+1,30099710,Design,23,medium_freq_createdBy,medium_freq_updatedBy,232,2000.0,1
+1,30101279,Development,9,medium_freq_createdBy,high_freq_updatedBy,246,2400.0,1
+1,30099130,Data Science,24,medium_freq_createdBy,medium_freq_updatedBy,224,2000.0,1
+1,30101884,Development,3,high_freq_createdBy,high_freq_updatedBy,252,600.0,1
+1,30098665,Design,11,medium_freq_createdBy,medium_freq_updatedBy,218,5750.0,1
+1,30092656,Design,16,medium_freq_createdBy,medium_freq_updatedBy,156,2750.0,1
+0,30101629,Development,9,medium_freq_createdBy,high_freq_updatedBy,250,150.0,1
+0,30102127,Development,10,medium_freq_createdBy,high_freq_updatedBy,255,60.0,1
+0,30101981,Development,1,high_freq_createdBy,high_freq_updatedBy,254,100.0,1
+1,30101290,Development,7,medium_freq_createdBy,high_freq_updatedBy,247,1800.0,1
+0,30101523,Development,6,medium_freq_createdBy,high_freq_updatedBy,249,200.0,1
+1,30101361,Development,6,medium_freq_createdBy,high_freq_updatedBy,248,1050.0,1
+1,30101337,Development,6,medium_freq_createdBy,high_freq_updatedBy,247,2000.0,1
+0,30101621,Development,4,medium_freq_createdBy,high_freq_updatedBy,249,500.0,1
+1,30100636,Design,12,high_freq_createdBy,high_freq_updatedBy,242,4100.0,1
+1,30099527,Design,22,medium_freq_createdBy,high_freq_updatedBy,229,2000.0,1
+0,30101630,Development,3,medium_freq_createdBy,high_freq_updatedBy,250,50.0,1
+1,30101501,Development,5,medium_freq_createdBy,high_freq_updatedBy,248,1200.0,1
+1,30098981,Data Science,26,medium_freq_createdBy,medium_freq_updatedBy,222,2000.0,1
+0,30101976,Development,9,high_freq_createdBy,medium_freq_updatedBy,254,150.0,1
+1,30099183,Data Science,23,medium_freq_createdBy,medium_freq_updatedBy,225,3000.0,1
+1,30101182,Development,8,high_freq_createdBy,high_freq_updatedBy,245,2250.0,1
+1,30101142,Development,9,medium_freq_createdBy,high_freq_updatedBy,244,1095.0,1
+0,30101124,Development,10,medium_freq_createdBy,high_freq_updatedBy,243,100.0,1
+0,30101526,Development,4,medium_freq_createdBy,medium_freq_updatedBy,249,50.0,1
+0,30101524,Development,3,medium_freq_createdBy,medium_freq_updatedBy,249,120.0,1
+1,30100606,Development,11,high_freq_createdBy,high_freq_updatedBy,241,690.0,1
+0,30101847,Development,9,high_freq_createdBy,medium_freq_updatedBy,252,100.0,1
+0,30095935,Development,10,low_freq_createdBy,medium_freq_updatedBy,199,800.0,1
+0,30101528,Development,3,medium_freq_createdBy,high_freq_updatedBy,249,150.0,1
+0,30101623,Development,10,medium_freq_createdBy,medium_freq_updatedBy,250,80.0,1
+0,30101750,Development,10,medium_freq_createdBy,low_freq_updatedBy,252,100.0,1
+1,30100272,Development,9,high_freq_createdBy,medium_freq_updatedBy,237,1050.0,1
+1,30101141,Development,7,medium_freq_createdBy,high_freq_updatedBy,244,1800.0,1
+1,30101090,Development,8,high_freq_createdBy,high_freq_updatedBy,242,1200.0,1
+1,30101287,Development,4,medium_freq_createdBy,high_freq_updatedBy,246,1200.0,1
+1,30101059,Development,7,medium_freq_createdBy,high_freq_updatedBy,242,1800.0,1
+0,30101433,Development,0,high_freq_createdBy,high_freq_updatedBy,248,200.0,1
+0,30101310,Development,2,high_freq_createdBy,medium_freq_updatedBy,247,400.0,1
+1,30100336,Development,7,high_freq_createdBy,medium_freq_updatedBy,238,900.0,1
+1,30099750,Development,10,medium_freq_createdBy,high_freq_updatedBy,232,3079.2999999999997,1
+1,30099291,Development,21,medium_freq_createdBy,high_freq_updatedBy,226,1500.0,1
+1,30096585,Development,43,low_freq_createdBy,high_freq_updatedBy,204,105.0,1
+1,30099775,Development,5,medium_freq_createdBy,low_freq_updatedBy,233,600.0,1
+0,30101211,Development,1,medium_freq_createdBy,high_freq_updatedBy,246,400.0,1
+1,30099522,Design,18,medium_freq_createdBy,high_freq_updatedBy,228,1675.0,1
+1,30100626,Development,5,medium_freq_createdBy,high_freq_updatedBy,242,750.0,1
+1,30100623,Development,5,medium_freq_createdBy,high_freq_updatedBy,241,1050.0,1
+1,30100441,Development,7,high_freq_createdBy,high_freq_updatedBy,239,1200.0,1
+1,30098863,Design,25,medium_freq_createdBy,high_freq_updatedBy,220,2000.0,1
+0,30099337,Development,18,medium_freq_createdBy,high_freq_updatedBy,227,250.0,1
+1,30100420,Development,7,high_freq_createdBy,high_freq_updatedBy,239,1050.0,1
+1,30100619,Development,4,medium_freq_createdBy,low_freq_updatedBy,241,1390.0,1
+1,30100192,Development,9,medium_freq_createdBy,medium_freq_updatedBy,235,2100.0,1
+1,30100207,Development,9,medium_freq_createdBy,high_freq_updatedBy,236,2400.0,1
+1,30100337,Development,7,high_freq_createdBy,high_freq_updatedBy,238,1200.0,1
+0,30100621,Development,10,high_freq_createdBy,high_freq_updatedBy,241,160.0,1
+1,30100338,Development,6,high_freq_createdBy,high_freq_updatedBy,238,900.0,1
+1,30100196,Data Science,9,medium_freq_createdBy,low_freq_updatedBy,236,1800.0,1
+0,30100620,Development,9,high_freq_createdBy,high_freq_updatedBy,241,300.0,1
+1,30100463,Development,5,medium_freq_createdBy,high_freq_updatedBy,239,1200.0,1
+1,30100237,Development,7,high_freq_createdBy,high_freq_updatedBy,237,2250.0,1
+1,30100211,Development,7,medium_freq_createdBy,high_freq_updatedBy,236,1200.0,1
+1,30099752,Development,11,medium_freq_createdBy,high_freq_updatedBy,232,1800.0,1
+1,30100268,Development,6,medium_freq_createdBy,high_freq_updatedBy,237,1.0,1
+1,30099631,Development,11,low_freq_createdBy,high_freq_updatedBy,231,1800.0,1
+1,30100403,Development,3,medium_freq_createdBy,high_freq_updatedBy,239,650.0,1
+1,30099704,Development,11,medium_freq_createdBy,high_freq_updatedBy,231,2700.0,1
+1,30099953,Development,9,high_freq_createdBy,high_freq_updatedBy,233,1500.0,1
+1,30091862,Design,32,medium_freq_createdBy,medium_freq_updatedBy,148,1550.0,1
+1,30099817,Data Science,8,medium_freq_createdBy,low_freq_updatedBy,233,2625.0,1
+1,30100283,Development,4,medium_freq_createdBy,high_freq_updatedBy,237,900.0,1
+0,30100354,Development,2,medium_freq_createdBy,high_freq_updatedBy,238,750.0,1
+1,30097705,Data Science,13,medium_freq_createdBy,medium_freq_updatedBy,206,6000.0,1
+1,30094179,Data Science,22,medium_freq_createdBy,medium_freq_updatedBy,175,3000.0,1
+0,30100514,Development,1,high_freq_createdBy,high_freq_updatedBy,240,200.0,1
+1,30100163,Development,6,high_freq_createdBy,high_freq_updatedBy,235,900.0,1
+1,30099749,Development,6,medium_freq_createdBy,high_freq_updatedBy,232,1436.5,1
+1,30100274,Development,3,medium_freq_createdBy,high_freq_updatedBy,237,900.0,1
+1,30099617,Development,8,low_freq_createdBy,high_freq_updatedBy,231,600.0,1
+1,30100124,Design,3,medium_freq_createdBy,high_freq_updatedBy,235,400.0,1
+0,30100349,Development,3,medium_freq_createdBy,high_freq_updatedBy,238,600.0,1
+1,30099714,Development,7,medium_freq_createdBy,high_freq_updatedBy,232,1050.0,1
+1,30098323,Data Science,26,medium_freq_createdBy,high_freq_updatedBy,213,3200.0,1
+1,30096650,Development,10,medium_freq_createdBy,medium_freq_updatedBy,205,2400.0,1
+1,30099965,Development,5,high_freq_createdBy,high_freq_updatedBy,234,1900.0,1
+1,30100135,Development,3,medium_freq_createdBy,medium_freq_updatedBy,235,900.0,1
+1,30098948,Design,17,medium_freq_createdBy,high_freq_updatedBy,221,2000.0,1
+1,30099451,Development,9,medium_freq_createdBy,medium_freq_updatedBy,228,1500.0,1
+1,30099868,Development,5,medium_freq_createdBy,high_freq_updatedBy,233,1500.0,1
+1,30099186,Design,13,medium_freq_createdBy,high_freq_updatedBy,225,2000.0,1
+1,30099861,Development,5,medium_freq_createdBy,high_freq_updatedBy,233,900.0,1
+1,30099563,Development,8,high_freq_createdBy,high_freq_updatedBy,229,1500.0,1
+1,30099581,Development,7,medium_freq_createdBy,high_freq_updatedBy,230,1350.0,1
+1,30099579,Development,6,high_freq_createdBy,high_freq_updatedBy,230,900.0,1
+1,30099778,Development,3,high_freq_createdBy,high_freq_updatedBy,233,1050.0,1
+1,30099748,Development,4,medium_freq_createdBy,high_freq_updatedBy,232,1500.0,1
+1,30099523,Development,7,low_freq_createdBy,high_freq_updatedBy,228,450.0,1
+0,30099162,Development,10,high_freq_createdBy,medium_freq_updatedBy,225,400.0,1
+1,30099215,Development,7,high_freq_createdBy,high_freq_updatedBy,226,1500.0,1
+0,30099711,Development,10,high_freq_createdBy,medium_freq_updatedBy,232,500.0,1
+1,30099281,Development,8,medium_freq_createdBy,high_freq_updatedBy,226,2400.0,1
+0,30100059,Development,10,high_freq_createdBy,high_freq_updatedBy,234,100.0,1
+0,30099511,Development,6,medium_freq_createdBy,high_freq_updatedBy,228,60.0,1
+1,30097294,Design,28,medium_freq_createdBy,high_freq_updatedBy,206,2000.0,1
+0,30099767,Development,4,high_freq_createdBy,high_freq_updatedBy,233,200.0,1
+1,30095544,Data Science,40,medium_freq_createdBy,high_freq_updatedBy,191,7500.0,1
+1,30099213,Development,7,medium_freq_createdBy,high_freq_updatedBy,226,1500.0,1
+1,30097907,Design,23,medium_freq_createdBy,medium_freq_updatedBy,209,1550.0,1
+1,30096704,Development,1,medium_freq_createdBy,low_freq_updatedBy,205,900.0,1
+1,30099138,Development,7,medium_freq_createdBy,high_freq_updatedBy,225,900.0,1
+1,30098626,Development,7,medium_freq_createdBy,high_freq_updatedBy,218,3809.2,1
+0,30099190,Development,5,medium_freq_createdBy,high_freq_updatedBy,225,400.0,1
+1,30097811,Data Science,23,medium_freq_createdBy,high_freq_updatedBy,207,7500.0,1
+1,30099112,Development,7,medium_freq_createdBy,high_freq_updatedBy,224,900.0,1
+1,30098397,Design,16,medium_freq_createdBy,medium_freq_updatedBy,215,2750.0,1
+1,30099140,Development,6,high_freq_createdBy,high_freq_updatedBy,225,2250.0,1
+1,30099126,Development,6,medium_freq_createdBy,high_freq_updatedBy,224,1000.0,1
+1,30099125,Development,6,medium_freq_createdBy,high_freq_updatedBy,224,1000.0,1
+1,30098540,Development,12,medium_freq_createdBy,high_freq_updatedBy,218,900.0,1
+1,30098819,Development,8,medium_freq_createdBy,medium_freq_updatedBy,220,2200.0,1
+1,30099206,Development,4,medium_freq_createdBy,high_freq_updatedBy,226,1800.0,1
+1,30099108,Development,5,medium_freq_createdBy,high_freq_updatedBy,224,750.0,1
+1,30098800,Development,10,medium_freq_createdBy,high_freq_updatedBy,220,2250.0,1
+1,30099000,Development,7,high_freq_createdBy,high_freq_updatedBy,222,1500.0,1
+1,30099218,Development,3,high_freq_createdBy,high_freq_updatedBy,226,1050.0,1
+1,30096708,Design,22,medium_freq_createdBy,high_freq_updatedBy,205,2000.0,1
+0,30099297,Development,1,medium_freq_createdBy,high_freq_updatedBy,227,700.0,1
+1,30098557,Development,10,medium_freq_createdBy,high_freq_updatedBy,218,1800.0,1
+0,30099294,Development,1,medium_freq_createdBy,high_freq_updatedBy,226,700.0,1
+1,30098762,Development,8,medium_freq_createdBy,high_freq_updatedBy,219,1800.0,1
+0,30099123,Development,3,high_freq_createdBy,high_freq_updatedBy,224,250.0,1
+0,30099211,Development,0,high_freq_createdBy,high_freq_updatedBy,226,600.0,1
+1,30096704,Development,1,medium_freq_createdBy,low_freq_updatedBy,205,900.0,1
+1,30096702,Development,2,high_freq_createdBy,medium_freq_updatedBy,205,1400.0,1
+1,30096701,Development,2,high_freq_createdBy,high_freq_updatedBy,205,450.0,1
+1,30096681,Design,18,medium_freq_createdBy,high_freq_updatedBy,205,2750.0,1
+1,30096650,Development,10,medium_freq_createdBy,medium_freq_updatedBy,205,2400.0,1
+1,30096618,Development,4,high_freq_createdBy,high_freq_updatedBy,204,1350.0,1
+1,30096611,Data Science,25,medium_freq_createdBy,high_freq_updatedBy,204,8000.0,1
+1,30096593,Development,6,medium_freq_createdBy,high_freq_updatedBy,204,3532.5499999999997,1
+1,30096592,Development,4,medium_freq_createdBy,high_freq_updatedBy,204,2400.0,1
+0,30096591,Development,1,high_freq_createdBy,high_freq_updatedBy,204,50.0,1
+1,30096589,Development,8,high_freq_createdBy,high_freq_updatedBy,204,1500.0,1
+1,30096588,Development,5,high_freq_createdBy,high_freq_updatedBy,204,600.0,1
+1,30096586,Development,7,high_freq_createdBy,medium_freq_updatedBy,204,900.0,1
+1,30096585,Development,43,low_freq_createdBy,high_freq_updatedBy,204,105.0,1
+1,30096548,Development,7,high_freq_createdBy,medium_freq_updatedBy,204,2250.0,1
+1,30096518,Development,8,medium_freq_createdBy,high_freq_updatedBy,204,1500.0,1
+0,30096515,Development,2,low_freq_createdBy,high_freq_updatedBy,204,250.0,1
+0,30096512,Development,10,low_freq_createdBy,high_freq_updatedBy,204,36.0,1
+0,30096509,Development,21,low_freq_createdBy,high_freq_updatedBy,204,27.0,1
+0,30096507,Development,10,low_freq_createdBy,high_freq_updatedBy,204,45.0,1
+1,30096504,Development,5,medium_freq_createdBy,high_freq_updatedBy,203,1050.0,1
+1,30096503,Development,2,medium_freq_createdBy,high_freq_updatedBy,203,900.0,1
+1,30096500,Development,2,medium_freq_createdBy,high_freq_updatedBy,203,1800.0,1
+1,30096496,Development,7,medium_freq_createdBy,high_freq_updatedBy,203,1200.0,1
+1,30096472,Development,6,medium_freq_createdBy,high_freq_updatedBy,203,1200.0,1
+0,30096468,Development,0,high_freq_createdBy,high_freq_updatedBy,203,150.0,1
+1,30096467,Development,2,high_freq_createdBy,high_freq_updatedBy,203,1200.0,1
+1,30096466,Development,9,medium_freq_createdBy,medium_freq_updatedBy,203,2100.0,1
+1,30096465,Development,6,high_freq_createdBy,high_freq_updatedBy,203,1200.0,1
+1,30096444,Data Science,37,medium_freq_createdBy,high_freq_updatedBy,203,8000.0,1
+1,30096442,Development,2,high_freq_createdBy,high_freq_updatedBy,202,1200.0,1
+0,30096431,Development,9,medium_freq_createdBy,high_freq_updatedBy,202,100.0,1
+1,30096428,Development,2,high_freq_createdBy,high_freq_updatedBy,202,450.0,1
+1,30096424,Development,3,medium_freq_createdBy,high_freq_updatedBy,202,1200.0,1
+1,30096415,Development,4,medium_freq_createdBy,high_freq_updatedBy,201,1200.0,1
+0,30096414,Development,0,high_freq_createdBy,high_freq_updatedBy,201,150.0,1
+1,30096412,Design,0,medium_freq_createdBy,high_freq_updatedBy,201,450.0,1
+1,30096410,Data Science,15,low_freq_createdBy,high_freq_updatedBy,201,6150.0,1
+1,30096402,Development,4,high_freq_createdBy,high_freq_updatedBy,200,1500.0,1
+1,30096400,Development,3,high_freq_createdBy,high_freq_updatedBy,200,1200.0,1
+1,30096399,Development,3,high_freq_createdBy,high_freq_updatedBy,200,1200.0,1
+1,30096381,Development,8,medium_freq_createdBy,medium_freq_updatedBy,200,1800.0,1
+1,30096342,Development,4,high_freq_createdBy,high_freq_updatedBy,200,600.0,1
+1,30096338,Development,8,high_freq_createdBy,medium_freq_updatedBy,200,1500.0,1
+1,30096337,Development,9,high_freq_createdBy,medium_freq_updatedBy,200,1500.0,1
+1,30096336,Development,0,medium_freq_createdBy,low_freq_updatedBy,200,500.0,1
+1,30096263,Development,4,high_freq_createdBy,high_freq_updatedBy,199,1050.0,1
+1,30096226,Development,7,medium_freq_createdBy,medium_freq_updatedBy,199,1050.0,1
+1,30096225,Design,17,medium_freq_createdBy,high_freq_updatedBy,199,2750.0,1
+1,30096219,Development,8,high_freq_createdBy,high_freq_updatedBy,199,2100.0,1
+0,30095935,Development,10,low_freq_createdBy,medium_freq_updatedBy,199,800.0,1
+1,30095933,Development,2,medium_freq_createdBy,high_freq_updatedBy,198,1500.0,1
+1,30095932,Development,2,medium_freq_createdBy,high_freq_updatedBy,198,600.0,1
+1,30095919,Development,5,medium_freq_createdBy,high_freq_updatedBy,198,1.0,1
+0,30095901,Development,10,medium_freq_createdBy,low_freq_updatedBy,198,150.0,1
+1,30095894,Development,11,medium_freq_createdBy,high_freq_updatedBy,198,600.0,1
+1,30095870,Development,2,medium_freq_createdBy,medium_freq_updatedBy,198,600.0,1
+1,30095865,Development,3,medium_freq_createdBy,high_freq_updatedBy,198,900.0,1
+1,30095862,Development,3,medium_freq_createdBy,high_freq_updatedBy,198,900.0,1
+1,30095860,Development,3,medium_freq_createdBy,medium_freq_updatedBy,198,600.0,1
+1,30095843,Development,3,high_freq_createdBy,high_freq_updatedBy,197,500.0,1
+1,30095842,Development,2,high_freq_createdBy,high_freq_updatedBy,197,450.0,1
+1,30095841,Development,2,high_freq_createdBy,high_freq_updatedBy,197,600.0,1
+1,30095840,Development,10,medium_freq_createdBy,high_freq_updatedBy,197,450.0,1
+1,30095825,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095824,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095823,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+0,30095822,Development,10,medium_freq_createdBy,high_freq_updatedBy,197,100.0,1
+1,30095821,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,197,20000.0,1
+1,30095809,Development,5,high_freq_createdBy,medium_freq_updatedBy,197,1050.0,1
+1,30095797,Development,8,high_freq_createdBy,high_freq_updatedBy,197,1500.0,1
+1,30095791,Development,8,medium_freq_createdBy,high_freq_updatedBy,197,0.0,1
+1,30095787,Development,7,medium_freq_createdBy,high_freq_updatedBy,197,1800.0,1
+1,30095785,Development,11,medium_freq_createdBy,high_freq_updatedBy,197,2400.0,1
+1,30095780,Data Science,21,medium_freq_createdBy,medium_freq_updatedBy,197,6500.0,1
+1,30095774,Development,8,medium_freq_createdBy,high_freq_updatedBy,196,1650.0,1
+1,30095771,Development,7,medium_freq_createdBy,high_freq_updatedBy,196,900.0,1
+1,30095768,Development,3,medium_freq_createdBy,high_freq_updatedBy,196,1050.0,1
+1,30095760,Development,10,medium_freq_createdBy,medium_freq_updatedBy,196,1100.0,1
+1,30095732,Development,7,medium_freq_createdBy,high_freq_updatedBy,196,1000.0,1
+1,30095708,Development,8,medium_freq_createdBy,high_freq_updatedBy,196,1350.0,1
+1,30095707,Development,6,medium_freq_createdBy,high_freq_updatedBy,196,1200.0,1
+0,30095703,Development,10,high_freq_createdBy,high_freq_updatedBy,196,250.0,1
+1,30095702,Development,3,high_freq_createdBy,high_freq_updatedBy,195,450.0,1
+1,30095701,Development,2,high_freq_createdBy,high_freq_updatedBy,195,450.0,1
+1,30095700,Development,3,high_freq_createdBy,high_freq_updatedBy,195,450.0,1
+1,30095699,Development,3,high_freq_createdBy,high_freq_updatedBy,195,500.0,1
+1,30095695,Development,17,high_freq_createdBy,high_freq_updatedBy,195,580.0,1
+0,30095687,Development,1,high_freq_createdBy,high_freq_updatedBy,194,50.0,1
+1,30095683,Design,28,medium_freq_createdBy,high_freq_updatedBy,193,1550.0,1
+1,30095680,Development,3,medium_freq_createdBy,high_freq_updatedBy,193,1050.0,1
+1,30095657,Development,6,medium_freq_createdBy,high_freq_updatedBy,193,900.0,1
+1,30095641,Data Science,20,medium_freq_createdBy,medium_freq_updatedBy,193,5050.0,1
+1,30095640,Development,7,medium_freq_createdBy,high_freq_updatedBy,193,500.0,1
+1,30095617,Development,5,high_freq_createdBy,high_freq_updatedBy,193,1050.0,1
+1,30095611,Development,5,high_freq_createdBy,high_freq_updatedBy,192,900.0,1
+1,30095602,Development,9,high_freq_createdBy,high_freq_updatedBy,192,1200.0,1
+1,30095597,Development,6,medium_freq_createdBy,high_freq_updatedBy,192,1200.0,1
+0,30095596,Development,0,high_freq_createdBy,high_freq_updatedBy,192,150.0,1
+1,30095569,Development,2,high_freq_createdBy,high_freq_updatedBy,192,1900.0,1
+0,30095563,Development,0,high_freq_createdBy,medium_freq_updatedBy,192,175.0,1
+1,30095561,Development,6,medium_freq_createdBy,high_freq_updatedBy,192,1500.0,1
+0,30095559,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,75.0,1
+0,30095558,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,150.0,1
+0,30095557,Development,4,medium_freq_createdBy,high_freq_updatedBy,192,75.0,1
+0,30095556,Development,2,medium_freq_createdBy,high_freq_updatedBy,192,75.0,1
+0,30095554,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,150.0,1
+0,30095553,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,100.0,1
+0,30095552,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,150.0,1
+0,30095551,Development,10,medium_freq_createdBy,high_freq_updatedBy,192,100.0,1
+0,30095550,Development,0,high_freq_createdBy,high_freq_updatedBy,192,50.0,1
+0,30095549,Development,0,high_freq_createdBy,high_freq_updatedBy,192,100.0,1
+0,30095546,Development,10,medium_freq_createdBy,high_freq_updatedBy,191,100.0,1
+1,30095545,Development,8,high_freq_createdBy,high_freq_updatedBy,191,900.0,1
+1,30095544,Data Science,40,medium_freq_createdBy,high_freq_updatedBy,191,7500.0,1
+1,30095525,Development,5,high_freq_createdBy,high_freq_updatedBy,191,1050.0,1
+0,30095514,Development,10,high_freq_createdBy,high_freq_updatedBy,191,130.0,1
+1,30095509,Design,5,medium_freq_createdBy,high_freq_updatedBy,191,6250.0,1
+0,30095498,Development,10,high_freq_createdBy,medium_freq_updatedBy,191,150.0,1
+1,30095496,Design,34,medium_freq_createdBy,high_freq_updatedBy,191,2000.0,1
+1,30095487,Development,5,high_freq_createdBy,high_freq_updatedBy,191,600.0,1
+1,30095470,Development,7,medium_freq_createdBy,medium_freq_updatedBy,191,1800.0,1
+0,30095466,Development,10,high_freq_createdBy,high_freq_updatedBy,191,100.0,1
+1,30095463,Development,4,medium_freq_createdBy,high_freq_updatedBy,190,750.0,1
+1,30095429,Development,4,medium_freq_createdBy,medium_freq_updatedBy,190,600.0,1
+1,30095426,Development,9,medium_freq_createdBy,high_freq_updatedBy,190,3500.0,1
+1,30095425,Development,6,medium_freq_createdBy,medium_freq_updatedBy,190,3627.6499999999996,1
+1,30095424,Development,5,medium_freq_createdBy,high_freq_updatedBy,190,1050.0,1
+1,30095423,Development,4,medium_freq_createdBy,high_freq_updatedBy,190,2400.0,1
+1,30095422,Development,9,medium_freq_createdBy,high_freq_updatedBy,190,2400.0,1
+1,30095421,Development,12,medium_freq_createdBy,high_freq_updatedBy,190,1800.0,1
+1,30095396,Quality Assurance,3,high_freq_createdBy,high_freq_updatedBy,190,450.0,1
+0,30095394,Development,10,high_freq_createdBy,high_freq_updatedBy,190,400.0,1
+1,30095381,Development,8,medium_freq_createdBy,high_freq_updatedBy,190,1800.0,1
+0,30095373,Development,9,medium_freq_createdBy,high_freq_updatedBy,189,100.0,1
+1,30095348,Development,4,medium_freq_createdBy,high_freq_updatedBy,189,1200.0,1
+1,30095347,Development,5,medium_freq_createdBy,low_freq_updatedBy,189,0.0,1
+1,30095274,Development,7,high_freq_createdBy,high_freq_updatedBy,188,1500.0,1
+0,30095272,Development,0,high_freq_createdBy,high_freq_updatedBy,188,200.0,1
+0,30095270,Development,1,high_freq_createdBy,high_freq_updatedBy,188,300.0,1
+1,30095269,Development,6,high_freq_createdBy,high_freq_updatedBy,188,1050.0,1
+1,30095265,Development,8,medium_freq_createdBy,high_freq_updatedBy,188,1500.0,1
+1,30095255,Development,3,medium_freq_createdBy,high_freq_updatedBy,187,1050.0,1
+1,30095252,Development,8,medium_freq_createdBy,high_freq_updatedBy,186,3000.0,1
+1,30095239,Development,6,high_freq_createdBy,high_freq_updatedBy,186,600.0,1
+1,30095238,Development,7,high_freq_createdBy,high_freq_updatedBy,186,600.0,1
+0,30095173,Development,0,high_freq_createdBy,high_freq_updatedBy,186,125.0,1
+0,30095130,Development,7,low_freq_createdBy,high_freq_updatedBy,186,37.63,1
+0,30095109,Development,2,high_freq_createdBy,high_freq_updatedBy,186,300.0,1
+0,30095106,Development,10,high_freq_createdBy,high_freq_updatedBy,185,500.0,1
+0,30095105,Development,3,high_freq_createdBy,high_freq_updatedBy,185,500.0,1
+1,30095104,Design,34,medium_freq_createdBy,high_freq_updatedBy,185,2000.0,1
+1,30095099,Development,7,high_freq_createdBy,high_freq_updatedBy,185,900.0,1
+1,30095098,Development,3,medium_freq_createdBy,high_freq_updatedBy,185,1050.0,1
+1,30095076,Design,30,medium_freq_createdBy,high_freq_updatedBy,185,2750.0,1
+1,30095036,Development,6,medium_freq_createdBy,high_freq_updatedBy,185,1200.0,1
+1,30095032,Development,11,medium_freq_createdBy,high_freq_updatedBy,185,1100.0,1
+1,30095031,Development,7,high_freq_createdBy,high_freq_updatedBy,185,365.0,1
+1,30095023,Design,25,medium_freq_createdBy,high_freq_updatedBy,184,2750.0,1
+1,30095020,Development,10,high_freq_createdBy,medium_freq_updatedBy,184,370.0,1
+1,30095011,Development,10,medium_freq_createdBy,high_freq_updatedBy,184,2450.0,1
+0,30095006,Development,10,high_freq_createdBy,high_freq_updatedBy,184,125.0,1
+0,30095005,Development,1,high_freq_createdBy,medium_freq_updatedBy,184,200.0,1
+0,30095004,Development,1,high_freq_createdBy,medium_freq_updatedBy,184,400.0,1
+0,30094980,Development,1,medium_freq_createdBy,high_freq_updatedBy,183,100.0,1
+1,30094958,Data Science,14,medium_freq_createdBy,high_freq_updatedBy,183,3750.0,1
+1,30094954,Development,7,medium_freq_createdBy,high_freq_updatedBy,183,2100.0,1
+1,30094928,Development,26,low_freq_createdBy,high_freq_updatedBy,183,150.0,1
+1,30094915,Development,10,low_freq_createdBy,high_freq_updatedBy,183,3000.0,1
+1,30094891,Development,7,high_freq_createdBy,high_freq_updatedBy,183,1500.0,1
+1,30094879,Development,6,medium_freq_createdBy,high_freq_updatedBy,183,2400.0,1
+1,30094876,Development,7,high_freq_createdBy,medium_freq_updatedBy,183,1650.0,1
+1,30094848,Development,4,medium_freq_createdBy,high_freq_updatedBy,182,1050.0,1
+1,30094666,Development,10,medium_freq_createdBy,high_freq_updatedBy,182,1800.0,1
+0,30094664,Development,0,high_freq_createdBy,high_freq_updatedBy,182,50.0,1
+0,30094663,Development,5,high_freq_createdBy,high_freq_updatedBy,182,200.0,1
+0,30094661,Development,1,high_freq_createdBy,high_freq_updatedBy,181,300.0,1
+0,30094657,Development,0,high_freq_createdBy,high_freq_updatedBy,181,350.0,1
+0,30094649,Development,0,high_freq_createdBy,high_freq_updatedBy,181,300.0,1
+1,30094624,Development,7,high_freq_createdBy,high_freq_updatedBy,180,750.0,1
+1,30094623,Development,5,high_freq_createdBy,high_freq_updatedBy,180,600.0,1
+1,30094622,Development,3,high_freq_createdBy,high_freq_updatedBy,180,1050.0,1
+1,30094621,Design,15,low_freq_createdBy,high_freq_updatedBy,180,2000.0,1
+1,30094618,Development,2,medium_freq_createdBy,high_freq_updatedBy,180,600.0,1
+0,30094616,Design,5,medium_freq_createdBy,high_freq_updatedBy,180,150.0,1
+1,30094612,Design,36,medium_freq_createdBy,high_freq_updatedBy,180,2000.0,1
+1,30094611,Development,2,medium_freq_createdBy,high_freq_updatedBy,180,950.0,1
+1,30094609,Development,3,high_freq_createdBy,high_freq_updatedBy,179,900.0,1
+0,30094583,Development,2,medium_freq_createdBy,high_freq_updatedBy,179,400.0,1
+1,30094577,Development,9,high_freq_createdBy,high_freq_updatedBy,179,1800.0,1
+0,30094534,Development,4,high_freq_createdBy,high_freq_updatedBy,179,450.0,1
+1,30094491,Development,6,medium_freq_createdBy,high_freq_updatedBy,178,750.0,1
+1,30094478,Development,18,medium_freq_createdBy,high_freq_updatedBy,178,125.0,1
+1,30094475,Development,7,medium_freq_createdBy,high_freq_updatedBy,178,2400.0,1
+0,30094462,Development,4,high_freq_createdBy,high_freq_updatedBy,178,50.0,1
+1,30094407,Development,8,medium_freq_createdBy,high_freq_updatedBy,178,1500.0,1
+1,30094383,Data Science,40,medium_freq_createdBy,low_freq_updatedBy,177,17000.0,1
+1,30094359,Development,10,medium_freq_createdBy,high_freq_updatedBy,177,1800.0,1
+1,30094353,Development,6,high_freq_createdBy,high_freq_updatedBy,177,1500.0,1
+1,30094337,Development,6,medium_freq_createdBy,high_freq_updatedBy,177,150.0,1
+1,30094336,Development,6,medium_freq_createdBy,high_freq_updatedBy,177,150.0,1
+1,30094335,Development,6,medium_freq_createdBy,high_freq_updatedBy,177,150.0,1
+1,30094334,Development,6,medium_freq_createdBy,high_freq_updatedBy,177,150.0,1
+1,30094324,Development,6,medium_freq_createdBy,high_freq_updatedBy,177,150.0,1
+1,30094310,Design,6,medium_freq_createdBy,medium_freq_updatedBy,176,1475.0,1
+1,30094268,Design,27,medium_freq_createdBy,high_freq_updatedBy,176,2000.0,1
+1,30094267,Development,9,medium_freq_createdBy,high_freq_updatedBy,176,1800.0,1
+1,30094255,Development,7,high_freq_createdBy,high_freq_updatedBy,176,900.0,1
+1,30094251,Development,6,high_freq_createdBy,high_freq_updatedBy,176,1200.0,1
+1,30094250,Development,6,high_freq_createdBy,high_freq_updatedBy,176,1050.0,1
+1,30094248,Development,7,high_freq_createdBy,high_freq_updatedBy,176,1200.0,1
+0,30094247,Development,1,high_freq_createdBy,high_freq_updatedBy,176,250.0,1
+1,30094231,Development,8,high_freq_createdBy,high_freq_updatedBy,176,900.0,1
+1,30094220,Development,5,high_freq_createdBy,high_freq_updatedBy,176,900.0,1
+1,30094218,Development,6,medium_freq_createdBy,medium_freq_updatedBy,176,1050.0,1
+0,30094216,Development,10,high_freq_createdBy,medium_freq_updatedBy,176,100.0,1
+1,30094205,Data Science,116,medium_freq_createdBy,medium_freq_updatedBy,175,92500.0,1
+1,30094179,Data Science,22,medium_freq_createdBy,medium_freq_updatedBy,175,3000.0,1
+1,30094131,Development,6,medium_freq_createdBy,high_freq_updatedBy,175,3766.25,1
+1,30094128,Development,5,medium_freq_createdBy,high_freq_updatedBy,175,2390.0,1
+0,30094113,Development,10,high_freq_createdBy,medium_freq_updatedBy,175,400.0,1
+1,30094102,Development,6,high_freq_createdBy,high_freq_updatedBy,175,1100.0,1
+1,30094097,Development,9,medium_freq_createdBy,high_freq_updatedBy,174,1500.0,1
+1,30094096,Development,5,medium_freq_createdBy,medium_freq_updatedBy,173,1400.0,1
+0,30094095,Development,10,high_freq_createdBy,medium_freq_updatedBy,173,150.0,1
+1,30094093,Development,5,high_freq_createdBy,high_freq_updatedBy,173,1200.0,1
+0,30094090,Design,6,medium_freq_createdBy,low_freq_updatedBy,173,500.0,1
+1,30094083,Development,6,high_freq_createdBy,medium_freq_updatedBy,172,1100.0,1
+1,30094082,Development,6,high_freq_createdBy,high_freq_updatedBy,172,1600.0,1
+1,30094069,Design,22,medium_freq_createdBy,high_freq_updatedBy,172,2750.0,1
+1,30094068,Design,22,medium_freq_createdBy,high_freq_updatedBy,172,1550.0,1
+1,30094050,Development,6,medium_freq_createdBy,medium_freq_updatedBy,172,1300.0,1
+1,30094037,Development,2,medium_freq_createdBy,medium_freq_updatedBy,172,1500.0,1
+0,30094001,Development,1,medium_freq_createdBy,high_freq_updatedBy,172,150.0,1
+1,30093999,Development,6,medium_freq_createdBy,medium_freq_updatedBy,172,1200.0,1
+1,30093998,Development,3,medium_freq_createdBy,medium_freq_updatedBy,172,1500.0,1
+1,30093983,Development,8,high_freq_createdBy,medium_freq_updatedBy,172,1800.0,1
+1,30093967,Development,8,medium_freq_createdBy,high_freq_updatedBy,172,2400.0,1
+1,30093962,Development,7,high_freq_createdBy,medium_freq_updatedBy,171,1200.0,1
+0,30093946,Development,4,high_freq_createdBy,medium_freq_updatedBy,171,300.0,1
+1,30093934,Development,6,high_freq_createdBy,high_freq_updatedBy,171,1500.0,1
+1,30093927,Development,6,high_freq_createdBy,high_freq_updatedBy,171,1200.0,1
+0,30093924,Development,1,medium_freq_createdBy,high_freq_updatedBy,171,200.0,1
+0,30093923,Development,1,high_freq_createdBy,high_freq_updatedBy,171,175.0,1
+1,30093918,Development,8,high_freq_createdBy,high_freq_updatedBy,171,1350.0,1
+1,30093917,Development,6,medium_freq_createdBy,high_freq_updatedBy,171,600.0,1
+1,30093914,Development,7,medium_freq_createdBy,high_freq_updatedBy,171,3000.0,1
+1,30093902,Development,9,medium_freq_createdBy,high_freq_updatedBy,170,1200.0,1
+1,30093891,Development,10,medium_freq_createdBy,high_freq_updatedBy,170,1200.0,1
+1,30093888,Development,7,high_freq_createdBy,high_freq_updatedBy,170,1100.0,1
+1,30093878,Development,5,medium_freq_createdBy,high_freq_updatedBy,170,1500.0,1
+1,30093873,Development,5,high_freq_createdBy,high_freq_updatedBy,170,1350.0,1
+1,30093860,Development,8,medium_freq_createdBy,high_freq_updatedBy,170,0.0,1
+1,30093850,Development,8,high_freq_createdBy,high_freq_updatedBy,170,1500.0,1
+1,30093841,Development,5,high_freq_createdBy,high_freq_updatedBy,170,1200.0,1
+0,30093838,Development,1,medium_freq_createdBy,high_freq_updatedBy,170,150.0,1
+0,30093823,Development,5,medium_freq_createdBy,medium_freq_updatedBy,170,150.0,1
+1,30093820,Development,5,medium_freq_createdBy,medium_freq_updatedBy,169,1200.0,1
+0,30093817,Development,3,high_freq_createdBy,high_freq_updatedBy,169,120.0,1
+1,30093814,Development,8,high_freq_createdBy,high_freq_updatedBy,169,1050.0,1
+1,30093813,Development,3,high_freq_createdBy,high_freq_updatedBy,169,900.0,1
+1,30093803,Development,9,medium_freq_createdBy,high_freq_updatedBy,169,1.0,1
+0,30093802,Development,3,medium_freq_createdBy,high_freq_updatedBy,169,400.0,1
+1,30093777,Development,9,high_freq_createdBy,high_freq_updatedBy,169,1500.0,1
+1,30093755,Development,7,medium_freq_createdBy,high_freq_updatedBy,169,1200.0,1
+0,30093711,Development,3,medium_freq_createdBy,high_freq_updatedBy,169,400.0,1
+1,30093648,Development,7,high_freq_createdBy,high_freq_updatedBy,168,1800.0,1
+1,30093618,Data Science,20,medium_freq_createdBy,high_freq_updatedBy,168,3800.0,1
+0,30093610,Development,10,medium_freq_createdBy,high_freq_updatedBy,168,150.0,1
+0,30093590,Development,1,high_freq_createdBy,high_freq_updatedBy,166,175.0,1
+1,30093586,Design,23,medium_freq_createdBy,medium_freq_updatedBy,166,2750.0,1
+1,30093584,Development,7,medium_freq_createdBy,medium_freq_updatedBy,166,1200.0,1
+1,30093582,Development,9,medium_freq_createdBy,medium_freq_updatedBy,166,1800.0,1
+1,30093581,Design,26,medium_freq_createdBy,high_freq_updatedBy,165,1550.0,1
+1,30093580,Development,7,high_freq_createdBy,high_freq_updatedBy,165,900.0,1
+1,30093570,Development,6,high_freq_createdBy,high_freq_updatedBy,165,1500.0,1
+1,30093566,Development,6,medium_freq_createdBy,high_freq_updatedBy,165,2100.0,1
+1,30093565,Development,0,medium_freq_createdBy,low_freq_updatedBy,165,700.0,1
+1,30093563,Design,13,low_freq_createdBy,high_freq_updatedBy,165,2000.0,1
+1,30093527,Development,3,high_freq_createdBy,high_freq_updatedBy,165,600.0,1
+1,30093515,Development,6,high_freq_createdBy,high_freq_updatedBy,165,1200.0,1
+0,30093475,Development,3,medium_freq_createdBy,high_freq_updatedBy,165,400.0,1
+1,30093468,Design,53,medium_freq_createdBy,high_freq_updatedBy,164,2750.0,1
+1,30093453,Design,15,medium_freq_createdBy,high_freq_updatedBy,164,2000.0,1
+1,30093421,Development,13,high_freq_createdBy,high_freq_updatedBy,164,2100.0,1
+0,30093414,Development,10,medium_freq_createdBy,high_freq_updatedBy,164,80.0,1
+1,30093366,Design,14,medium_freq_createdBy,high_freq_updatedBy,163,1550.0,1
+1,30093343,Development,5,low_freq_createdBy,high_freq_updatedBy,163,1000.0,1
+1,30093331,Development,15,medium_freq_createdBy,high_freq_updatedBy,163,0.0,1
+0,30093329,Development,10,high_freq_createdBy,high_freq_updatedBy,163,100.0,1
+1,30093327,Development,6,high_freq_createdBy,high_freq_updatedBy,163,900.0,1
+1,30093326,Development,8,high_freq_createdBy,high_freq_updatedBy,163,900.0,1
+1,30093325,Development,7,high_freq_createdBy,high_freq_updatedBy,163,900.0,1
+1,30093324,Development,9,high_freq_createdBy,high_freq_updatedBy,163,1500.0,1
+1,30093315,Development,5,high_freq_createdBy,high_freq_updatedBy,163,600.0,1
+1,30093279,Design,28,medium_freq_createdBy,high_freq_updatedBy,163,400.0,1
+0,30093251,Development,0,high_freq_createdBy,high_freq_updatedBy,163,75.0,1
+1,30093232,Development,6,medium_freq_createdBy,high_freq_updatedBy,162,2000.0,1
+0,30093231,Development,3,medium_freq_createdBy,medium_freq_updatedBy,162,1000.0,1
+1,30093230,Data Science,11,medium_freq_createdBy,high_freq_updatedBy,162,3600.0,1
+1,30093229,Development,6,high_freq_createdBy,high_freq_updatedBy,162,1050.0,1
+1,30093218,Data Science,22,medium_freq_createdBy,medium_freq_updatedBy,162,3000.0,1
+1,30093217,Development,6,medium_freq_createdBy,high_freq_updatedBy,162,3019.3,1
+1,30093216,Development,4,medium_freq_createdBy,medium_freq_updatedBy,162,2390.0,1
+0,30093183,Development,0,high_freq_createdBy,medium_freq_updatedBy,162,50.0,1
+1,30093178,Development,6,high_freq_createdBy,high_freq_updatedBy,162,1350.0,1
+1,30093155,Development,5,high_freq_createdBy,high_freq_updatedBy,162,1050.0,1
+1,30093137,Development,6,high_freq_createdBy,high_freq_updatedBy,161,1800.0,1
+1,30093111,Development,7,high_freq_createdBy,high_freq_updatedBy,161,1500.0,1
+0,30093107,Development,1,high_freq_createdBy,high_freq_updatedBy,161,250.0,1
+1,30093093,Development,6,high_freq_createdBy,medium_freq_updatedBy,161,1200.0,1
+0,30093043,Development,0,medium_freq_createdBy,high_freq_updatedBy,160,80.0,1
+0,30092990,Development,1,medium_freq_createdBy,high_freq_updatedBy,159,150.0,1
+0,30092902,Development,1,high_freq_createdBy,medium_freq_updatedBy,159,100.0,1
+1,30092878,Development,8,medium_freq_createdBy,high_freq_updatedBy,159,1500.0,1
+0,30092875,Development,1,high_freq_createdBy,medium_freq_updatedBy,159,50.0,1
+1,30092872,Data Science,31,medium_freq_createdBy,medium_freq_updatedBy,158,9000.0,1
+0,30092851,Development,6,low_freq_createdBy,high_freq_updatedBy,158,275.0,1
+1,30092849,Development,4,high_freq_createdBy,high_freq_updatedBy,158,900.0,1
+1,30092804,Design,18,low_freq_createdBy,high_freq_updatedBy,158,1550.0,1
+1,30092787,Development,22,medium_freq_createdBy,medium_freq_updatedBy,158,1500.0,1
+1,30092776,Development,6,medium_freq_createdBy,high_freq_updatedBy,157,1200.0,1
+0,30092759,Development,0,high_freq_createdBy,medium_freq_updatedBy,157,120.0,1
+1,30092668,Design,20,medium_freq_createdBy,high_freq_updatedBy,157,2000.0,1
+0,30092665,Development,3,high_freq_createdBy,high_freq_updatedBy,157,600.0,1
+0,30092657,Development,11,medium_freq_createdBy,high_freq_updatedBy,156,300.0,1
+1,30092656,Design,16,medium_freq_createdBy,medium_freq_updatedBy,156,2750.0,1
+1,30092655,Development,1,medium_freq_createdBy,high_freq_updatedBy,156,600.0,1
+1,30092649,Quality Assurance,5,medium_freq_createdBy,high_freq_updatedBy,156,300.0,1
+1,30092645,Development,6,medium_freq_createdBy,medium_freq_updatedBy,156,1800.0,1
+1,30092642,Development,7,medium_freq_createdBy,high_freq_updatedBy,156,1200.0,1
+1,30092624,Development,5,medium_freq_createdBy,high_freq_updatedBy,156,0.0,0
+1,30092621,Development,2,high_freq_createdBy,high_freq_updatedBy,156,900.0,1
+1,30092616,Development,8,medium_freq_createdBy,high_freq_updatedBy,156,900.0,1
+1,30092603,Design,22,medium_freq_createdBy,high_freq_updatedBy,155,2750.0,1
+1,30092582,Development,6,high_freq_createdBy,high_freq_updatedBy,155,1500.0,1
+1,30092576,Design,15,medium_freq_createdBy,high_freq_updatedBy,155,2000.0,1
+1,30092572,Development,7,medium_freq_createdBy,medium_freq_updatedBy,155,1200.0,1
+1,30092566,Development,6,high_freq_createdBy,high_freq_updatedBy,155,1200.0,1
+1,30092553,Development,7,medium_freq_createdBy,high_freq_updatedBy,155,1600.0,1
+1,30092548,Development,8,medium_freq_createdBy,high_freq_updatedBy,155,1800.0,1
+0,30092509,Development,0,medium_freq_createdBy,medium_freq_updatedBy,155,200.0,1
+1,30092483,Data Science,61,medium_freq_createdBy,high_freq_updatedBy,155,0.0,1
+1,30092468,Development,7,medium_freq_createdBy,high_freq_updatedBy,155,2100.0,1
+1,30092354,Development,9,high_freq_createdBy,high_freq_updatedBy,154,855.0,1
+1,30092349,Development,6,high_freq_createdBy,high_freq_updatedBy,154,1050.0,1
+1,30092334,Design,7,medium_freq_createdBy,high_freq_updatedBy,153,5750.0,1
+0,30092330,Development,5,low_freq_createdBy,high_freq_updatedBy,153,250.0,1
+1,30092321,Development,5,high_freq_createdBy,high_freq_updatedBy,153,1000.0,1
+1,30092320,Development,9,high_freq_createdBy,high_freq_updatedBy,153,1500.0,1
+1,30092313,Development,3,medium_freq_createdBy,high_freq_updatedBy,152,600.0,1
+1,30092312,Development,5,medium_freq_createdBy,high_freq_updatedBy,152,750.0,1
+1,30092311,Design,11,medium_freq_createdBy,medium_freq_updatedBy,152,3.0,1
+1,30092310,Design,11,medium_freq_createdBy,medium_freq_updatedBy,152,0.0,1
+0,30092304,Development,10,high_freq_createdBy,high_freq_updatedBy,152,100.0,1
+1,30092303,Data Science,267,medium_freq_createdBy,high_freq_updatedBy,152,24000.0,1
+1,30092302,Development,0,medium_freq_createdBy,low_freq_updatedBy,152,200.0,1
+0,30092289,Development,1,medium_freq_createdBy,high_freq_updatedBy,151,150.0,1
+1,30092274,Development,6,high_freq_createdBy,high_freq_updatedBy,151,1500.0,1
+1,30092273,Development,8,high_freq_createdBy,high_freq_updatedBy,151,1200.0,1
+0,30092207,Development,9,high_freq_createdBy,high_freq_updatedBy,151,300.0,1
+1,30092190,Development,8,medium_freq_createdBy,high_freq_updatedBy,151,900.0,1
+1,30092166,Data Science,43,medium_freq_createdBy,high_freq_updatedBy,151,0.0,1
+1,30092160,Development,5,high_freq_createdBy,high_freq_updatedBy,151,800.0,1
+1,30092150,Design,6,medium_freq_createdBy,high_freq_updatedBy,151,5250.0,1
+1,30092149,Development,7,medium_freq_createdBy,high_freq_updatedBy,150,3600.0,1
+1,30092118,Design,17,medium_freq_createdBy,high_freq_updatedBy,150,2000.0,1
+1,30092105,Development,10,medium_freq_createdBy,high_freq_updatedBy,150,2100.0,1
+0,30092074,Development,0,high_freq_createdBy,high_freq_updatedBy,150,200.0,1
+0,30092073,Development,0,high_freq_createdBy,high_freq_updatedBy,150,200.0,1
+0,30092040,Development,4,high_freq_createdBy,high_freq_updatedBy,150,250.0,1
+0,30092039,Development,2,high_freq_createdBy,high_freq_updatedBy,150,100.0,1
+1,30092033,Development,0,medium_freq_createdBy,high_freq_updatedBy,150,500.0,1
+1,30091997,Development,6,medium_freq_createdBy,high_freq_updatedBy,149,1500.0,1
+1,30091975,Design,11,medium_freq_createdBy,low_freq_updatedBy,149,1150.0,1
+1,30091973,Development,12,medium_freq_createdBy,high_freq_updatedBy,149,2700.0,1
+0,30091957,Development,0,high_freq_createdBy,high_freq_updatedBy,149,250.0,1
+1,30091944,Quality Assurance,6,medium_freq_createdBy,medium_freq_updatedBy,149,1100.0,1
+1,30091941,Development,5,high_freq_createdBy,high_freq_updatedBy,149,1050.0,1
+1,30091940,Development,6,high_freq_createdBy,high_freq_updatedBy,149,1050.0,1
+1,30091939,Development,5,high_freq_createdBy,high_freq_updatedBy,149,750.0,1
+1,30091925,Data Science,23,medium_freq_createdBy,medium_freq_updatedBy,149,4250.0,1
+1,30091868,Design,29,medium_freq_createdBy,high_freq_updatedBy,148,2750.0,1
+1,30091862,Design,32,medium_freq_createdBy,medium_freq_updatedBy,148,1550.0,1
+1,30091826,Development,7,medium_freq_createdBy,high_freq_updatedBy,148,450.0,1
+1,30091810,Development,6,medium_freq_createdBy,high_freq_updatedBy,147,2100.0,1
+1,30091807,Development,7,medium_freq_createdBy,high_freq_updatedBy,147,3914.5,1
+1,30091806,Development,4,medium_freq_createdBy,high_freq_updatedBy,147,2196.0,1
+1,30091792,Development,7,medium_freq_createdBy,high_freq_updatedBy,147,0.0,1
+0,30091748,Development,0,high_freq_createdBy,high_freq_updatedBy,147,125.0,1
+1,30091715,Design,15,medium_freq_createdBy,high_freq_updatedBy,147,2000.0,1
+1,30091712,Data Science,31,medium_freq_createdBy,high_freq_updatedBy,146,0.0,1
+1,30091711,Design,24,medium_freq_createdBy,high_freq_updatedBy,146,1550.0,1
+1,30091707,Data Science,23,medium_freq_createdBy,high_freq_updatedBy,146,4000.0,1
+0,30091706,Development,1,high_freq_createdBy,high_freq_updatedBy,146,150.0,1
+1,30091705,Development,12,medium_freq_createdBy,medium_freq_updatedBy,145,450.0,1
+1,30091693,Quality Assurance,9,medium_freq_createdBy,high_freq_updatedBy,145,500.0,1
+1,30091690,Data Science,23,medium_freq_createdBy,high_freq_updatedBy,145,3800.0,1
+1,30091684,Design,28,medium_freq_createdBy,high_freq_updatedBy,145,2000.0,1
+1,30091675,Design,25,medium_freq_createdBy,high_freq_updatedBy,144,2000.0,1
+0,30091674,Development,8,medium_freq_createdBy,high_freq_updatedBy,144,300.0,1
+1,30091672,Development,11,medium_freq_createdBy,high_freq_updatedBy,144,3000.0,1
+1,30091667,Development,6,high_freq_createdBy,high_freq_updatedBy,144,1050.0,1
+1,30091666,Quality Assurance,6,high_freq_createdBy,medium_freq_updatedBy,144,738.0,1
+1,30091662,Design,17,medium_freq_createdBy,high_freq_updatedBy,144,2000.0,1
+1,30091651,Design,5,medium_freq_createdBy,high_freq_updatedBy,144,200.0,1
+1,30091642,Design,12,medium_freq_createdBy,high_freq_updatedBy,144,300.0,1
+0,30091621,Development,1,medium_freq_createdBy,high_freq_updatedBy,144,80.0,1
+1,30091609,Development,8,medium_freq_createdBy,high_freq_updatedBy,144,1500.0,1
+1,30091600,Data Science,15,medium_freq_createdBy,medium_freq_updatedBy,143,7000.0,1
+1,30091598,Design,62,low_freq_createdBy,high_freq_updatedBy,143,4800.0,1
+1,30091597,Development,7,high_freq_createdBy,medium_freq_updatedBy,143,900.0,1
+1,30091596,Development,4,high_freq_createdBy,medium_freq_updatedBy,143,900.0,1
+1,30091595,Development,6,high_freq_createdBy,high_freq_updatedBy,143,900.0,1
+1,30091530,Design,28,medium_freq_createdBy,high_freq_updatedBy,142,750.0,1
+1,30091524,Development,6,high_freq_createdBy,high_freq_updatedBy,142,1400.0,1
+1,30091518,Development,6,high_freq_createdBy,high_freq_updatedBy,142,1800.0,1
+0,30091414,Development,9,medium_freq_createdBy,high_freq_updatedBy,142,100.0,1
+1,30091322,Development,8,medium_freq_createdBy,high_freq_updatedBy,141,1800.0,1
+1,30091311,Development,6,low_freq_createdBy,high_freq_updatedBy,141,120.0,1
+0,30091275,Development,2,high_freq_createdBy,high_freq_updatedBy,141,350.0,1
+0,30091243,Development,0,high_freq_createdBy,medium_freq_updatedBy,141,50.0,1
+1,30091238,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,141,0.0,1
+0,30091193,Development,0,high_freq_createdBy,high_freq_updatedBy,141,400.0,1
+0,30091192,Development,0,high_freq_createdBy,medium_freq_updatedBy,141,70.0,1
+1,30091167,Development,3,medium_freq_createdBy,high_freq_updatedBy,140,900.0,1
+1,30091166,Development,6,medium_freq_createdBy,high_freq_updatedBy,140,1200.0,1
+1,30091162,Development,4,medium_freq_createdBy,high_freq_updatedBy,140,900.0,1
+0,30091160,Design,2,medium_freq_createdBy,high_freq_updatedBy,140,150.0,1
+0,30091094,Development,3,medium_freq_createdBy,high_freq_updatedBy,140,300.0,1
+1,30091082,Design,39,medium_freq_createdBy,high_freq_updatedBy,139,2750.0,1
+0,30091078,Design,0,medium_freq_createdBy,high_freq_updatedBy,138,75.0,1
+1,30091076,Development,8,high_freq_createdBy,high_freq_updatedBy,138,1600.0,1
+0,30091074,Development,3,high_freq_createdBy,medium_freq_updatedBy,138,250.0,1
+0,30091067,Development,5,high_freq_createdBy,high_freq_updatedBy,137,300.0,1
+1,30091056,Development,9,high_freq_createdBy,high_freq_updatedBy,137,1200.0,1
+1,30091055,Development,10,high_freq_createdBy,high_freq_updatedBy,137,1200.0,1
+1,30091028,Design,33,medium_freq_createdBy,high_freq_updatedBy,137,2750.0,1
+1,30091023,Development,10,high_freq_createdBy,high_freq_updatedBy,137,900.0,1
+1,30091021,Development,9,high_freq_createdBy,high_freq_updatedBy,137,1500.0,1
+0,30091014,Development,9,medium_freq_createdBy,high_freq_updatedBy,137,100.0,1
+1,30090953,Development,9,medium_freq_createdBy,high_freq_updatedBy,136,2100.0,1
+1,30090949,Development,6,high_freq_createdBy,medium_freq_updatedBy,136,1500.0,1
+0,30090922,Development,1,medium_freq_createdBy,high_freq_updatedBy,136,80.0,1
+1,30090913,Development,6,medium_freq_createdBy,medium_freq_updatedBy,136,600.0,1
+0,30090911,Development,2,medium_freq_createdBy,high_freq_updatedBy,135,150.0,1
+1,30090910,Design,21,medium_freq_createdBy,high_freq_updatedBy,135,2000.0,1
+1,30090896,Development,7,high_freq_createdBy,high_freq_updatedBy,135,1200.0,1
+1,30090895,Development,10,medium_freq_createdBy,high_freq_updatedBy,135,25.0,1
+1,30090894,Development,7,high_freq_createdBy,high_freq_updatedBy,135,900.0,1
+0,30090892,Development,9,high_freq_createdBy,high_freq_updatedBy,135,300.0,1
+0,30090891,Development,0,high_freq_createdBy,high_freq_updatedBy,135,80.0,1
+0,30090890,Development,1,high_freq_createdBy,high_freq_updatedBy,135,100.0,1
+0,30090889,Development,0,high_freq_createdBy,high_freq_updatedBy,135,100.0,1
+0,30090888,Development,1,high_freq_createdBy,high_freq_updatedBy,135,100.0,1
+0,30090887,Development,10,high_freq_createdBy,high_freq_updatedBy,135,120.0,1
+1,30090886,Design,2,medium_freq_createdBy,high_freq_updatedBy,135,1475.0,1
+0,30090885,Development,0,high_freq_createdBy,high_freq_updatedBy,135,120.0,1
+0,30090884,Development,1,high_freq_createdBy,high_freq_updatedBy,135,80.0,1
+1,30090883,Design,4,medium_freq_createdBy,high_freq_updatedBy,135,1475.0,1
+1,30090882,Development,8,medium_freq_createdBy,high_freq_updatedBy,135,1200.0,1
+1,30090881,Design,17,medium_freq_createdBy,high_freq_updatedBy,135,2750.0,1
+0,30090871,Design,0,medium_freq_createdBy,high_freq_updatedBy,135,200.0,1
+0,30090870,Development,6,high_freq_createdBy,high_freq_updatedBy,135,500.0,1
+1,30090869,Development,5,medium_freq_createdBy,high_freq_updatedBy,135,900.0,1
+1,30090834,Development,8,medium_freq_createdBy,high_freq_updatedBy,135,2400.0,1
+0,30090819,Development,0,medium_freq_createdBy,high_freq_updatedBy,135,80.0,1
+1,30090760,Development,7,medium_freq_createdBy,high_freq_updatedBy,135,3000.0,1
+0,30090755,Development,10,medium_freq_createdBy,high_freq_updatedBy,135,600.0,1
+0,30090720,Development,6,high_freq_createdBy,high_freq_updatedBy,135,350.0,1
+1,30090712,Data Science,12,high_freq_createdBy,medium_freq_updatedBy,135,3500.0,1
+0,30090695,Development,0,high_freq_createdBy,high_freq_updatedBy,134,80.0,1
+0,30090693,Development,0,high_freq_createdBy,high_freq_updatedBy,134,150.0,1
+0,30090692,Development,0,high_freq_createdBy,high_freq_updatedBy,134,100.0,1
+1,30090691,Development,8,high_freq_createdBy,high_freq_updatedBy,134,2100.0,1
+1,30090680,Data Science,13,high_freq_createdBy,medium_freq_updatedBy,134,3500.0,1
+1,30090608,Development,6,medium_freq_createdBy,high_freq_updatedBy,134,4758.0,1
+1,30090607,Data Science,7,medium_freq_createdBy,high_freq_updatedBy,134,3000.0,1
+1,30090606,Development,3,medium_freq_createdBy,high_freq_updatedBy,134,2264.0,1
+0,30090605,Development,2,medium_freq_createdBy,high_freq_updatedBy,134,500.0,1
+0,30090601,Design,2,medium_freq_createdBy,high_freq_updatedBy,133,60.0,1
+0,30090591,Design,0,medium_freq_createdBy,high_freq_updatedBy,133,100.0,1
+1,30090537,Development,9,high_freq_createdBy,high_freq_updatedBy,132,1800.0,1
+0,30090515,Design,1,medium_freq_createdBy,high_freq_updatedBy,131,100.0,1
+0,30090513,Development,1,medium_freq_createdBy,high_freq_updatedBy,131,100.0,1
+0,30090511,Development,5,medium_freq_createdBy,high_freq_updatedBy,131,200.0,1
+1,30090508,Development,10,high_freq_createdBy,high_freq_updatedBy,131,520.0,1
+1,30090505,Design,11,medium_freq_createdBy,high_freq_updatedBy,130,2000.0,1
+1,30090498,Development,7,high_freq_createdBy,high_freq_updatedBy,130,900.0,1
+1,30090490,Design,11,medium_freq_createdBy,high_freq_updatedBy,130,1150.0,1
+1,30090473,Development,6,high_freq_createdBy,high_freq_updatedBy,130,1800.0,1
+1,30090467,Development,9,medium_freq_createdBy,high_freq_updatedBy,130,1800.0,1
+1,30090464,Development,7,medium_freq_createdBy,high_freq_updatedBy,130,1200.0,1
+1,30090463,Development,7,medium_freq_createdBy,high_freq_updatedBy,130,1200.0,1
+1,30090460,Development,7,high_freq_createdBy,high_freq_updatedBy,129,1300.0,1
+1,30090459,Development,8,high_freq_createdBy,medium_freq_updatedBy,129,1500.0,1
+1,30090457,Data Science,28,medium_freq_createdBy,high_freq_updatedBy,129,3700.0,1
+1,30090438,Data Science,18,medium_freq_createdBy,medium_freq_updatedBy,129,7000.0,1
+1,30090434,Development,8,high_freq_createdBy,high_freq_updatedBy,129,1300.0,1
+0,30090401,Development,10,medium_freq_createdBy,high_freq_updatedBy,129,150.0,1
+0,30090377,Development,4,high_freq_createdBy,high_freq_updatedBy,129,300.0,1
+1,30090374,Development,13,medium_freq_createdBy,high_freq_updatedBy,128,6300.0,1
+1,30090373,Development,4,high_freq_createdBy,medium_freq_updatedBy,128,900.0,1
+1,30090371,Development,8,high_freq_createdBy,high_freq_updatedBy,128,1500.0,1
+0,30090364,Development,1,medium_freq_createdBy,high_freq_updatedBy,128,250.0,1
+0,30090281,Development,10,high_freq_createdBy,high_freq_updatedBy,128,100.0,1
+1,30090278,Design,30,medium_freq_createdBy,high_freq_updatedBy,127,1550.0,1
+1,30090270,Design,21,medium_freq_createdBy,high_freq_updatedBy,127,2000.0,1
+0,30090257,Development,40,low_freq_createdBy,high_freq_updatedBy,127,5.0,1
+0,30090256,Development,40,low_freq_createdBy,high_freq_updatedBy,127,5.0,1
+0,30090255,Development,0,low_freq_createdBy,low_freq_updatedBy,127,700.0,1
+1,30090243,Development,13,medium_freq_createdBy,high_freq_updatedBy,127,3000.0,1
+1,30090220,Design,9,medium_freq_createdBy,high_freq_updatedBy,127,170.0,1
+0,30090213,Development,10,high_freq_createdBy,high_freq_updatedBy,126,80.0,1
+0,30090212,Development,10,high_freq_createdBy,high_freq_updatedBy,126,200.0,1
+1,30090211,Development,9,high_freq_createdBy,high_freq_updatedBy,126,1800.0,1
+0,30090210,Development,10,high_freq_createdBy,high_freq_updatedBy,126,80.0,1
+0,30090209,Development,1,high_freq_createdBy,high_freq_updatedBy,126,140.0,1
+0,30090208,Development,0,high_freq_createdBy,high_freq_updatedBy,126,100.0,1
+0,30090206,Development,1,medium_freq_createdBy,high_freq_updatedBy,126,40.0,1
+0,30090204,Development,0,high_freq_createdBy,high_freq_updatedBy,126,150.0,1
+1,30090194,Design,17,medium_freq_createdBy,high_freq_updatedBy,126,400.0,1
+1,30090173,Development,8,medium_freq_createdBy,high_freq_updatedBy,126,1800.0,1
+0,30090168,Development,10,high_freq_createdBy,high_freq_updatedBy,125,50.0,1
+0,30090167,Development,0,high_freq_createdBy,high_freq_updatedBy,125,40.0,1
+1,30090166,Development,7,medium_freq_createdBy,high_freq_updatedBy,125,1050.0,1
+1,30090165,Development,9,high_freq_createdBy,high_freq_updatedBy,125,900.0,1
+1,30090164,Development,9,high_freq_createdBy,high_freq_updatedBy,125,1500.0,1
+1,30090151,Development,9,medium_freq_createdBy,medium_freq_updatedBy,124,1800.0,1
+1,30090150,Development,8,high_freq_createdBy,high_freq_updatedBy,124,1500.0,1
+1,30090123,Development,8,medium_freq_createdBy,high_freq_updatedBy,123,2100.0,1
+0,30090056,Development,1,high_freq_createdBy,high_freq_updatedBy,123,150.0,1
+0,30090053,Development,1,medium_freq_createdBy,high_freq_updatedBy,123,300.0,1
+1,30090022,Development,8,high_freq_createdBy,high_freq_updatedBy,123,900.0,1
+1,30090020,Development,7,high_freq_createdBy,high_freq_updatedBy,123,900.0,1
+1,30090016,Development,7,high_freq_createdBy,high_freq_updatedBy,123,900.0,1
+1,30090004,Design,45,medium_freq_createdBy,high_freq_updatedBy,123,2000.0,1
+0,30089968,Development,0,medium_freq_createdBy,high_freq_updatedBy,123,599.0,1
+0,30089965,Development,1,high_freq_createdBy,medium_freq_updatedBy,122,100.0,1
+0,30089964,Development,1,high_freq_createdBy,medium_freq_updatedBy,122,100.0,1
+0,30089963,Development,1,high_freq_createdBy,medium_freq_updatedBy,122,100.0,1
+0,30089952,Development,0,medium_freq_createdBy,high_freq_updatedBy,122,7399.0,1
+0,30089873,Design,1,medium_freq_createdBy,high_freq_updatedBy,122,50.0,1
+0,30089872,Design,1,medium_freq_createdBy,high_freq_updatedBy,122,50.0,1
+0,30089871,Design,2,medium_freq_createdBy,high_freq_updatedBy,122,100.0,1
+0,30089868,Development,33,medium_freq_createdBy,medium_freq_updatedBy,122,0.0,0
+0,30089860,Development,2,medium_freq_createdBy,high_freq_updatedBy,122,970.0,1
+0,30089859,Development,2,medium_freq_createdBy,high_freq_updatedBy,122,600.0,1
+0,30089857,Development,2,medium_freq_createdBy,high_freq_updatedBy,122,720.0,1
+0,30089856,Development,2,medium_freq_createdBy,high_freq_updatedBy,122,1975.0,1
+0,30089841,Development,1,high_freq_createdBy,high_freq_updatedBy,122,225.0,1
+1,30089762,Development,5,high_freq_createdBy,high_freq_updatedBy,121,1300.0,1
+1,30089761,Development,4,high_freq_createdBy,high_freq_updatedBy,121,1300.0,1
+1,30089751,Development,6,high_freq_createdBy,high_freq_updatedBy,121,1200.0,1
+1,30089747,Development,7,high_freq_createdBy,high_freq_updatedBy,121,1500.0,1
+0,30089708,Development,5,high_freq_createdBy,high_freq_updatedBy,121,600.0,1
+0,30089705,Development,10,medium_freq_createdBy,high_freq_updatedBy,121,60.0,1
+0,30089700,Development,10,medium_freq_createdBy,medium_freq_updatedBy,121,60.0,1
+1,30089646,Development,10,high_freq_createdBy,high_freq_updatedBy,121,1800.0,1
+1,30089567,Development,6,medium_freq_createdBy,high_freq_updatedBy,121,7319.75,1
+1,30089564,Development,4,medium_freq_createdBy,high_freq_updatedBy,121,2254.0,1
+1,30089530,Design,8,medium_freq_createdBy,high_freq_updatedBy,120,5750.0,1
+1,30089528,Design,13,medium_freq_createdBy,high_freq_updatedBy,120,850.0,1
+1,30089496,Development,3,high_freq_createdBy,high_freq_updatedBy,120,600.0,1
+0,30089484,Development,10,high_freq_createdBy,high_freq_updatedBy,120,500.0,1
+0,30089478,Development,6,medium_freq_createdBy,high_freq_updatedBy,120,400.0,1
+1,30089434,Development,7,high_freq_createdBy,high_freq_updatedBy,119,1200.0,1
+1,30089433,Development,8,high_freq_createdBy,high_freq_updatedBy,119,1800.0,1
+1,30089393,Development,7,medium_freq_createdBy,high_freq_updatedBy,119,2100.0,1
+1,30089381,Development,8,high_freq_createdBy,high_freq_updatedBy,119,2250.0,1
+0,30089311,Development,1,medium_freq_createdBy,high_freq_updatedBy,119,870.0,1
+0,30089310,Development,2,medium_freq_createdBy,high_freq_updatedBy,119,1150.0,1
+0,30089309,Development,2,medium_freq_createdBy,high_freq_updatedBy,119,720.0,1
+0,30089308,Development,2,medium_freq_createdBy,high_freq_updatedBy,119,1500.0,1
+0,30089307,Development,2,medium_freq_createdBy,high_freq_updatedBy,119,2300.0,1
+1,30089306,Development,9,high_freq_createdBy,high_freq_updatedBy,119,1500.0,1
+1,30089301,Data Science,48,medium_freq_createdBy,high_freq_updatedBy,119,16000.0,1
+1,30089234,Data Science,36,medium_freq_createdBy,high_freq_updatedBy,117,6500.0,1
+0,30089229,Development,5,medium_freq_createdBy,high_freq_updatedBy,116,250.0,1
+0,30089228,Development,9,medium_freq_createdBy,high_freq_updatedBy,116,100.0,1
+1,30089227,Development,4,high_freq_createdBy,high_freq_updatedBy,116,600.0,1
+1,30089214,Development,6,medium_freq_createdBy,high_freq_updatedBy,116,900.0,1
+1,30089203,Design,22,medium_freq_createdBy,high_freq_updatedBy,116,1550.0,1
+1,30089126,Development,6,medium_freq_createdBy,high_freq_updatedBy,115,1800.0,1
+1,30089123,Development,5,high_freq_createdBy,high_freq_updatedBy,115,1500.0,1
+0,30089095,Development,0,high_freq_createdBy,high_freq_updatedBy,115,250.0,1
+1,30089076,Development,6,high_freq_createdBy,high_freq_updatedBy,115,1500.0,1
+0,30089060,Development,3,high_freq_createdBy,high_freq_updatedBy,115,80.0,1
+1,30089057,Development,6,medium_freq_createdBy,high_freq_updatedBy,115,600.0,1
+1,30089056,Development,9,medium_freq_createdBy,high_freq_updatedBy,115,1800.0,1
+1,30089047,Design,15,medium_freq_createdBy,high_freq_updatedBy,114,2000.0,1
+0,30089045,Development,0,medium_freq_createdBy,high_freq_updatedBy,114,150.0,1
+0,30089037,Development,1,medium_freq_createdBy,high_freq_updatedBy,114,750.0,1
+0,30089036,Development,1,medium_freq_createdBy,high_freq_updatedBy,114,600.0,1
+0,30089018,Development,10,high_freq_createdBy,high_freq_updatedBy,114,70.0,1
+0,30089011,Development,9,medium_freq_createdBy,high_freq_updatedBy,114,60.0,1
+1,30089009,Quality Assurance,11,medium_freq_createdBy,high_freq_updatedBy,114,600.0,1
+1,30089008,Data Science,9,medium_freq_createdBy,high_freq_updatedBy,114,0.0,1
+0,30089000,Development,2,high_freq_createdBy,high_freq_updatedBy,113,500.0,1
+1,30088995,Development,7,high_freq_createdBy,high_freq_updatedBy,113,900.0,1
+0,30088993,Development,9,medium_freq_createdBy,high_freq_updatedBy,113,150.0,1
+1,30088979,Design,15,medium_freq_createdBy,high_freq_updatedBy,113,2000.0,1
+0,30088971,Development,12,medium_freq_createdBy,high_freq_updatedBy,113,400.0,1
+0,30088961,Development,1,medium_freq_createdBy,high_freq_updatedBy,113,500.0,1
+0,30088960,Development,29,low_freq_createdBy,high_freq_updatedBy,113,5.0,1
+1,30088944,Quality Assurance,14,medium_freq_createdBy,high_freq_updatedBy,113,0.0,1
+1,30088941,Development,11,high_freq_createdBy,high_freq_updatedBy,112,1500.0,1
+1,30088932,Design,29,medium_freq_createdBy,high_freq_updatedBy,112,2000.0,1
+0,30088894,Development,0,medium_freq_createdBy,medium_freq_updatedBy,112,100.0,1
+1,30088851,Development,9,medium_freq_createdBy,high_freq_updatedBy,110,1950.0,1
+1,30088848,Data Science,17,high_freq_createdBy,high_freq_updatedBy,110,3100.0,1
+1,30088837,Development,4,high_freq_createdBy,medium_freq_updatedBy,110,600.0,1
+0,30088832,Development,1,high_freq_createdBy,high_freq_updatedBy,110,125.0,1
+1,30088823,Design,17,medium_freq_createdBy,high_freq_updatedBy,109,1550.0,1
+0,30088817,Development,10,high_freq_createdBy,high_freq_updatedBy,109,150.0,1
+0,30088785,Development,2,medium_freq_createdBy,high_freq_updatedBy,109,100.0,1
+0,30088775,Development,2,high_freq_createdBy,high_freq_updatedBy,109,100.0,1
+1,30088736,Design,10,medium_freq_createdBy,high_freq_updatedBy,108,5750.0,1
+1,30088735,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,108,27500.0,1
+1,30088730,Development,8,high_freq_createdBy,medium_freq_updatedBy,108,1800.0,1
+1,30088724,Development,8,high_freq_createdBy,medium_freq_updatedBy,108,1500.0,1
+0,30088714,Development,0,high_freq_createdBy,high_freq_updatedBy,108,150.0,1
+1,30088693,Development,5,high_freq_createdBy,medium_freq_updatedBy,108,1200.0,1
+0,30088683,Development,3,low_freq_createdBy,high_freq_updatedBy,107,65.0,1
+1,30088682,Development,7,high_freq_createdBy,medium_freq_updatedBy,107,900.0,1
+0,30088680,Development,10,high_freq_createdBy,high_freq_updatedBy,107,150.0,1
+0,30088679,Development,0,high_freq_createdBy,high_freq_updatedBy,107,150.0,1
+1,30088678,Development,8,high_freq_createdBy,medium_freq_updatedBy,107,1200.0,1
+1,30088677,Development,7,medium_freq_createdBy,high_freq_updatedBy,107,2400.0,1
+1,30088635,Design,31,medium_freq_createdBy,high_freq_updatedBy,106,2750.0,1
+0,30088622,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,650.0,1
+0,30088621,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,2000.0,1
+0,30088617,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,100.0,1
+0,30088616,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,270.0,1
+0,30088615,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,270.0,1
+0,30088613,Development,2,medium_freq_createdBy,high_freq_updatedBy,106,1000.0,1
+0,30088610,Development,0,high_freq_createdBy,high_freq_updatedBy,106,160.0,1
+0,30088606,Development,10,medium_freq_createdBy,high_freq_updatedBy,106,60.0,1
+0,30088591,Development,6,medium_freq_createdBy,low_freq_updatedBy,105,4799.0,1
+1,30088568,Development,9,medium_freq_createdBy,high_freq_updatedBy,105,1800.0,1
+1,30088562,Design,15,medium_freq_createdBy,high_freq_updatedBy,105,1550.0,1
+1,30088561,Development,7,medium_freq_createdBy,high_freq_updatedBy,105,7594.25,1
+1,30088560,Development,4,medium_freq_createdBy,high_freq_updatedBy,105,2308.0,1
+1,30088557,Data Science,22,medium_freq_createdBy,high_freq_updatedBy,105,8000.0,1
+1,30088556,Development,9,medium_freq_createdBy,medium_freq_updatedBy,104,1200.0,1
+1,30088530,Development,14,medium_freq_createdBy,high_freq_updatedBy,103,2500.0,1
+1,30088518,Development,6,high_freq_createdBy,high_freq_updatedBy,103,900.0,1
+1,30088513,Development,8,high_freq_createdBy,medium_freq_updatedBy,103,1800.0,1
+1,30088508,Data Science,15,medium_freq_createdBy,high_freq_updatedBy,103,3500.0,1
+1,30088504,Development,6,low_freq_createdBy,high_freq_updatedBy,102,550.0,1
+1,30088503,Design,20,medium_freq_createdBy,high_freq_updatedBy,102,5750.0,1
+1,30088501,Design,37,low_freq_createdBy,high_freq_updatedBy,102,0.0,1
+1,30088500,Development,6,medium_freq_createdBy,medium_freq_updatedBy,102,1500.0,1
+0,30088499,Development,10,medium_freq_createdBy,high_freq_updatedBy,102,50.0,1
+0,30088494,Development,10,medium_freq_createdBy,high_freq_updatedBy,102,249.0,1
+1,30088486,Development,8,medium_freq_createdBy,high_freq_updatedBy,102,600.0,1
+0,30088485,Development,0,medium_freq_createdBy,low_freq_updatedBy,102,150.0,1
+1,30088474,Development,9,high_freq_createdBy,medium_freq_updatedBy,102,1800.0,1
+1,30088473,Development,8,high_freq_createdBy,high_freq_updatedBy,102,2100.0,1
+1,30088472,Development,6,medium_freq_createdBy,high_freq_updatedBy,102,2400.0,1
+0,30088453,Development,0,medium_freq_createdBy,high_freq_updatedBy,101,60.0,1
+1,30088452,Development,8,high_freq_createdBy,high_freq_updatedBy,101,1500.0,1
+1,30088446,Development,5,medium_freq_createdBy,high_freq_updatedBy,101,1.0,1
+1,30088445,Development,5,medium_freq_createdBy,high_freq_updatedBy,101,1.0,1
+1,30088391,Development,8,high_freq_createdBy,medium_freq_updatedBy,101,780.0,1
+1,30088388,Development,9,medium_freq_createdBy,medium_freq_updatedBy,101,3000.0,1
+1,30088387,Data Science,27,medium_freq_createdBy,high_freq_updatedBy,101,4350.0,1
+0,30088356,Development,1,high_freq_createdBy,medium_freq_updatedBy,100,2400.0,1
+1,30088355,Data Science,90,medium_freq_createdBy,high_freq_updatedBy,100,50000.0,1
+1,30088354,Data Science,20,high_freq_createdBy,medium_freq_updatedBy,100,5000.0,1
+1,30088345,Design,8,medium_freq_createdBy,high_freq_updatedBy,100,1050.0,1
+1,30088324,Development,8,medium_freq_createdBy,high_freq_updatedBy,100,2100.0,1
+0,30088321,Development,0,high_freq_createdBy,high_freq_updatedBy,100,400.0,1
+0,30088320,Development,1,high_freq_createdBy,high_freq_updatedBy,100,250.0,1
+0,30088319,Development,10,high_freq_createdBy,high_freq_updatedBy,100,75.0,1
+0,30088315,Development,0,high_freq_createdBy,high_freq_updatedBy,100,150.0,1
+1,30088255,Design,18,medium_freq_createdBy,medium_freq_updatedBy,99,3750.0,1
+1,30088226,Design,30,medium_freq_createdBy,medium_freq_updatedBy,99,2000.0,1
+1,30088205,Development,8,medium_freq_createdBy,medium_freq_updatedBy,98,1500.0,1
+0,30088197,Development,1,medium_freq_createdBy,high_freq_updatedBy,98,100.0,1
+0,30088196,Development,1,medium_freq_createdBy,high_freq_updatedBy,98,350.0,1
+0,30088195,Development,1,medium_freq_createdBy,high_freq_updatedBy,98,500.0,1
+0,30088194,Development,1,medium_freq_createdBy,high_freq_updatedBy,98,270.0,1
+0,30088185,Development,1,medium_freq_createdBy,high_freq_updatedBy,98,100.0,1
+0,30088168,Development,0,medium_freq_createdBy,high_freq_updatedBy,97,90.0,1
+0,30088163,Development,0,medium_freq_createdBy,medium_freq_updatedBy,97,199.0,1
+0,30088145,Development,4,high_freq_createdBy,high_freq_updatedBy,96,700.0,1
+0,30088065,Design,3,high_freq_createdBy,high_freq_updatedBy,95,400.0,1
+0,30088063,Development,10,medium_freq_createdBy,high_freq_updatedBy,95,110.0,1
+1,30088050,Development,8,high_freq_createdBy,high_freq_updatedBy,95,2100.0,1
+0,30088038,Development,10,medium_freq_createdBy,high_freq_updatedBy,95,2899.0,1
+1,30088033,Development,7,medium_freq_createdBy,medium_freq_updatedBy,95,1200.0,1
+1,30088032,Development,7,medium_freq_createdBy,high_freq_updatedBy,95,1200.0,1
+0,30088021,Development,3,medium_freq_createdBy,high_freq_updatedBy,94,400.0,1
+1,30088020,Development,3,high_freq_createdBy,high_freq_updatedBy,94,900.0,1
+1,30088008,Development,8,high_freq_createdBy,high_freq_updatedBy,94,1200.0,1
+1,30088003,Development,9,high_freq_createdBy,medium_freq_updatedBy,94,1500.0,1
+1,30087964,Development,12,medium_freq_createdBy,high_freq_updatedBy,94,3000.0,1
+0,30087963,Development,10,medium_freq_createdBy,high_freq_updatedBy,94,100.0,1
+1,30087933,Development,6,medium_freq_createdBy,high_freq_updatedBy,93,1050.0,1
+0,30087929,Development,2,medium_freq_createdBy,medium_freq_updatedBy,93,110.0,1
+0,30087928,Development,2,medium_freq_createdBy,medium_freq_updatedBy,93,110.0,1
+0,30087923,Development,3,medium_freq_createdBy,high_freq_updatedBy,93,50.0,1
+0,30087922,Development,7,medium_freq_createdBy,high_freq_updatedBy,93,75.0,1
+0,30087917,Development,1,medium_freq_createdBy,high_freq_updatedBy,93,599.0,1
+1,30087910,Development,7,high_freq_createdBy,high_freq_updatedBy,93,1200.0,1
+1,30087903,Development,3,medium_freq_createdBy,high_freq_updatedBy,93,7193.25,1
+1,30087891,Development,4,medium_freq_createdBy,high_freq_updatedBy,92,2158.0,1
+0,30087876,Development,11,medium_freq_createdBy,high_freq_updatedBy,92,270.0,1
+0,30087875,Development,1,medium_freq_createdBy,high_freq_updatedBy,92,1975.0,1
+0,30087874,Development,1,medium_freq_createdBy,high_freq_updatedBy,92,720.0,1
+1,30087855,Development,6,medium_freq_createdBy,medium_freq_updatedBy,92,750.0,1
+0,30087854,Development,1,high_freq_createdBy,high_freq_updatedBy,92,200.0,1
+1,30087853,Development,4,medium_freq_createdBy,medium_freq_updatedBy,92,750.0,1
+0,30087816,Development,0,medium_freq_createdBy,high_freq_updatedBy,91,80.0,1
+1,30087809,Development,5,medium_freq_createdBy,high_freq_updatedBy,91,1500.0,1
+1,30087801,Development,8,medium_freq_createdBy,medium_freq_updatedBy,91,2700.0,1
+1,30087795,Development,42,medium_freq_createdBy,high_freq_updatedBy,91,0.0,1
+0,30087767,Development,10,low_freq_createdBy,high_freq_updatedBy,91,100.0,1
+0,30087738,Development,10,low_freq_createdBy,high_freq_updatedBy,89,325.0,1
+1,30087734,Development,8,medium_freq_createdBy,high_freq_updatedBy,89,3000.0,1
+1,30087725,Development,11,high_freq_createdBy,high_freq_updatedBy,88,5660.0,1
+1,30087723,Data Science,53,medium_freq_createdBy,high_freq_updatedBy,88,23000.0,1
+1,30087722,Design,22,medium_freq_createdBy,low_freq_updatedBy,88,2000.0,1
+1,30087721,Design,14,medium_freq_createdBy,high_freq_updatedBy,88,2750.0,1
+1,30087719,Design,6,medium_freq_createdBy,high_freq_updatedBy,88,900.0,1
+1,30087696,Data Science,11,medium_freq_createdBy,high_freq_updatedBy,88,4000.0,1
+1,30087695,Data Science,11,medium_freq_createdBy,high_freq_updatedBy,88,4100.0,1
+0,30087680,Development,6,medium_freq_createdBy,high_freq_updatedBy,88,4349.0,1
+0,30087675,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+0,30087674,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2500.0,1
+0,30087673,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2000.0,1
+0,30087672,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+1,30087665,Design,14,medium_freq_createdBy,high_freq_updatedBy,87,1550.0,1
+0,30087660,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2500.0,1
+0,30087659,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2000.0,1
+0,30087658,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+0,30087657,Development,0,medium_freq_createdBy,low_freq_updatedBy,87,1000.0,1
+0,30087654,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+0,30087653,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2500.0,1
+0,30087652,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+0,30087651,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,2000.0,1
+0,30087649,Development,0,medium_freq_createdBy,medium_freq_updatedBy,87,1000.0,1
+0,30087648,Development,1,medium_freq_createdBy,high_freq_updatedBy,87,7375.0,1
+1,30087644,Development,9,high_freq_createdBy,high_freq_updatedBy,87,1500.0,1
+0,30087596,Development,0,high_freq_createdBy,high_freq_updatedBy,87,100.0,1
+1,30087595,Development,8,high_freq_createdBy,high_freq_updatedBy,87,2250.0,1
+0,30087587,Development,10,medium_freq_createdBy,high_freq_updatedBy,86,150.0,1
+1,30087583,Design,15,medium_freq_createdBy,high_freq_updatedBy,86,2000.0,1
+0,30087574,Development,10,high_freq_createdBy,high_freq_updatedBy,86,150.0,1
+1,30087573,Development,8,high_freq_createdBy,high_freq_updatedBy,86,1500.0,1
+0,30087567,Development,0,medium_freq_createdBy,high_freq_updatedBy,86,749.0,1
+0,30087539,Development,10,medium_freq_createdBy,high_freq_updatedBy,86,524.0,1
+1,30087536,Development,8,medium_freq_createdBy,high_freq_updatedBy,86,900.0,1
+1,30087533,Development,9,medium_freq_createdBy,high_freq_updatedBy,86,1500.0,1
+0,30087528,Development,10,high_freq_createdBy,high_freq_updatedBy,86,200.0,1
+0,30087518,Development,1,high_freq_createdBy,medium_freq_updatedBy,86,200.0,1
+0,30087493,Development,17,medium_freq_createdBy,high_freq_updatedBy,85,500.0,1
+0,30087249,Development,14,medium_freq_createdBy,high_freq_updatedBy,85,300.0,1
+0,30087244,Development,6,medium_freq_createdBy,high_freq_updatedBy,85,300.0,1
+1,30087153,Development,8,medium_freq_createdBy,high_freq_updatedBy,84,750.0,1
+0,30087123,Development,1,medium_freq_createdBy,high_freq_updatedBy,84,749.0,1
+0,30087120,Development,0,medium_freq_createdBy,high_freq_updatedBy,84,1000.0,1
+0,30087118,Development,0,medium_freq_createdBy,high_freq_updatedBy,84,1500.0,1
+0,30087116,Development,0,medium_freq_createdBy,high_freq_updatedBy,84,2500.0,1
+0,30087110,Development,0,medium_freq_createdBy,high_freq_updatedBy,84,5000.0,1
+0,30087105,Development,1,high_freq_createdBy,high_freq_updatedBy,84,250.0,1
+0,30087076,Development,1,medium_freq_createdBy,high_freq_updatedBy,84,600.0,1
+0,30087052,Development,4,high_freq_createdBy,medium_freq_updatedBy,83,500.0,1
+0,30087016,Development,0,medium_freq_createdBy,high_freq_updatedBy,82,749.0,1
+1,30087015,Development,8,high_freq_createdBy,high_freq_updatedBy,81,1200.0,1
+1,30087014,Development,8,high_freq_createdBy,high_freq_updatedBy,81,2100.0,1
+1,30087004,Data Science,60,medium_freq_createdBy,high_freq_updatedBy,81,20000.0,1
+1,30086999,Development,3,medium_freq_createdBy,high_freq_updatedBy,81,7486.0,1
+1,30086998,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,81,33000.0,1
+1,30086997,Data Science,59,medium_freq_createdBy,high_freq_updatedBy,81,33000.0,1
+1,30086994,Development,6,high_freq_createdBy,high_freq_updatedBy,81,900.0,1
+1,30086973,Development,10,medium_freq_createdBy,high_freq_updatedBy,81,2700.0,1
+1,30086971,Development,8,high_freq_createdBy,high_freq_updatedBy,81,900.0,1
+1,30086966,Design,38,medium_freq_createdBy,high_freq_updatedBy,81,2000.0,1
+0,30086941,Development,10,medium_freq_createdBy,high_freq_updatedBy,81,1200.0,1
+0,30086940,Development,2,medium_freq_createdBy,high_freq_updatedBy,81,550.0,1
+0,30086939,Development,2,medium_freq_createdBy,high_freq_updatedBy,81,1000.0,1
+0,30086902,Development,10,medium_freq_createdBy,high_freq_updatedBy,80,1049.0,1
+1,30086897,Data Science,8,high_freq_createdBy,high_freq_updatedBy,80,2100.0,1
+1,30086842,Development,10,medium_freq_createdBy,high_freq_updatedBy,80,750.0,1
+1,30086804,Development,10,medium_freq_createdBy,high_freq_updatedBy,80,3500.0,1
+0,30086799,Development,7,medium_freq_createdBy,high_freq_updatedBy,80,5000.0,1
+0,30086793,Development,6,medium_freq_createdBy,high_freq_updatedBy,79,349.0,1
+1,30086779,Design,18,medium_freq_createdBy,high_freq_updatedBy,79,1550.0,1
+1,30086764,Development,7,high_freq_createdBy,high_freq_updatedBy,79,900.0,1
+1,30086743,Development,7,high_freq_createdBy,high_freq_updatedBy,79,900.0,1
+0,30086738,Development,0,high_freq_createdBy,high_freq_updatedBy,79,200.0,1
+0,30086729,Development,0,medium_freq_createdBy,high_freq_updatedBy,79,999.0,1
+1,30086698,Development,8,high_freq_createdBy,medium_freq_updatedBy,78,1200.0,1
+0,30086696,Development,6,medium_freq_createdBy,medium_freq_updatedBy,78,5000.0,1
+1,30086694,Development,6,high_freq_createdBy,high_freq_updatedBy,78,900.0,1
+1,30086693,Design,31,medium_freq_createdBy,high_freq_updatedBy,78,2750.0,1
+0,30086640,Development,5,medium_freq_createdBy,high_freq_updatedBy,78,5000.0,1
+0,30086639,Development,5,medium_freq_createdBy,high_freq_updatedBy,78,8000.0,1
+1,30086635,Development,7,medium_freq_createdBy,high_freq_updatedBy,78,1800.0,1
+1,30086633,Data Science,49,medium_freq_createdBy,high_freq_updatedBy,78,2850.0,1
+0,30086632,Development,0,medium_freq_createdBy,high_freq_updatedBy,77,349.0,1
+0,30086630,Development,15,high_freq_createdBy,medium_freq_updatedBy,77,100.0,1
+1,30086620,Design,16,medium_freq_createdBy,high_freq_updatedBy,77,2000.0,1
+1,30086619,Design,27,medium_freq_createdBy,high_freq_updatedBy,77,2500.0,1
+0,30086602,Development,10,medium_freq_createdBy,high_freq_updatedBy,77,499.0,1
+0,30086582,Development,1,high_freq_createdBy,high_freq_updatedBy,77,700.0,1
+0,30086581,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,1300.0,1
+0,30086580,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,400.0,1
+0,30086579,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,100.0,1
+0,30086578,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,100.0,1
+0,30086577,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,2000.0,1
+0,30086576,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,1000.0,1
+0,30086575,Development,2,medium_freq_createdBy,high_freq_updatedBy,77,1000.0,1
+0,30086547,Development,1,high_freq_createdBy,medium_freq_updatedBy,77,150.0,1
+0,30086533,Development,22,medium_freq_createdBy,high_freq_updatedBy,76,750.0,1
+0,30086532,Development,23,medium_freq_createdBy,high_freq_updatedBy,76,750.0,1
+0,30086525,Development,0,low_freq_createdBy,high_freq_updatedBy,76,3000.0,1
+0,30086494,Development,10,medium_freq_createdBy,high_freq_updatedBy,75,100.0,1
+0,30086491,Development,5,medium_freq_createdBy,high_freq_updatedBy,75,500.0,1
+1,30086489,Design,10,medium_freq_createdBy,medium_freq_updatedBy,75,5750.0,1
+0,30086485,Development,2,medium_freq_createdBy,high_freq_updatedBy,74,5000.0,1
+0,30086484,Development,2,medium_freq_createdBy,high_freq_updatedBy,74,15000.0,1
+0,30086483,Development,2,medium_freq_createdBy,high_freq_updatedBy,74,21000.0,1
+0,30086482,Development,134,medium_freq_createdBy,high_freq_updatedBy,74,3000.0,1
+0,30086481,Development,42,medium_freq_createdBy,high_freq_updatedBy,74,2500.0,1
+0,30086480,Development,134,medium_freq_createdBy,high_freq_updatedBy,74,2500.0,1
+1,30086477,Development,13,medium_freq_createdBy,medium_freq_updatedBy,74,2700.0,1
+1,30086476,Development,4,medium_freq_createdBy,high_freq_updatedBy,74,2240.0,1
+1,30086434,Development,9,medium_freq_createdBy,high_freq_updatedBy,74,1500.0,1
+0,30086428,Development,0,high_freq_createdBy,medium_freq_updatedBy,74,150.0,1
+0,30086390,Development,0,medium_freq_createdBy,high_freq_updatedBy,74,800.0,1
+0,30086382,Development,4,medium_freq_createdBy,high_freq_updatedBy,74,849.0,1
+0,30086374,Design,0,medium_freq_createdBy,high_freq_updatedBy,73,150.0,1
+0,30086362,Development,10,medium_freq_createdBy,high_freq_updatedBy,73,800.0,1
+1,30086343,Quality Assurance,4,high_freq_createdBy,high_freq_updatedBy,73,621.0,1
+0,30086314,Development,0,medium_freq_createdBy,medium_freq_updatedBy,73,99.0,1
+1,30086294,Development,5,high_freq_createdBy,high_freq_updatedBy,73,900.0,1
+0,30086261,Development,1,medium_freq_createdBy,high_freq_updatedBy,73,499.0,1
+1,30086260,Design,18,medium_freq_createdBy,high_freq_updatedBy,72,2000.0,1
+1,30086253,Development,10,medium_freq_createdBy,high_freq_updatedBy,72,2700.0,1
+1,30086250,Data Science,21,medium_freq_createdBy,high_freq_updatedBy,72,3750.0,1
+0,30086241,Development,10,high_freq_createdBy,high_freq_updatedBy,72,600.0,1
+1,30086223,Development,7,medium_freq_createdBy,high_freq_updatedBy,72,1200.0,1
+0,30086179,Development,7,medium_freq_createdBy,high_freq_updatedBy,72,50.0,1
+1,30086169,Development,12,high_freq_createdBy,medium_freq_updatedBy,71,1650.0,1
+0,30086142,Development,0,medium_freq_createdBy,high_freq_updatedBy,71,499.0,1
+1,30086139,Data Science,20,medium_freq_createdBy,high_freq_updatedBy,71,11500.0,1
+1,30086137,Quality Assurance,5,high_freq_createdBy,medium_freq_updatedBy,71,1390.0,1
+1,30086115,Design,25,low_freq_createdBy,high_freq_updatedBy,71,2750.0,1
+0,30086047,Development,0,medium_freq_createdBy,high_freq_updatedBy,71,100.0,1
+0,30086043,Development,0,medium_freq_createdBy,high_freq_updatedBy,71,100.0,1
+1,30086041,Development,7,medium_freq_createdBy,high_freq_updatedBy,71,1200.0,1
+0,30086013,Development,10,medium_freq_createdBy,high_freq_updatedBy,70,600.0,1
+0,30086011,Development,10,medium_freq_createdBy,high_freq_updatedBy,70,3000.0,1
+0,30086005,Development,1,medium_freq_createdBy,high_freq_updatedBy,70,3750.0,1
+0,30086004,Development,1,medium_freq_createdBy,high_freq_updatedBy,70,3750.0,1
+1,30085985,Development,9,low_freq_createdBy,medium_freq_updatedBy,70,1800.0,1
+0,30085913,Development,1,high_freq_createdBy,high_freq_updatedBy,70,150.0,1
+0,30085893,Development,0,medium_freq_createdBy,high_freq_updatedBy,70,1999.0,1
+1,30085863,Development,3,medium_freq_createdBy,high_freq_updatedBy,69,2400.0,1
+1,30085853,Design,9,medium_freq_createdBy,high_freq_updatedBy,69,2000.0,1
+1,30085830,Development,9,medium_freq_createdBy,high_freq_updatedBy,69,1800.0,1
+0,30085812,Development,10,medium_freq_createdBy,high_freq_updatedBy,69,4999.0,1
+1,30085808,Design,34,medium_freq_createdBy,high_freq_updatedBy,69,2000.0,1
+0,30085803,Development,1,high_freq_createdBy,high_freq_updatedBy,68,100.0,1
+1,30085799,Design,13,medium_freq_createdBy,medium_freq_updatedBy,68,50.0,1
+0,30085794,Development,2,medium_freq_createdBy,high_freq_updatedBy,68,600.0,1
+1,30085792,Development,5,medium_freq_createdBy,high_freq_updatedBy,68,1.0,1
+0,30085791,Development,10,high_freq_createdBy,medium_freq_updatedBy,68,150.0,1
+1,30085760,Quality Assurance,7,medium_freq_createdBy,medium_freq_updatedBy,68,1.0,1
+1,30085758,Design,16,medium_freq_createdBy,high_freq_updatedBy,68,2000.0,1
+1,30085757,Design,14,medium_freq_createdBy,high_freq_updatedBy,67,2750.0,1
+0,30085756,Development,4,medium_freq_createdBy,high_freq_updatedBy,67,400.0,1
+1,30085745,Design,11,medium_freq_createdBy,high_freq_updatedBy,67,2000.0,1
+1,30085723,Development,6,medium_freq_createdBy,high_freq_updatedBy,67,2112.0,1
+0,30085681,Development,10,low_freq_createdBy,high_freq_updatedBy,67,30.0,1
+0,30085678,Development,6,medium_freq_createdBy,high_freq_updatedBy,67,100.0,1
+0,30085666,Development,21,low_freq_createdBy,high_freq_updatedBy,67,80.0,1
+0,30085656,Development,0,high_freq_createdBy,high_freq_updatedBy,67,75.0,1
+1,30085646,Design,28,medium_freq_createdBy,high_freq_updatedBy,66,2000.0,1
+0,30085643,Development,9,medium_freq_createdBy,high_freq_updatedBy,66,400.0,1
+0,30085642,Development,1,medium_freq_createdBy,high_freq_updatedBy,66,400.0,1
+0,30085638,Development,10,medium_freq_createdBy,high_freq_updatedBy,66,400.0,1
+1,30085637,Design,6,medium_freq_createdBy,high_freq_updatedBy,66,250.0,1
+0,30085632,Development,1,medium_freq_createdBy,high_freq_updatedBy,66,4000.0,1
+0,30085544,Development,1,medium_freq_createdBy,high_freq_updatedBy,65,3000.0,1
+0,30085521,Development,2,medium_freq_createdBy,high_freq_updatedBy,65,870.0,1
+0,30085520,Development,2,medium_freq_createdBy,high_freq_updatedBy,65,1150.0,1
+0,30085519,Development,2,medium_freq_createdBy,high_freq_updatedBy,65,720.0,1
+0,30085518,Development,10,medium_freq_createdBy,medium_freq_updatedBy,65,100.0,1
+0,30085507,Development,0,medium_freq_createdBy,medium_freq_updatedBy,65,299.0,1
+0,30085491,Development,9,high_freq_createdBy,high_freq_updatedBy,65,125.0,1
+0,30085489,Development,3,medium_freq_createdBy,high_freq_updatedBy,65,200.0,1
+0,30085488,Development,6,medium_freq_createdBy,high_freq_updatedBy,65,100.0,1
+0,30085486,Development,2,medium_freq_createdBy,high_freq_updatedBy,65,200.0,1
+0,30085399,Development,0,medium_freq_createdBy,high_freq_updatedBy,64,699.0,1
+0,30085398,Development,0,medium_freq_createdBy,high_freq_updatedBy,64,499.0,1
+1,30085397,Development,7,high_freq_createdBy,high_freq_updatedBy,64,1200.0,1
+0,30085395,Development,9,medium_freq_createdBy,high_freq_updatedBy,64,40.0,1
+0,30085394,Development,0,medium_freq_createdBy,medium_freq_updatedBy,64,60.0,1
+0,30085393,Development,0,medium_freq_createdBy,high_freq_updatedBy,64,60.0,1
+0,30085383,Development,0,medium_freq_createdBy,high_freq_updatedBy,64,10000.0,1
+0,30085365,Development,2,medium_freq_createdBy,high_freq_updatedBy,64,250.0,1
+1,30085361,Design,21,medium_freq_createdBy,high_freq_updatedBy,64,1550.0,1
+0,30085347,Development,0,medium_freq_createdBy,high_freq_updatedBy,64,200.0,1
+1,30085346,Data Science,46,medium_freq_createdBy,high_freq_updatedBy,64,100000.0,1
+1,30085335,Development,9,medium_freq_createdBy,high_freq_updatedBy,64,3000.0,1
+1,30085306,Development,5,medium_freq_createdBy,high_freq_updatedBy,64,1950.0,1
+1,30085305,Design,21,medium_freq_createdBy,high_freq_updatedBy,63,400.0,1
+1,30085303,Design,20,medium_freq_createdBy,high_freq_updatedBy,63,2100.0,1
+1,30085302,Development,6,high_freq_createdBy,high_freq_updatedBy,63,600.0,1
+0,30085299,Development,1,low_freq_createdBy,high_freq_updatedBy,63,50.0,1
+0,30085297,Development,1,medium_freq_createdBy,high_freq_updatedBy,63,1650.0,1
+1,30085294,Quality Assurance,10,medium_freq_createdBy,high_freq_updatedBy,63,1.0,1
+1,30085293,Development,8,high_freq_createdBy,high_freq_updatedBy,63,600.0,1
+0,30085291,Development,9,medium_freq_createdBy,high_freq_updatedBy,63,400.0,1
+1,30085284,Development,9,medium_freq_createdBy,high_freq_updatedBy,63,1800.0,1
+0,30085274,Development,0,medium_freq_createdBy,high_freq_updatedBy,63,300.0,1
+0,30085232,Development,0,medium_freq_createdBy,high_freq_updatedBy,63,899.0,1
+1,30085216,Development,7,medium_freq_createdBy,high_freq_updatedBy,63,7104.25,1
+1,30085210,Development,5,high_freq_createdBy,high_freq_updatedBy,62,1200.0,1
+1,30085209,Development,7,high_freq_createdBy,high_freq_updatedBy,62,900.0,1
+0,30085188,Development,2,high_freq_createdBy,high_freq_updatedBy,62,450.0,1
+1,30085183,Development,6,medium_freq_createdBy,high_freq_updatedBy,62,1800.0,1
+0,30085173,Development,10,medium_freq_createdBy,medium_freq_updatedBy,61,80.0,1
+1,30085167,Design,22,medium_freq_createdBy,high_freq_updatedBy,61,1550.0,1
+1,30085151,Development,8,high_freq_createdBy,high_freq_updatedBy,60,1200.0,1
+1,30085150,Development,8,high_freq_createdBy,high_freq_updatedBy,60,1500.0,1
+0,30085148,Design,1,medium_freq_createdBy,high_freq_updatedBy,60,2500.0,1
+1,30085145,Development,9,high_freq_createdBy,medium_freq_updatedBy,60,2100.0,1
+1,30085144,Design,1,medium_freq_createdBy,high_freq_updatedBy,60,1550.0,1
+0,30085133,Development,3,medium_freq_createdBy,high_freq_updatedBy,60,300.0,1
+1,30085130,Design,10,medium_freq_createdBy,medium_freq_updatedBy,60,1000.0,1
+0,30085128,Development,0,high_freq_createdBy,high_freq_updatedBy,60,150.0,1
+1,30085063,Development,13,medium_freq_createdBy,high_freq_updatedBy,60,3100.0,1
+0,30085059,Development,10,high_freq_createdBy,high_freq_updatedBy,60,2000.0,1
+1,30085055,Development,7,high_freq_createdBy,high_freq_updatedBy,60,2400.0,1
+0,30085049,Development,0,medium_freq_createdBy,medium_freq_updatedBy,59,1399.0,1
+0,30084996,Development,0,low_freq_createdBy,medium_freq_updatedBy,59,400.0,1
+1,30084939,Design,19,medium_freq_createdBy,high_freq_updatedBy,58,2750.0,1
+1,30084927,Quality Assurance,64,medium_freq_createdBy,medium_freq_updatedBy,58,500.0,1
+1,30084868,Development,7,high_freq_createdBy,high_freq_updatedBy,58,1500.0,1
+0,30084860,Development,17,medium_freq_createdBy,high_freq_updatedBy,58,400.0,1
+0,30084859,Development,0,medium_freq_createdBy,high_freq_updatedBy,58,399.0,1
+0,30084847,Development,10,medium_freq_createdBy,high_freq_updatedBy,57,750.0,1
+1,30084839,Data Science,13,medium_freq_createdBy,high_freq_updatedBy,57,250.0,1
+1,30084838,Development,9,medium_freq_createdBy,high_freq_updatedBy,57,1950.0,1
+1,30084805,Development,8,medium_freq_createdBy,medium_freq_updatedBy,57,1800.0,1
+1,30084802,Development,40,medium_freq_createdBy,high_freq_updatedBy,57,1800.0,1
+0,30084799,Development,0,medium_freq_createdBy,high_freq_updatedBy,57,799.0,1
+1,30084798,Development,7,high_freq_createdBy,high_freq_updatedBy,57,485.0,1
+0,30084669,Development,10,high_freq_createdBy,high_freq_updatedBy,55,150.0,1
+1,30084648,Quality Assurance,9,medium_freq_createdBy,high_freq_updatedBy,55,500.0,1
+0,30084642,Development,1,high_freq_createdBy,high_freq_updatedBy,55,100.0,1
+1,30084632,Development,8,high_freq_createdBy,high_freq_updatedBy,54,600.0,1
+0,30084631,Development,0,medium_freq_createdBy,medium_freq_updatedBy,54,349.0,1
+0,30084623,Development,10,high_freq_createdBy,high_freq_updatedBy,54,100.0,1
+1,30084612,Development,7,high_freq_createdBy,high_freq_updatedBy,53,900.0,1
+0,30084589,Development,5,medium_freq_createdBy,high_freq_updatedBy,53,800.0,1
+0,30084573,Development,10,medium_freq_createdBy,high_freq_updatedBy,53,3250.0,1
+0,30084572,Development,1,medium_freq_createdBy,high_freq_updatedBy,53,100.0,1
+0,30084571,Development,1,medium_freq_createdBy,high_freq_updatedBy,53,875.0,1
+0,30084570,Development,1,medium_freq_createdBy,high_freq_updatedBy,53,1375.0,1
+0,30084569,Development,1,medium_freq_createdBy,high_freq_updatedBy,53,720.0,1
+0,30084561,Development,2,high_freq_createdBy,medium_freq_updatedBy,53,100.0,1
+0,30084560,Development,40,medium_freq_createdBy,high_freq_updatedBy,53,600.0,1
+1,30084554,Development,5,high_freq_createdBy,high_freq_updatedBy,53,1700.0,1
+1,30084548,Development,11,medium_freq_createdBy,high_freq_updatedBy,52,1800.0,1
+1,30084535,Development,7,high_freq_createdBy,high_freq_updatedBy,52,2100.0,1
+1,30084531,Development,7,medium_freq_createdBy,high_freq_updatedBy,52,1500.0,1
+0,30084524,Development,2,medium_freq_createdBy,high_freq_updatedBy,52,150.0,1
+0,30084447,Development,0,medium_freq_createdBy,high_freq_updatedBy,52,0.0,1
+0,30084443,Development,0,medium_freq_createdBy,high_freq_updatedBy,52,7000.0,1
+1,30084428,Development,6,medium_freq_createdBy,high_freq_updatedBy,52,2100.0,1
+1,30084403,Development,6,medium_freq_createdBy,high_freq_updatedBy,52,9430.0,1
+0,30084386,Development,3,medium_freq_createdBy,high_freq_updatedBy,51,150.0,1
+0,30084273,Development,2,high_freq_createdBy,high_freq_updatedBy,51,100.0,1
+0,30084272,Development,0,medium_freq_createdBy,high_freq_updatedBy,51,249.0,1
+1,30084271,Development,14,medium_freq_createdBy,high_freq_updatedBy,51,1800.0,1
+0,30084213,Development,40,low_freq_createdBy,high_freq_updatedBy,50,20.0,1
+0,30084193,Development,2,medium_freq_createdBy,high_freq_updatedBy,50,2000.0,1
+0,30084191,Development,10,medium_freq_createdBy,high_freq_updatedBy,50,4000.0,1
+1,30084190,Development,7,medium_freq_createdBy,high_freq_updatedBy,50,2400.0,1
+1,30084180,Development,2,medium_freq_createdBy,high_freq_updatedBy,50,1960.0,1
+0,30084159,Development,2,medium_freq_createdBy,high_freq_updatedBy,50,2500.0,1
+0,30084119,Development,0,medium_freq_createdBy,high_freq_updatedBy,50,1049.0,1
+1,30084100,Development,10,high_freq_createdBy,high_freq_updatedBy,49,1500.0,1
+0,30084057,Development,10,high_freq_createdBy,high_freq_updatedBy,49,150.0,1
+0,30083990,Development,0,medium_freq_createdBy,high_freq_updatedBy,49,599.0,1
+0,30083989,Development,0,medium_freq_createdBy,high_freq_updatedBy,49,499.0,1
+1,30083988,Quality Assurance,5,high_freq_createdBy,medium_freq_updatedBy,49,250.0,1
+0,30083986,Development,30,low_freq_createdBy,high_freq_updatedBy,48,45.0,1
+0,30083985,Development,30,low_freq_createdBy,high_freq_updatedBy,48,45.0,1
+0,30083918,Development,2,medium_freq_createdBy,high_freq_updatedBy,47,1200.0,1
+1,30083917,Development,5,high_freq_createdBy,high_freq_updatedBy,47,900.0,1
+0,30083916,Development,1,high_freq_createdBy,high_freq_updatedBy,47,65.0,1
+1,30083911,Development,4,medium_freq_createdBy,high_freq_updatedBy,47,2.0,1
+0,30083910,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,2500.0,1
+0,30083909,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,2500.0,1
+0,30083908,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,3000.0,1
+0,30083907,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,4000.0,1
+0,30083906,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,5000.0,1
+0,30083905,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,10000.0,1
+0,30083904,Development,1,medium_freq_createdBy,high_freq_updatedBy,47,25000.0,1
+1,30083894,Design,14,medium_freq_createdBy,high_freq_updatedBy,46,400.0,1
+0,30083891,Development,0,medium_freq_createdBy,low_freq_updatedBy,46,1000.0,1
+0,30083876,Development,10,high_freq_createdBy,high_freq_updatedBy,46,500.0,1
+1,30083862,Development,9,medium_freq_createdBy,high_freq_updatedBy,46,1800.0,1
+1,30083847,Development,8,medium_freq_createdBy,high_freq_updatedBy,46,3000.0,1
+0,30083786,Design,2,low_freq_createdBy,high_freq_updatedBy,46,800.0,1
+1,30083768,Data Science,17,medium_freq_createdBy,high_freq_updatedBy,46,3400.0,1
+1,30083766,Development,4,medium_freq_createdBy,high_freq_updatedBy,46,2.0,1
+1,30083765,Development,4,medium_freq_createdBy,high_freq_updatedBy,46,2.0,1
+1,30083764,Development,4,medium_freq_createdBy,high_freq_updatedBy,46,2.0,1
+1,30083762,Development,4,medium_freq_createdBy,high_freq_updatedBy,46,2.0,1
+1,30083761,Development,4,medium_freq_createdBy,high_freq_updatedBy,46,2.0,1
+1,30083759,Development,5,high_freq_createdBy,medium_freq_updatedBy,45,1200.0,1
+0,30083758,Development,2,high_freq_createdBy,high_freq_updatedBy,45,600.0,1
+1,30083739,Development,3,medium_freq_createdBy,high_freq_updatedBy,45,900.0,1
+0,30083737,Development,1,high_freq_createdBy,high_freq_updatedBy,45,150.0,1
+1,30083736,Design,24,medium_freq_createdBy,high_freq_updatedBy,45,2750.0,1
+1,30083698,Development,6,high_freq_createdBy,high_freq_updatedBy,45,2400.0,1
+1,30083697,Data Science,21,low_freq_createdBy,high_freq_updatedBy,45,6200.0,1
+1,30083670,Development,5,medium_freq_createdBy,high_freq_updatedBy,45,1500.0,1
+1,30083663,Design,26,medium_freq_createdBy,high_freq_updatedBy,44,2000.0,1
+1,30083661,Design,25,medium_freq_createdBy,high_freq_updatedBy,44,2750.0,1
+0,30083642,Development,5,low_freq_createdBy,low_freq_updatedBy,44,0.0,1
+0,30083578,Development,0,high_freq_createdBy,high_freq_updatedBy,44,100.0,1
+1,30083527,Design,16,medium_freq_createdBy,high_freq_updatedBy,43,2000.0,1
+1,30083524,Design,24,medium_freq_createdBy,high_freq_updatedBy,43,2750.0,1
+0,30083523,Development,1,medium_freq_createdBy,high_freq_updatedBy,43,1500.0,1
+0,30083519,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,20.0,1
+0,30083518,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,155.0,1
+0,30083517,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,30.0,1
+0,30083516,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,15.0,1
+0,30083515,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,50.0,1
+0,30083514,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,40.0,1
+0,30083513,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,30.0,1
+0,30083512,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,25.0,1
+0,30083510,Development,1,high_freq_createdBy,medium_freq_updatedBy,43,145.0,1
+0,30083506,Development,0,high_freq_createdBy,high_freq_updatedBy,43,100.0,1
+0,30083503,Development,1,high_freq_createdBy,high_freq_updatedBy,43,80.0,1
+0,30083502,Design,0,medium_freq_createdBy,high_freq_updatedBy,43,300.0,1
+0,30083501,Development,1,high_freq_createdBy,high_freq_updatedBy,43,80.0,1
+0,30083482,Development,0,high_freq_createdBy,high_freq_updatedBy,43,100.0,1
+1,30083470,Quality Assurance,4,low_freq_createdBy,low_freq_updatedBy,43,0.0,0
+1,30083465,Data Science,13,medium_freq_createdBy,high_freq_updatedBy,43,250.0,1
+0,30083437,Development,0,low_freq_createdBy,low_freq_updatedBy,43,1000.0,1
+1,30083415,Development,6,high_freq_createdBy,medium_freq_updatedBy,43,1200.0,1
+0,30083411,Development,0,medium_freq_createdBy,high_freq_updatedBy,43,599.0,1
+0,30083383,Development,0,medium_freq_createdBy,high_freq_updatedBy,42,300.0,1
+0,30083382,Development,0,medium_freq_createdBy,medium_freq_updatedBy,42,300.0,1
+0,30083379,Development,8,medium_freq_createdBy,high_freq_updatedBy,42,270.0,1
+0,30083378,Development,2,medium_freq_createdBy,high_freq_updatedBy,42,2125.0,1
+0,30083376,Development,2,medium_freq_createdBy,high_freq_updatedBy,42,720.0,1
+1,30083373,Development,13,medium_freq_createdBy,high_freq_updatedBy,42,2100.0,1
+1,30083370,Development,9,medium_freq_createdBy,high_freq_updatedBy,42,1800.0,1
+1,30083369,Quality Assurance,3,medium_freq_createdBy,medium_freq_updatedBy,42,750.0,1
+1,30083368,Development,8,medium_freq_createdBy,high_freq_updatedBy,42,1800.0,1
+1,30083367,Development,6,medium_freq_createdBy,high_freq_updatedBy,42,1800.0,1
+0,30083366,Development,2,medium_freq_createdBy,high_freq_updatedBy,42,150.0,1
+0,30083351,Development,10,high_freq_createdBy,high_freq_updatedBy,42,150.0,1
+1,30083338,Development,18,medium_freq_createdBy,high_freq_updatedBy,42,100.0,1
+1,30083329,Development,9,medium_freq_createdBy,high_freq_updatedBy,42,1500.0,1
+1,30083325,Design,12,medium_freq_createdBy,high_freq_updatedBy,41,2000.0,1
+1,30083323,Development,8,medium_freq_createdBy,high_freq_updatedBy,41,1200.0,1
+1,30083318,Development,9,high_freq_createdBy,high_freq_updatedBy,40,1500.0,1
+0,30083315,Development,10,high_freq_createdBy,high_freq_updatedBy,40,50.0,1
+0,30083314,Development,1,high_freq_createdBy,high_freq_updatedBy,40,100.0,1
+0,30083313,Development,4,high_freq_createdBy,high_freq_updatedBy,40,200.0,1
+1,30083266,Quality Assurance,3,high_freq_createdBy,high_freq_updatedBy,40,1600.0,1
+0,30083263,Development,2,medium_freq_createdBy,high_freq_updatedBy,39,750.0,1
+0,30083258,Development,29,medium_freq_createdBy,medium_freq_updatedBy,39,3000.0,1
+1,30083257,Data Science,40,medium_freq_createdBy,medium_freq_updatedBy,39,8750.0,1
+0,30083238,Development,0,low_freq_createdBy,high_freq_updatedBy,39,50.0,1
+0,30083236,Development,4,medium_freq_createdBy,high_freq_updatedBy,39,250.0,1
+0,30083120,Development,2,medium_freq_createdBy,high_freq_updatedBy,39,150.0,1
+1,30083108,Development,8,medium_freq_createdBy,high_freq_updatedBy,39,1950.0,1
+1,30083093,Development,10,medium_freq_createdBy,high_freq_updatedBy,38,3000.0,1
+0,30083089,Development,3,high_freq_createdBy,high_freq_updatedBy,38,450.0,1
+0,30083047,Development,10,high_freq_createdBy,high_freq_updatedBy,38,300.0,1
+0,30083046,Development,4,high_freq_createdBy,high_freq_updatedBy,38,150.0,1
+0,30083032,Development,2,medium_freq_createdBy,high_freq_updatedBy,38,100.0,1
+0,30083031,Development,14,high_freq_createdBy,high_freq_updatedBy,38,150.0,1
+0,30083022,Development,10,high_freq_createdBy,medium_freq_updatedBy,38,2500.0,1
+0,30083009,Development,0,medium_freq_createdBy,high_freq_updatedBy,37,399.0,1
+0,30082942,Development,1,low_freq_createdBy,high_freq_updatedBy,37,150.0,1
+0,30082922,Development,1,medium_freq_createdBy,high_freq_updatedBy,37,600.0,1
+0,30082910,Development,10,medium_freq_createdBy,high_freq_updatedBy,37,149.0,1
+0,30082901,Development,0,medium_freq_createdBy,high_freq_updatedBy,37,799.0,1
+0,30082827,Development,0,medium_freq_createdBy,high_freq_updatedBy,36,10000.0,1
+0,30082769,Development,0,medium_freq_createdBy,high_freq_updatedBy,36,100.0,1
+0,30082759,Development,5,high_freq_createdBy,high_freq_updatedBy,36,150.0,1
+0,30082593,Development,1,medium_freq_createdBy,high_freq_updatedBy,36,899.0,1
+1,30082516,Development,8,high_freq_createdBy,high_freq_updatedBy,35,1200.0,1
+1,30082515,Development,5,medium_freq_createdBy,high_freq_updatedBy,35,2264.0,1
+1,30082506,Development,9,medium_freq_createdBy,high_freq_updatedBy,35,2100.0,1
+1,30082505,Development,8,medium_freq_createdBy,high_freq_updatedBy,35,1350.0,1
+0,30082495,Development,0,low_freq_createdBy,medium_freq_updatedBy,35,500.0,1
+0,30082489,Development,2,medium_freq_createdBy,high_freq_updatedBy,35,1125.0,1
+0,30082488,Development,1,medium_freq_createdBy,high_freq_updatedBy,35,270.0,1
+0,30082487,Development,2,medium_freq_createdBy,high_freq_updatedBy,35,720.0,1
+0,30082486,Development,2,medium_freq_createdBy,high_freq_updatedBy,35,1000.0,1
+0,30082484,Development,0,high_freq_createdBy,high_freq_updatedBy,35,150.0,1
+0,30082443,Development,1,high_freq_createdBy,high_freq_updatedBy,35,450.0,1
+0,30082437,Development,0,medium_freq_createdBy,high_freq_updatedBy,35,60.0,1
+0,30082425,Development,10,high_freq_createdBy,high_freq_updatedBy,34,100.0,1
+1,30082423,Design,29,medium_freq_createdBy,high_freq_updatedBy,34,2750.0,1
+0,30082422,Development,10,medium_freq_createdBy,high_freq_updatedBy,34,600.0,1
+1,30082421,Development,12,medium_freq_createdBy,high_freq_updatedBy,34,2550.0,1
+1,30082398,Development,9,high_freq_createdBy,high_freq_updatedBy,33,1800.0,1
+1,30082378,Development,8,medium_freq_createdBy,high_freq_updatedBy,33,3600.0,1
+1,30082341,Development,15,medium_freq_createdBy,medium_freq_updatedBy,32,3500.0,1
+0,30082325,Development,2,high_freq_createdBy,high_freq_updatedBy,32,150.0,1
+0,30082305,Development,2,medium_freq_createdBy,high_freq_updatedBy,32,400.0,1
+0,30082304,Development,0,medium_freq_createdBy,high_freq_updatedBy,32,2500.0,1
+1,30082237,Development,12,medium_freq_createdBy,high_freq_updatedBy,31,450.0,1
+1,30082115,Development,7,medium_freq_createdBy,high_freq_updatedBy,31,1950.0,1
+1,30082013,Development,8,high_freq_createdBy,high_freq_updatedBy,31,1500.0,1
+1,30081968,Development,7,medium_freq_createdBy,high_freq_updatedBy,30,1950.0,1
+1,30081780,Development,5,medium_freq_createdBy,high_freq_updatedBy,29,640.0,1
+1,30081618,Development,9,high_freq_createdBy,high_freq_updatedBy,29,3000.0,1
+1,30081564,Development,8,high_freq_createdBy,high_freq_updatedBy,29,1500.0,1
+0,30081357,Development,11,high_freq_createdBy,high_freq_updatedBy,29,350.0,1
+0,30081348,Development,2,medium_freq_createdBy,high_freq_updatedBy,29,200.0,1
+0,30081347,Development,2,medium_freq_createdBy,high_freq_updatedBy,29,100.0,1
+0,30081346,Development,10,medium_freq_createdBy,high_freq_updatedBy,29,270.0,1
+0,30081345,Development,2,medium_freq_createdBy,high_freq_updatedBy,29,720.0,1
+0,30081344,Development,2,medium_freq_createdBy,high_freq_updatedBy,29,1975.0,1
+0,30081343,Development,7,medium_freq_createdBy,high_freq_updatedBy,29,200.0,1
+1,30081339,Development,5,medium_freq_createdBy,high_freq_updatedBy,29,8999.75,1
+0,30081305,Development,0,medium_freq_createdBy,high_freq_updatedBy,29,999.0,1
+1,30081256,Data Science,13,medium_freq_createdBy,high_freq_updatedBy,29,250.0,1
+0,30081236,Development,0,medium_freq_createdBy,high_freq_updatedBy,29,2500.0,1
+1,30081096,Development,10,medium_freq_createdBy,high_freq_updatedBy,28,1800.0,1
+0,30081001,Development,0,medium_freq_createdBy,high_freq_updatedBy,28,2500.0,1
+0,30080988,Development,2,medium_freq_createdBy,high_freq_updatedBy,28,100.0,1
+1,30080984,Development,17,medium_freq_createdBy,medium_freq_updatedBy,28,2000.0,1
+0,30080968,Development,14,medium_freq_createdBy,high_freq_updatedBy,28,400.0,1
+1,30080869,Development,8,medium_freq_createdBy,medium_freq_updatedBy,26,3.0,1
+1,30080868,Development,5,medium_freq_createdBy,high_freq_updatedBy,26,595.0,1
+1,30080839,Development,5,medium_freq_createdBy,low_freq_updatedBy,26,300.0,1
+1,30080824,Design,12,medium_freq_createdBy,high_freq_updatedBy,25,2750.0,1
+1,30080823,Development,6,medium_freq_createdBy,high_freq_updatedBy,25,0.0,1
+1,30080777,Development,9,high_freq_createdBy,high_freq_updatedBy,25,2100.0,1
+0,30080704,Development,0,medium_freq_createdBy,high_freq_updatedBy,25,1000.0,1
+0,30080550,Development,2,medium_freq_createdBy,high_freq_updatedBy,24,200.0,1
+0,30080549,Development,10,medium_freq_createdBy,high_freq_updatedBy,24,200.0,1
+0,30080548,Development,2,medium_freq_createdBy,high_freq_updatedBy,24,200.0,1
+0,30080547,Development,2,medium_freq_createdBy,high_freq_updatedBy,24,2000.0,1
+0,30080544,Development,9,medium_freq_createdBy,high_freq_updatedBy,24,1000.0,1
+0,30080537,Development,3,high_freq_createdBy,high_freq_updatedBy,24,200.0,1
+0,30080518,Development,0,medium_freq_createdBy,high_freq_updatedBy,24,2000.0,1
+0,30080400,Development,11,medium_freq_createdBy,high_freq_updatedBy,23,400.0,1
+0,30080262,Development,0,medium_freq_createdBy,high_freq_updatedBy,23,99.0,1
+0,30079984,Development,3,medium_freq_createdBy,high_freq_updatedBy,22,200.0,1
+0,30079983,Development,10,medium_freq_createdBy,high_freq_updatedBy,22,200.0,1
+0,30079982,Development,3,medium_freq_createdBy,high_freq_updatedBy,22,200.0,1
+1,30079880,Development,8,high_freq_createdBy,medium_freq_updatedBy,22,515.0,1
+1,30079878,Design,20,medium_freq_createdBy,high_freq_updatedBy,22,2750.0,1
+0,30079859,Development,6,medium_freq_createdBy,high_freq_updatedBy,21,450.0,1
+0,30079858,Development,1,medium_freq_createdBy,high_freq_updatedBy,21,250.0,1
+0,30079856,Development,1,medium_freq_createdBy,high_freq_updatedBy,21,200.0,1
+1,30079854,Development,5,medium_freq_createdBy,high_freq_updatedBy,21,2066.0,1
+0,30079848,Development,2,high_freq_createdBy,high_freq_updatedBy,21,500.0,1
+1,30079846,Development,5,low_freq_createdBy,high_freq_updatedBy,21,600.0,1
+1,30079819,Development,5,high_freq_createdBy,medium_freq_updatedBy,21,200.0,1
+1,30079818,Development,5,medium_freq_createdBy,high_freq_updatedBy,21,2898.75,1
+0,30079817,Development,2,medium_freq_createdBy,high_freq_updatedBy,21,270.0,1
+0,30079816,Development,2,medium_freq_createdBy,high_freq_updatedBy,21,1975.0,1
+0,30079815,Development,2,medium_freq_createdBy,high_freq_updatedBy,21,720.0,1
+0,30079794,Development,1,high_freq_createdBy,high_freq_updatedBy,20,400.0,1
+1,30079791,Data Science,24,medium_freq_createdBy,high_freq_updatedBy,20,3000.0,1
+1,30079789,Development,6,medium_freq_createdBy,high_freq_updatedBy,20,1800.0,1
+0,30079754,Development,2,high_freq_createdBy,high_freq_updatedBy,19,200.0,1
+0,30079753,Development,13,medium_freq_createdBy,high_freq_updatedBy,19,1000.0,1
+1,30079727,Development,7,high_freq_createdBy,medium_freq_updatedBy,18,1500.0,1
+1,30079724,Design,12,medium_freq_createdBy,high_freq_updatedBy,18,2000.0,1
+1,30079715,Design,16,medium_freq_createdBy,high_freq_updatedBy,18,2750.0,1
+0,30079624,Development,3,medium_freq_createdBy,low_freq_updatedBy,18,0.0,0
+1,30079619,Quality Assurance,4,high_freq_createdBy,medium_freq_updatedBy,18,750.0,1
+1,30079615,Development,7,high_freq_createdBy,high_freq_updatedBy,17,1500.0,1
+0,30079613,Development,1,medium_freq_createdBy,high_freq_updatedBy,17,400.0,1
+0,30079609,Development,1,medium_freq_createdBy,high_freq_updatedBy,17,40.0,1
+0,30079598,Development,0,medium_freq_createdBy,high_freq_updatedBy,17,400.0,1
+0,30079562,Development,1,high_freq_createdBy,high_freq_updatedBy,17,200.0,1
+0,30079560,Development,1,high_freq_createdBy,high_freq_updatedBy,17,200.0,1
+1,30079511,Design,26,low_freq_createdBy,high_freq_updatedBy,17,1000.0,1
+1,30079486,Data Science,39,medium_freq_createdBy,high_freq_updatedBy,16,3900.0,1
+1,30079467,Development,17,medium_freq_createdBy,medium_freq_updatedBy,16,0.0,1
+0,30079465,Development,2,medium_freq_createdBy,high_freq_updatedBy,16,1090.0,1
+0,30079464,Development,2,medium_freq_createdBy,high_freq_updatedBy,16,1225.0,1
+0,30079463,Development,2,medium_freq_createdBy,high_freq_updatedBy,16,720.0,1
+1,30079446,Development,9,medium_freq_createdBy,high_freq_updatedBy,16,1500.0,1
+0,30079441,Development,1,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+0,30079440,Development,1,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+0,30079437,Development,0,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+0,30079435,Development,2,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+0,30079434,Development,2,medium_freq_createdBy,high_freq_updatedBy,16,100.0,1
+1,30079291,Development,9,medium_freq_createdBy,medium_freq_updatedBy,15,1200.0,1
+1,30079290,Quality Assurance,6,medium_freq_createdBy,high_freq_updatedBy,15,400.0,1
+1,30079282,Design,30,medium_freq_createdBy,high_freq_updatedBy,15,2750.0,1
+1,30079281,Development,11,medium_freq_createdBy,high_freq_updatedBy,15,1200.0,1
+0,30079213,Development,1,medium_freq_createdBy,high_freq_updatedBy,15,300.0,1
+1,30079188,Development,9,medium_freq_createdBy,high_freq_updatedBy,14,3000.0,1
+0,30079183,Development,10,medium_freq_createdBy,high_freq_updatedBy,14,400.0,1
+0,30079182,Development,6,medium_freq_createdBy,high_freq_updatedBy,14,400.0,1
+0,30079181,Development,30,medium_freq_createdBy,high_freq_updatedBy,14,3750.0,1
+0,30079180,Development,13,medium_freq_createdBy,high_freq_updatedBy,14,3000.0,1
+1,30079176,Development,7,high_freq_createdBy,medium_freq_updatedBy,14,1200.0,1
+1,30079143,Development,2,medium_freq_createdBy,medium_freq_updatedBy,14,1800.0,1
+0,30079037,Development,1,low_freq_createdBy,high_freq_updatedBy,11,4680.0,1
+1,30079036,Development,2,medium_freq_createdBy,medium_freq_updatedBy,11,2220.0,1
+1,30079031,Development,8,high_freq_createdBy,high_freq_updatedBy,11,900.0,1
+1,30079030,Development,8,high_freq_createdBy,high_freq_updatedBy,11,900.0,1
+1,30079028,Development,5,high_freq_createdBy,high_freq_updatedBy,11,600.0,1
+1,30078965,Development,7,high_freq_createdBy,high_freq_updatedBy,11,1800.0,1
+0,30078956,Development,0,medium_freq_createdBy,high_freq_updatedBy,11,59.0,1
+0,30078939,Development,0,medium_freq_createdBy,high_freq_updatedBy,10,5056.71,1
+1,30078926,Development,8,high_freq_createdBy,high_freq_updatedBy,10,1200.0,1
+1,30078924,Development,8,high_freq_createdBy,high_freq_updatedBy,10,600.0,1
+1,30078921,Development,4,high_freq_createdBy,medium_freq_updatedBy,10,450.0,1
+0,30078844,Development,1,medium_freq_createdBy,high_freq_updatedBy,9,300.0,1
+1,30078767,Development,5,low_freq_createdBy,high_freq_updatedBy,9,450.0,1
+0,30078746,Development,2,medium_freq_createdBy,high_freq_updatedBy,9,400.0,1
+0,30078674,Development,10,medium_freq_createdBy,high_freq_updatedBy,9,300.0,1
+0,30078642,Development,0,medium_freq_createdBy,high_freq_updatedBy,8,150.0,1
+0,30078640,Development,0,medium_freq_createdBy,high_freq_updatedBy,8,3500.0,1
+1,30078638,Development,8,medium_freq_createdBy,high_freq_updatedBy,8,2400.0,1
+0,30078635,Development,10,medium_freq_createdBy,high_freq_updatedBy,8,200.0,1
+0,30078634,Development,1,medium_freq_createdBy,high_freq_updatedBy,8,200.0,1
+1,30078612,Development,9,medium_freq_createdBy,high_freq_updatedBy,8,1650.0,1
+1,30078609,Development,10,medium_freq_createdBy,high_freq_updatedBy,8,1800.0,1
+1,30078607,Development,9,medium_freq_createdBy,high_freq_updatedBy,8,1950.0,1
+1,30078588,Development,6,high_freq_createdBy,high_freq_updatedBy,7,600.0,1
+1,30078581,Design,34,medium_freq_createdBy,high_freq_updatedBy,7,2750.0,1
+0,30078578,Development,0,medium_freq_createdBy,high_freq_updatedBy,7,600.0,1
+0,30078577,Development,2,medium_freq_createdBy,high_freq_updatedBy,7,2000.0,1
+0,30078576,Development,0,medium_freq_createdBy,high_freq_updatedBy,7,1000.0,1
+0,30078575,Development,2,medium_freq_createdBy,high_freq_updatedBy,7,1000.0,1
+0,30078560,Development,4,medium_freq_createdBy,high_freq_updatedBy,7,150.0,1
+0,30078559,Development,4,medium_freq_createdBy,high_freq_updatedBy,7,150.0,1
+0,30078557,Development,2,medium_freq_createdBy,high_freq_updatedBy,7,150.0,1
+0,30078556,Development,2,medium_freq_createdBy,high_freq_updatedBy,7,150.0,1
+0,30078550,Development,0,high_freq_createdBy,high_freq_updatedBy,7,100.0,1
+1,30078540,Development,8,high_freq_createdBy,high_freq_updatedBy,6,1500.0,1
+1,30078522,Development,2,medium_freq_createdBy,high_freq_updatedBy,6,3955.0,1
+1,30078508,Data Science,16,medium_freq_createdBy,medium_freq_updatedBy,5,3500.0,1
+0,30078495,Development,2,medium_freq_createdBy,high_freq_updatedBy,5,400.0,1
+1,30078468,Development,20,medium_freq_createdBy,medium_freq_updatedBy,4,3000.0,1
+0,30078466,Development,2,medium_freq_createdBy,high_freq_updatedBy,4,720.0,1
+0,30078465,Development,2,medium_freq_createdBy,high_freq_updatedBy,4,2125.0,1
+1,30078432,Development,6,medium_freq_createdBy,high_freq_updatedBy,4,1200.0,1
+1,30078426,Design,23,medium_freq_createdBy,high_freq_updatedBy,3,2000.0,1
+0,30078217,Development,0,medium_freq_createdBy,high_freq_updatedBy,3,10000.0,1
+1,30078212,Design,31,medium_freq_createdBy,high_freq_updatedBy,3,2000.0,1
+1,30078203,Development,11,medium_freq_createdBy,high_freq_updatedBy,3,1800.0,1
+1,30078202,Development,10,medium_freq_createdBy,high_freq_updatedBy,3,1800.0,1
+1,30078185,Development,5,medium_freq_createdBy,high_freq_updatedBy,2,4340.0,1
+1,30078178,Development,8,medium_freq_createdBy,high_freq_updatedBy,2,1800.0,1
+1,30078164,Development,4,high_freq_createdBy,high_freq_updatedBy,2,600.0,1
+0,30078144,Development,1,medium_freq_createdBy,high_freq_updatedBy,1,400.0,1
+0,30078116,Development,10,medium_freq_createdBy,high_freq_updatedBy,365,400.0,1
+0,30078115,Development,9,medium_freq_createdBy,high_freq_updatedBy,365,400.0,1
+0,30078089,Development,9,medium_freq_createdBy,high_freq_updatedBy,363,300.0,1
+1,30078088,Development,6,high_freq_createdBy,high_freq_updatedBy,363,1500.0,1
+1,30078067,Data Science,13,medium_freq_createdBy,medium_freq_updatedBy,362,3500.0,1
+0,30077924,Development,0,medium_freq_createdBy,high_freq_updatedBy,361,5000.0,1
+0,30077909,Development,10,medium_freq_createdBy,high_freq_updatedBy,361,100.0,1
+0,30077904,Development,26,medium_freq_createdBy,high_freq_updatedBy,361,3500.0,1
+0,30077900,Development,2,medium_freq_createdBy,medium_freq_updatedBy,361,300.0,1
+0,30077887,Development,11,high_freq_createdBy,high_freq_updatedBy,360,150.0,1
+0,30077850,Development,9,high_freq_createdBy,high_freq_updatedBy,359,200.0,1
+1,30077774,Development,9,medium_freq_createdBy,high_freq_updatedBy,358,3920.0,1
+0,30077766,Development,17,high_freq_createdBy,high_freq_updatedBy,357,200.0,1
+0,30077742,Development,2,medium_freq_createdBy,medium_freq_updatedBy,356,400.0,1
+1,30077739,Development,8,medium_freq_createdBy,high_freq_updatedBy,356,1500.0,1
+1,30077698,Design,9,medium_freq_createdBy,high_freq_updatedBy,355,2750.0,1
+1,30077697,Development,7,high_freq_createdBy,high_freq_updatedBy,355,750.0,1
+1,30077696,Development,9,high_freq_createdBy,high_freq_updatedBy,355,900.0,1
+1,30077695,Development,13,medium_freq_createdBy,high_freq_updatedBy,355,50.0,1
+1,30077688,Development,10,high_freq_createdBy,medium_freq_updatedBy,355,1200.0,1
+1,30077687,Development,9,high_freq_createdBy,high_freq_updatedBy,355,1800.0,1
+1,30077661,Development,4,high_freq_createdBy,medium_freq_updatedBy,355,120.0,1
+1,30077625,Development,7,medium_freq_createdBy,high_freq_updatedBy,355,1800.0,1
+1,30077622,Development,3,medium_freq_createdBy,high_freq_updatedBy,355,300.0,1
+1,30077608,Development,12,medium_freq_createdBy,medium_freq_updatedBy,355,3000.0,1
+0,30077594,Development,7,medium_freq_createdBy,high_freq_updatedBy,354,650.0,1
+1,30077549,Development,9,high_freq_createdBy,high_freq_updatedBy,354,900.0,1
+0,30077495,Development,0,low_freq_createdBy,high_freq_updatedBy,353,2000.0,1
+0,30077494,Development,0,low_freq_createdBy,high_freq_updatedBy,353,500.0,1
+0,30077487,Design,1,medium_freq_createdBy,high_freq_updatedBy,353,360.0,1
+1,30077475,Design,16,medium_freq_createdBy,high_freq_updatedBy,353,2000.0,1
+0,30077454,Development,2,medium_freq_createdBy,high_freq_updatedBy,353,2000.0,1
+0,30077412,Development,9,medium_freq_createdBy,low_freq_updatedBy,353,200.0,1
+0,30077403,Development,1,medium_freq_createdBy,high_freq_updatedBy,353,350.0,1
+0,30077399,Design,2,medium_freq_createdBy,high_freq_updatedBy,353,250.0,1
+0,30077398,Development,4,medium_freq_createdBy,high_freq_updatedBy,353,250.0,1
+0,30077392,Development,9,medium_freq_createdBy,high_freq_updatedBy,353,100.0,1
+0,30077388,Development,10,medium_freq_createdBy,high_freq_updatedBy,353,50.0,1
+1,30077387,Design,7,medium_freq_createdBy,high_freq_updatedBy,352,5750.0,1
+0,30077384,Development,2,medium_freq_createdBy,high_freq_updatedBy,352,250.0,1
+0,30077376,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,250.0,1
+0,30077373,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,3000.0,1
+1,30077357,Development,7,high_freq_createdBy,high_freq_updatedBy,352,1500.0,1
+0,30077356,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,250.0,1
+0,30077344,Development,3,medium_freq_createdBy,high_freq_updatedBy,352,900.0,1
+0,30077339,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,4000.0,1
+0,30077338,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,7000.0,1
+0,30077336,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,17000.0,1
+1,30077329,Quality Assurance,8,medium_freq_createdBy,medium_freq_updatedBy,352,2850.0,1
+0,30077310,Development,10,medium_freq_createdBy,high_freq_updatedBy,352,400.0,1
+1,30077308,Development,6,medium_freq_createdBy,high_freq_updatedBy,352,1050.0,1
+0,30077303,Development,0,medium_freq_createdBy,high_freq_updatedBy,352,250.0,1
+0,30077297,Development,7,medium_freq_createdBy,high_freq_updatedBy,352,1000.0,1
+1,30077234,Development,9,medium_freq_createdBy,high_freq_updatedBy,351,1800.0,1
+0,30077201,Development,10,medium_freq_createdBy,high_freq_updatedBy,351,1000.0,1
+1,30077166,Development,9,medium_freq_createdBy,high_freq_updatedBy,351,1800.0,1
+0,30077156,Development,6,medium_freq_createdBy,high_freq_updatedBy,351,500.0,1
+1,30077098,Development,8,medium_freq_createdBy,medium_freq_updatedBy,350,1800.0,1
+0,30077076,Development,1,high_freq_createdBy,medium_freq_updatedBy,349,250.0,1
+1,30077074,Development,10,medium_freq_createdBy,high_freq_updatedBy,349,1500.0,1
+1,30077073,Development,7,high_freq_createdBy,medium_freq_updatedBy,349,1500.0,1
+1,30077071,Development,6,high_freq_createdBy,high_freq_updatedBy,349,1500.0,1
+1,30077068,Quality Assurance,3,medium_freq_createdBy,high_freq_updatedBy,348,400.0,1
+0,30077052,Development,15,medium_freq_createdBy,high_freq_updatedBy,348,200.0,1
+1,30076999,Development,9,medium_freq_createdBy,high_freq_updatedBy,348,2400.0,1
+1,30076987,Development,7,medium_freq_createdBy,high_freq_updatedBy,348,1800.0,1
+1,30076985,Development,7,medium_freq_createdBy,high_freq_updatedBy,348,2100.0,1
+1,30076935,Development,6,high_freq_createdBy,high_freq_updatedBy,347,750.0,1
+1,30076921,Design,7,medium_freq_createdBy,medium_freq_updatedBy,347,5750.0,1
+1,30076909,Development,9,medium_freq_createdBy,high_freq_updatedBy,347,1800.0,1
+1,30076905,Data Science,47,medium_freq_createdBy,high_freq_updatedBy,346,23000.0,1
+1,30076899,Data Science,24,medium_freq_createdBy,medium_freq_updatedBy,346,3750.0,1
+1,30076890,Development,7,low_freq_createdBy,high_freq_updatedBy,346,750.0,1
+0,30076876,Development,10,low_freq_createdBy,high_freq_updatedBy,346,0.0,1
+1,30076738,Design,46,medium_freq_createdBy,high_freq_updatedBy,346,2750.0,1
+0,30076691,Development,0,medium_freq_createdBy,high_freq_updatedBy,345,4000.0,1
+0,30076636,Development,1,medium_freq_createdBy,high_freq_updatedBy,345,350.0,1
+1,30076631,Design,12,medium_freq_createdBy,high_freq_updatedBy,345,5750.0,1
+1,30076620,Development,5,medium_freq_createdBy,high_freq_updatedBy,344,1.0,1
+1,30076591,Design,37,medium_freq_createdBy,high_freq_updatedBy,344,2000.0,1
+1,30076564,Design,17,medium_freq_createdBy,high_freq_updatedBy,344,2750.0,1
+1,30076560,Development,6,medium_freq_createdBy,low_freq_updatedBy,344,900.0,1
+1,30076536,Quality Assurance,4,medium_freq_createdBy,medium_freq_updatedBy,344,500.0,1
+1,30076504,Development,6,medium_freq_createdBy,high_freq_updatedBy,344,900.0,1
+0,30076487,Development,5,medium_freq_createdBy,high_freq_updatedBy,343,2000.0,1
+1,30076484,Development,5,high_freq_createdBy,medium_freq_updatedBy,342,1.0,1
+1,30076476,Design,4,medium_freq_createdBy,medium_freq_updatedBy,342,5750.0,1
+1,30076470,Development,8,medium_freq_createdBy,medium_freq_updatedBy,341,1200.0,1
+1,30076469,Development,8,medium_freq_createdBy,medium_freq_updatedBy,341,1200.0,1
+0,30076443,Development,0,medium_freq_createdBy,high_freq_updatedBy,341,250.0,1
+1,30076411,Development,8,medium_freq_createdBy,high_freq_updatedBy,341,2100.0,1
+1,30076384,Development,4,low_freq_createdBy,high_freq_updatedBy,341,1050.0,1
+1,30076274,Development,8,medium_freq_createdBy,high_freq_updatedBy,340,1800.0,1
+0,30076201,Design,15,low_freq_createdBy,high_freq_updatedBy,340,100.0,1
+1,30076035,Development,10,medium_freq_createdBy,high_freq_updatedBy,340,1350.0,1
+1,30076026,Development,8,medium_freq_createdBy,high_freq_updatedBy,339,500.0,1
+1,30075998,Development,5,medium_freq_createdBy,medium_freq_updatedBy,339,500.0,1
+1,30075977,Development,11,medium_freq_createdBy,high_freq_updatedBy,339,2100.0,1
+1,30075953,Design,23,medium_freq_createdBy,high_freq_updatedBy,339,2750.0,1
+1,30075949,Development,8,medium_freq_createdBy,high_freq_updatedBy,339,1500.0,1
+1,30075945,Development,10,medium_freq_createdBy,low_freq_updatedBy,339,1800.0,1
+1,30075934,Design,14,medium_freq_createdBy,high_freq_updatedBy,338,1550.0,1
+0,30075884,Development,8,low_freq_createdBy,high_freq_updatedBy,338,0.0,1
+1,30075857,Development,9,medium_freq_createdBy,high_freq_updatedBy,338,2400.0,1
+0,30075851,Development,10,high_freq_createdBy,high_freq_updatedBy,338,300.0,1
+1,30075842,Development,7,medium_freq_createdBy,high_freq_updatedBy,338,900.0,1
+1,30075829,Development,8,medium_freq_createdBy,high_freq_updatedBy,337,1800.0,1
+1,30075751,Development,8,medium_freq_createdBy,high_freq_updatedBy,337,1200.0,1
+1,30075722,Development,9,high_freq_createdBy,high_freq_updatedBy,336,1800.0,1
+1,30075673,Development,8,high_freq_createdBy,high_freq_updatedBy,335,900.0,1
+0,30075672,Development,0,high_freq_createdBy,high_freq_updatedBy,335,100.0,1
+1,30075671,Development,10,medium_freq_createdBy,high_freq_updatedBy,335,2400.0,1
+1,30075664,Development,8,medium_freq_createdBy,high_freq_updatedBy,334,1800.0,1
+1,30075623,Design,41,medium_freq_createdBy,high_freq_updatedBy,334,1550.0,1
+1,30075545,Development,9,high_freq_createdBy,high_freq_updatedBy,333,1700.0,1
+1,30075510,Development,10,high_freq_createdBy,high_freq_updatedBy,333,2100.0,1
+0,30075508,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,500.0,1
+0,30075507,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075505,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075503,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075502,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075501,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,500.0,1
+0,30075500,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075499,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075498,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,500.0,1
+0,30075497,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075496,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075495,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,500.0,1
+0,30075494,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075493,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075492,Development,0,medium_freq_createdBy,high_freq_updatedBy,333,500.0,1
+0,30075491,Development,47,medium_freq_createdBy,high_freq_updatedBy,333,1500.0,1
+0,30075490,Development,2,medium_freq_createdBy,high_freq_updatedBy,333,10000.0,1
+0,30075487,Development,46,medium_freq_createdBy,high_freq_updatedBy,333,50.0,1
+0,30075486,Development,51,medium_freq_createdBy,high_freq_updatedBy,333,50.0,1
+1,30075466,Development,7,medium_freq_createdBy,high_freq_updatedBy,333,1200.0,1
+0,30075410,Development,0,medium_freq_createdBy,high_freq_updatedBy,332,600.0,1
+0,30075306,Development,1,medium_freq_createdBy,high_freq_updatedBy,332,200.0,1
+1,30075270,Development,6,medium_freq_createdBy,high_freq_updatedBy,332,750.0,1
+0,30075253,Development,0,medium_freq_createdBy,high_freq_updatedBy,331,2389.28,1
+1,30075228,Development,8,high_freq_createdBy,medium_freq_updatedBy,331,1800.0,1
+0,30075202,Development,59,medium_freq_createdBy,high_freq_updatedBy,330,5000.0,1
+0,30075201,Development,59,medium_freq_createdBy,high_freq_updatedBy,330,2500.0,1
+0,30075200,Development,65,medium_freq_createdBy,high_freq_updatedBy,330,3500.0,1
+0,30075198,Development,65,medium_freq_createdBy,high_freq_updatedBy,330,4500.0,1
+0,30075197,Development,59,medium_freq_createdBy,high_freq_updatedBy,330,6500.0,1
+0,30075194,Development,59,medium_freq_createdBy,high_freq_updatedBy,330,8500.0,1
+1,30075192,Development,8,low_freq_createdBy,medium_freq_updatedBy,330,1150.0,1
+1,30075162,Development,10,medium_freq_createdBy,high_freq_updatedBy,330,1800.0,1
+1,30075073,Development,5,medium_freq_createdBy,high_freq_updatedBy,328,750.0,1
+1,30074989,Design,12,medium_freq_createdBy,high_freq_updatedBy,327,2000.0,1
+1,30074969,Development,8,high_freq_createdBy,high_freq_updatedBy,326,900.0,1
+1,30074966,Development,7,high_freq_createdBy,high_freq_updatedBy,326,1200.0,1
+0,30074964,Development,0,medium_freq_createdBy,high_freq_updatedBy,326,250.0,1
+1,30074963,Development,6,medium_freq_createdBy,high_freq_updatedBy,326,1500.0,1
+1,30074950,Development,5,medium_freq_createdBy,high_freq_updatedBy,326,900.0,1
+1,30074929,Design,8,medium_freq_createdBy,high_freq_updatedBy,326,1050.0,1
+0,30074927,Development,11,medium_freq_createdBy,high_freq_updatedBy,326,750.0,1
+1,30074861,Development,10,medium_freq_createdBy,high_freq_updatedBy,326,1800.0,1
+1,30074860,Development,7,high_freq_createdBy,medium_freq_updatedBy,326,1200.0,1
+1,30074853,Development,9,medium_freq_createdBy,high_freq_updatedBy,325,2700.0,1
+1,30074844,Development,8,medium_freq_createdBy,medium_freq_updatedBy,325,2400.0,1
+1,30074842,Quality Assurance,4,high_freq_createdBy,high_freq_updatedBy,325,300.0,1
+0,30074801,Development,1,high_freq_createdBy,medium_freq_updatedBy,325,50.0,1
+1,30074777,Design,42,medium_freq_createdBy,low_freq_updatedBy,325,1000.0,1
+0,30074776,Development,5,medium_freq_createdBy,medium_freq_updatedBy,324,250.0,1
+0,30074772,Development,2,medium_freq_createdBy,high_freq_updatedBy,324,400.0,1
+0,30074771,Development,0,medium_freq_createdBy,high_freq_updatedBy,324,600.0,1
+0,30074767,Development,1,medium_freq_createdBy,high_freq_updatedBy,324,200.0,1
+1,30074693,Development,4,medium_freq_createdBy,high_freq_updatedBy,324,900.0,1
+0,30074687,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,2500.0,1
+0,30074686,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,1000.0,1
+0,30074685,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,2000.0,1
+0,30074684,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,3000.0,1
+0,30074683,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,5000.0,1
+0,30074681,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,8000.0,1
+1,30074677,Development,6,medium_freq_createdBy,high_freq_updatedBy,323,1800.0,1
+0,30074675,Development,0,medium_freq_createdBy,high_freq_updatedBy,323,500.0,1
+1,30074672,Development,7,medium_freq_createdBy,high_freq_updatedBy,323,1200.0,1
+1,30074669,Design,16,medium_freq_createdBy,high_freq_updatedBy,323,1550.0,1
+0,30074653,Development,1,low_freq_createdBy,high_freq_updatedBy,323,600.0,1
+1,30074629,Development,10,medium_freq_createdBy,low_freq_updatedBy,323,750.0,1
+0,30074611,Development,0,medium_freq_createdBy,high_freq_updatedBy,322,750.0,1
+0,30074609,Development,0,medium_freq_createdBy,high_freq_updatedBy,322,1750.0,1
+0,30074608,Development,0,medium_freq_createdBy,high_freq_updatedBy,322,2500.0,1
+0,30074606,Development,1,medium_freq_createdBy,high_freq_updatedBy,322,4000.0,1
+1,30074604,Development,6,medium_freq_createdBy,low_freq_updatedBy,322,1500.0,1
+1,30074600,Development,12,medium_freq_createdBy,medium_freq_updatedBy,322,1800.0,1
+1,30074592,Development,8,medium_freq_createdBy,high_freq_updatedBy,321,2250.0,1
+0,30074588,Development,6,medium_freq_createdBy,medium_freq_updatedBy,321,250.0,1
+0,30074566,Development,1,medium_freq_createdBy,high_freq_updatedBy,320,600.0,1
+0,30074565,Development,4,medium_freq_createdBy,high_freq_updatedBy,320,600.0,1
+1,30074545,Design,13,medium_freq_createdBy,high_freq_updatedBy,320,0.0,1
+1,30074522,Development,4,medium_freq_createdBy,high_freq_updatedBy,319,900.0,1
+0,30074505,Development,0,medium_freq_createdBy,high_freq_updatedBy,319,150.0,1
+1,30074502,Design,11,medium_freq_createdBy,high_freq_updatedBy,319,0.0,1
+1,30074389,Development,6,medium_freq_createdBy,medium_freq_updatedBy,318,0.0,1
+1,30074382,Design,13,medium_freq_createdBy,high_freq_updatedBy,317,5250.0,1
+1,30074340,Development,7,medium_freq_createdBy,high_freq_updatedBy,317,1800.0,1
+1,30074325,Development,8,medium_freq_createdBy,high_freq_updatedBy,317,1800.0,1
+0,30074310,Development,10,medium_freq_createdBy,high_freq_updatedBy,317,800.0,1
+1,30074309,Design,24,medium_freq_createdBy,low_freq_updatedBy,316,6250.0,1
+0,30074296,Development,8,medium_freq_createdBy,medium_freq_updatedBy,316,400.0,1
+0,30074294,Development,2,medium_freq_createdBy,high_freq_updatedBy,316,120.0,1
+0,30074268,Development,0,medium_freq_createdBy,high_freq_updatedBy,316,100.0,1
+1,30074263,Design,20,medium_freq_createdBy,high_freq_updatedBy,316,1550.0,1
+1,30074211,Development,12,medium_freq_createdBy,high_freq_updatedBy,316,2400.0,1
+1,30074181,Development,8,medium_freq_createdBy,high_freq_updatedBy,315,1500.0,1
+1,30074109,Development,4,high_freq_createdBy,medium_freq_updatedBy,314,480.0,1
+0,30074061,Development,0,medium_freq_createdBy,high_freq_updatedBy,313,5000.0,1
+0,30074034,Development,7,medium_freq_createdBy,medium_freq_updatedBy,313,600.0,1
+1,30074033,Development,6,medium_freq_createdBy,low_freq_updatedBy,312,2400.0,1
+1,30074030,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,312,1.0,1
+1,30074029,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,312,1.0,1
+1,30074028,Quality Assurance,7,medium_freq_createdBy,medium_freq_updatedBy,312,1.0,1
+1,30074027,Quality Assurance,7,medium_freq_createdBy,high_freq_updatedBy,312,1.0,1
+1,30074026,Quality Assurance,7,medium_freq_createdBy,medium_freq_updatedBy,312,1.0,1
+1,30073951,Quality Assurance,6,medium_freq_createdBy,high_freq_updatedBy,312,1.0,1
+1,30073950,Development,9,medium_freq_createdBy,high_freq_updatedBy,312,1800.0,1
+1,30073949,Development,6,medium_freq_createdBy,high_freq_updatedBy,312,2400.0,1
+1,30073900,Development,14,medium_freq_createdBy,high_freq_updatedBy,311,850.0,1
+0,30073892,Development,8,medium_freq_createdBy,high_freq_updatedBy,310,350.0,1
+1,30073859,Quality Assurance,16,medium_freq_createdBy,medium_freq_updatedBy,310,1.0,1
+1,30073843,Development,8,medium_freq_createdBy,medium_freq_updatedBy,310,1800.0,1
+1,30073821,Development,0,medium_freq_createdBy,medium_freq_updatedBy,309,20.0,1
+0,30073820,Development,10,medium_freq_createdBy,high_freq_updatedBy,309,150.0,1
+0,30073816,Development,3,high_freq_createdBy,high_freq_updatedBy,309,300.0,1
+0,30073815,Development,3,high_freq_createdBy,high_freq_updatedBy,309,300.0,1
+0,30073806,Development,0,medium_freq_createdBy,high_freq_updatedBy,309,2500.0,1
+1,30073802,Design,49,medium_freq_createdBy,high_freq_updatedBy,309,2000.0,1
+1,30073787,Development,13,low_freq_createdBy,high_freq_updatedBy,308,1500.0,1
+1,30073777,Design,23,medium_freq_createdBy,high_freq_updatedBy,307,2000.0,1
+1,30073774,Development,7,high_freq_createdBy,high_freq_updatedBy,307,1500.0,1
+0,30073751,Development,2,medium_freq_createdBy,high_freq_updatedBy,307,600.0,1
+1,30073744,Design,18,medium_freq_createdBy,high_freq_updatedBy,306,2750.0,1
+1,30073738,Design,51,medium_freq_createdBy,high_freq_updatedBy,306,2000.0,1
+0,30073737,Development,10,high_freq_createdBy,high_freq_updatedBy,306,300.0,1
+0,30073736,Development,10,high_freq_createdBy,high_freq_updatedBy,306,300.0,1
+0,30073735,Development,10,high_freq_createdBy,high_freq_updatedBy,306,300.0,1
+1,30073734,Development,7,high_freq_createdBy,high_freq_updatedBy,306,965.0,1
+1,30073730,Development,10,medium_freq_createdBy,medium_freq_updatedBy,306,1.0,0
+0,30073716,Development,1,medium_freq_createdBy,high_freq_updatedBy,306,150.0,1
+0,30073713,Development,0,medium_freq_createdBy,high_freq_updatedBy,306,150.0,1
+0,30073605,Development,10,high_freq_createdBy,high_freq_updatedBy,306,300.0,1
+0,30073604,Development,8,high_freq_createdBy,high_freq_updatedBy,306,300.0,1
+1,30073601,Design,36,medium_freq_createdBy,high_freq_updatedBy,305,2750.0,1
+1,30073543,Data Science,20,high_freq_createdBy,high_freq_updatedBy,304,3750.0,1
+1,30073516,Design,20,medium_freq_createdBy,low_freq_updatedBy,304,2750.0,1
+1,30073515,Design,27,medium_freq_createdBy,high_freq_updatedBy,304,525.0,1
+1,30073468,Development,7,medium_freq_createdBy,high_freq_updatedBy,304,1500.0,1
+1,30073467,Development,12,medium_freq_createdBy,high_freq_updatedBy,304,1350.0,1
+1,30073462,Development,7,medium_freq_createdBy,high_freq_updatedBy,303,2400.0,1
+0,30073460,Development,1,medium_freq_createdBy,high_freq_updatedBy,303,50.0,1
+1,30073458,Development,15,high_freq_createdBy,high_freq_updatedBy,303,1800.0,1
+0,30073456,Development,10,medium_freq_createdBy,high_freq_updatedBy,303,100.0,1
+1,30073451,Quality Assurance,2,medium_freq_createdBy,high_freq_updatedBy,303,400.0,1
+1,30073427,Development,10,medium_freq_createdBy,high_freq_updatedBy,303,1500.0,1
+1,30073417,Design,35,medium_freq_createdBy,high_freq_updatedBy,302,850.0,1
+1,30073416,Development,15,medium_freq_createdBy,medium_freq_updatedBy,302,2700.0,1
+1,30073409,Development,11,high_freq_createdBy,high_freq_updatedBy,302,1800.0,1
+1,30073408,Development,6,high_freq_createdBy,medium_freq_updatedBy,302,1200.0,0
+1,30073402,Design,29,medium_freq_createdBy,high_freq_updatedBy,302,1550.0,1
+1,30073328,Development,6,high_freq_createdBy,high_freq_updatedBy,301,1200.0,1
+1,30073301,Development,10,medium_freq_createdBy,medium_freq_updatedBy,300,2400.0,1
+0,30073275,Development,0,medium_freq_createdBy,high_freq_updatedBy,300,2000.0,1
+0,30073261,Development,30,low_freq_createdBy,high_freq_updatedBy,299,10.0,1

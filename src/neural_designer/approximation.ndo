@@ -1,0 +1,321 @@
+<NeuralDesignerOutput>
+ <Task Id="w80kmm" Component="Data set" Name="Calculate inputs-targets correlations" Title="Inputs-targets correlations">
+  <Text Id="3dO7nI" Title="Task description">It might be interesting to look for dependencies between single input and single target variables. This task calculates the values of the correlation coefficient between all inputs and all targets. Correlations close to 1 mean that a single target is correlated with a single input. Correlations close to 0 mean that there is not a relationship between an input and a target variables. Note that, in general, the targets depend on many inputs simultaneously. </Text>
+  <Table Id="MfOntG" Title="numOfSubmissions correlations table">
+   <Caption Id="xKIkB0">The following table shows the value of the correlations between all input and target variables. The maximum correlation (-0.159037) is yield between the input variable updatedBy and the target variable numOfSubmissions. </Caption>
+   <Data>Logistic\-0.159037
+Logistic\0.146927
+Logistic\0.088803
+Logistic\0.059148
+Linear\-0.048210
+Logistic\0.045225
+Logistic\0.036394
+Logistic\0.001615</Data>
+   <RowsName>updatedBy\track\legacyId\createdBy\type\day_of_year\challenge_prize\challenge_duration</RowsName>
+   <ColumnsName>type\numOfSubmissions</ColumnsName>
+   <RowHeadingsWidth>26</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <BarsChart Id="eP4UIp" Title="numOfSubmissions top correlations chart">
+   <Caption Id="w46ci9">The next chart illustrates the dependency of the target numOfSubmissions with the input variables.
+ </Caption>
+   <Data>0.00161539\0.0363935\0.0452252\-0.0482097\0.0591479\0.0888034\0.146927\-0.159037</Data>
+   <XTitle>Correlation</XTitle>
+   <Names>challenge_duration\challenge_prize\day_of_year\type\createdBy\legacyId\track\updatedBy</Names>
+   <Maximum>1</Maximum>
+   <Metadata>0.00161539\0.0363935\0.0452252\-0.0482097\0.0591479\0.0888034\0.146927\-0.159037</Metadata>
+  </BarsChart>
+ </Task>
+ <Task Id="Z08hGS" Component="Data set" Name="Calculate inputs-targets correlations" Title="Inputs-targets correlations">
+  <Text Id="5N6AVd" Title="Task description">It might be interesting to look for dependencies between single input and single target variables. This task calculates the values of the correlation coefficient between all inputs and all targets. Correlations close to 1 mean that a single target is correlated with a single input. Correlations close to 0 mean that there is not a relationship between an input and a target variables. Note that, in general, the targets depend on many inputs simultaneously. </Text>
+  <Table Id="17iW9M" Title="numOfSubmissions correlations table">
+   <Caption Id="w6BSjU">The following table shows the value of the correlations between all input and target variables. The maximum correlation (-0.159312) is yield between the input variable updatedBy and the target variable numOfSubmissions. </Caption>
+   <Data>Logistic\-0.159312
+Logistic\0.146930
+Logistic\0.088807
+Logistic\0.057919
+Linear\-0.048210
+Logistic\0.045225
+Logistic\0.036389
+Logistic\0.001614</Data>
+   <RowsName>updatedBy\track\legacyId\createdBy\type\day_of_year\challenge_prize\challenge_duration</RowsName>
+   <ColumnsName>type\numOfSubmissions</ColumnsName>
+   <RowHeadingsWidth>26</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <BarsChart Id="bv81i4" Title="numOfSubmissions top correlations chart">
+   <Caption Id="51qfDC">The next chart illustrates the dependency of the target numOfSubmissions with the input variables.
+ </Caption>
+   <Data>0.001614\0.0363894\0.045225\-0.0482097\0.0579189\0.0888068\0.14693\-0.159312</Data>
+   <XTitle>Correlation</XTitle>
+   <Names>challenge_duration\challenge_prize\day_of_year\type\createdBy\legacyId\track\updatedBy</Names>
+   <Maximum>1</Maximum>
+   <Metadata>0.001614\0.0363894\0.045225\-0.0482097\0.0579189\0.0888068\0.14693\-0.159312</Metadata>
+  </BarsChart>
+ </Task>
+ <Task Id="OWADKP" Component="Model selection" Name="Perform order selection" Title="Order selection">
+  <Text Id="L6lKf7" Title="Task description">The best selection is achieved by using a model whose complexity is the most appropriate to produce an adequate fit of the data. The order selection algorithm is responsible of finding the optimal number of neurons in the network. </Text>
+  <Text Id="GezK3M" Title="Order selection algorithm">Incremental order is used here as order selection algorithm in the model selection. </Text>
+  <DoubleLineChart Id="EJxLgF" Title="Incremental order error plot">
+   <Caption Id="jiQWUO">The next chart shows the error history for the different subsets during the incremental order selection process. The blue line represents the training error and the orange line symbolizes the selection error. </Caption>
+   <X1Data>1\2\3\4\5\6\7\8\9\10</X1Data>
+   <X2Data>1\2\3\4\5\6\7\8\9\10</X2Data>
+   <Y1Data>0.12653\0.017945\0.012405\0.011719\0.0084386\0.0092233\0.0088417\0.0086792\0.0068117\0.0078472</Y1Data>
+   <Y1Name>Training error</Y1Name>
+   <Color1>#437CC0</Color1>
+   <Width1>1</Width1>
+   <Areas1>false</Areas1>
+   <Y2Data>0.24822\0.043064\0.028229\0.032881\0.027919\0.026415\0.019994\0.023445\0.0244\0.027081</Y2Data>
+   <Y2Name>Selection error</Y2Name>
+   <Color2>#FF4F4A</Color2>
+   <Width2>1</Width2>
+   <Areas2>false</Areas2>
+   <Metadata/>
+   <MetadataName/>
+   <XLabel>Order</XLabel>
+   <YLabel>Weighted squared error</YLabel>
+   <XMinimum>1</XMinimum>
+   <XMaximum>10</XMaximum>
+   <YMinimum>0</YMinimum>
+   <YMaximum>1</YMaximum>
+  </DoubleLineChart>
+  <Table Id="EFQYDK" Title="Incremental order results">
+   <Caption Id="uDYn9W">The next table shows the order selection results by the incremental order algorithm. They include some final states from the neural network, the error functional and the order selection algorithm. </Caption>
+   <Data>3
+0.0124053
+0.0282287
+10
+00:13</Data>
+   <RowsName>Optimal order\Optimum training error\Optimum selection error\Iterations number\Elapsed time</RowsName>
+   <ColumnsName>Value</ColumnsName>
+   <RowHeadingsWidth>17</RowHeadingsWidth>
+   <ColumnHeadingsWidth>6</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <NeuralNetworkGraph Id="p6k3VO" Title="Final architecture">
+   <Caption Id="AkVBZd">A graphical representation of the resulted deep architecture is depicted next. It contains a scaling layer, a neural network and a probabilistic layer. The yellow circles represent scaling neurons, the blue circles perceptron neurons and the red circles probabilistic neurons. The number of inputs is 12, and the number of outputs is 1. The complexity, represented by the numbers of hidden neurons, is 3. </Caption>
+   <ProjectType>Classification</ProjectType>
+   <PrincipalComponentsMethod>NoPrincipalComponents</PrincipalComponentsMethod>
+   <BoundingMethod/>
+   <InputsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize</InputsName>
+   <Architecture>12\12\3\1\1\1</Architecture>
+   <OutputsName>numOfSubmissions</OutputsName>
+  </NeuralNetworkGraph>
+ </Task>
+ <Task Id="QGatA7" Component="Neural network" Name="Export Python" Title="Python expression">
+  <Text Id="8DgSdm" Title="Task description">The predictive model takes the form of a function of the outputs with respect to the inputs. The mathematical expression represented by the model can be exported to different programming languages, in the so called production mode. The Python programming language expression has been saved in the following file: C:/Users/Usuario/Desktop/Challenge Health Notification_4.5/src/classification_model.py</Text>
+ </Task>
+ <Task Id="tdwKRg" Component="Neural network" Name="Calculate outputs" Title="Neural network outputs">
+  <Text Id="cgr7CQ" Title="Task description">A neural network produces a set of outputs for each set of inputs applied. The outputs depend, in turn, on the values of the parameters. </Text>
+  <Table Id="mgI0Mq" Title="Inputs-outputs table">
+   <Caption Id="Fzljew">The next table shows the input values and their corresponding output values. The input variables are type, legacyId, Development, Data Science, Quality Assurance, Design, challenge_duration, high_freq_createdBy, low_freq_createdBy, medium_freq_createdBy, day_of_year, challenge_prize; and the output variable is numOfSubmissions. </Caption>
+   <Data>0.617695
+30092700
+1
+0
+0
+0
+10.049
+1
+0
+0
+172.319
+1919.63
+0.999961552</Data>
+   <RowsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize\numOfSubmissions</RowsName>
+   <ColumnsName>Value</ColumnsName>
+   <RowHeadingsWidth>15</RowHeadingsWidth>
+   <ColumnHeadingsWidth>9</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+ </Task>
+ <Task Id="T4JVwh" Component="Neural network" Name="Report neural network" Title="Neural network">
+  <Text Id="5aIVdt" Title="Task description">The neural network represents the predictive model. In Neural Designer neural networks allow deep architectures, which are a class of universal approximator. </Text>
+  <Table Id="TjYrEV" Title="Inputs">
+   <Caption Id="np3Lad">The number of inputs is 12. The next table depicts some basic information about them, including the name, the units and the description. </Caption>
+   <Data>type
+legacyId
+Development
+Data Science
+Quality Assurance
+Design
+challenge_duration
+high_freq_createdBy
+low_freq_createdBy
+medium_freq_createdBy
+day_of_year
+challenge_prize</Data>
+   <RowsName>1\2\3\4\5\6\7\8\9\10\11\12</RowsName>
+   <ColumnsName>  Name   </ColumnsName>
+   <RowHeadingsWidth>3</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>left</Alignment>
+  </Table>
+  <Table Id="Q0aBLA" Title="Scaling layer">
+   <Caption Id="epeHJx">The size of the scaling layer is 12, the number of inputs. The scaling method for this layer is the Automatic. The following table shows the values which are used for scaling the inputs, which include the minimum, maximum, mean and standard deviation. </Caption>
+   <Data>0\1\0.618\0.486
+3e+07\3.01e+07\3.01e+07\1.36e+04
+0\1\0.78\0.414
+0\1\0.0856\0.28
+0\1\0.023\0.15
+0\1\0.111\0.314
+0\368\10\15.4
+0\1\0.303\0.46
+0\1\0.0416\0.2
+0\1\0.656\0.475
+1\365\172\113
+0\1e+05\1.92e+03\5.15e+03</Data>
+   <RowsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize</RowsName>
+   <ColumnsName>Minimum\Maximum\Mean\Deviation</ColumnsName>
+   <RowHeadingsWidth>15</RowHeadingsWidth>
+   <ColumnHeadingsWidth>6</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Table Id="2CE9BM" Title="Perceptron layers">
+   <Caption Id="3ElHmA">The number of perceptron layers in the neural network is 2. The following table depicts the size of each layer and its corresponding activation function. </Caption>
+   <Data>12\3\Logistic
+3\1\Logistic</Data>
+   <RowsName>1\2</RowsName>
+   <ColumnsName>Inputs number\Perceptrons number\Activation function</ColumnsName>
+   <RowHeadingsWidth>5</RowHeadingsWidth>
+   <ColumnHeadingsWidth>14</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Table Id="UfWaXf" Title="Neural network parameters">
+   <Caption Id="ekfPjl">The following table shows the statistics of the parameters of the neural network. The total number of parameters is 1. </Caption>
+   <Data>-11.2\11.5\-0.374\4.51</Data>
+   <RowsName>Statistics</RowsName>
+   <ColumnsName>Minimum\Maximum\Mean\Standard deviation</ColumnsName>
+   <RowHeadingsWidth>7</RowHeadingsWidth>
+   <ColumnHeadingsWidth>13</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Text Id="jd6biv" Title="Probabilistic layer">The size of the probabilistic layer is 1, the number of outputs. The probabilistic method for this layer is the probability. </Text>
+  <Table Id="hbZgqy" Title="Outputs table">
+   <Caption Id="BmfQTl">The number of outputs is 1. The next table depicts some basic information about them, including the name, the units and the description. </Caption>
+   <Data>numOfSubmissions</Data>
+   <RowsName>1</RowsName>
+   <ColumnsName>  Name   </ColumnsName>
+   <RowHeadingsWidth>3</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>left</Alignment>
+  </Table>
+  <NeuralNetworkGraph Id="ppX7nT" Title="Neural network graph">
+   <Caption Id="UYjbKP">A graphical representation of the network architecture is depicted next. It contains a scaling layer, a neural network and a probabilistic layer. The yellow circles represent scaling neurons, the blue circles perceptron neurons and the red circles probabilistic neurons. The number of inputs is 12, and the number of outputs is 1. The complexity, represented by the numbers of hidden neurons, is 3. </Caption>
+   <ProjectType>Classification</ProjectType>
+   <PrincipalComponentsMethod>NoPrincipalComponents</PrincipalComponentsMethod>
+   <BoundingMethod>NoBounding</BoundingMethod>
+   <InputsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize</InputsName>
+   <Architecture>12\12\3\1\1\1</Architecture>
+   <OutputsName>numOfSubmissions</OutputsName>
+  </NeuralNetworkGraph>
+ </Task>
+ <Task Id="ixeGzq" Component="Neural network" Name="Report neural network" Title="Neural network">
+  <Text Id="qXzPJr" Title="Task description">The neural network represents the predictive model. In Neural Designer neural networks allow deep architectures, which are a class of universal approximator. </Text>
+  <Table Id="7DWcs0" Title="Inputs">
+   <Caption Id="h4AJv6">The number of inputs is 12. The next table depicts some basic information about them, including the name, the units and the description. </Caption>
+   <Data>type
+legacyId
+Development
+Data Science
+Quality Assurance
+Design
+challenge_duration
+high_freq_createdBy
+low_freq_createdBy
+medium_freq_createdBy
+day_of_year
+challenge_prize</Data>
+   <RowsName>1\2\3\4\5\6\7\8\9\10\11\12</RowsName>
+   <ColumnsName>  Name   </ColumnsName>
+   <RowHeadingsWidth>3</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>left</Alignment>
+  </Table>
+  <Table Id="puWEYD" Title="Scaling layer">
+   <Caption Id="AC69bU">The size of the scaling layer is 12, the number of inputs. The scaling method for this layer is the Automatic. The following table shows the values which are used for scaling the inputs, which include the minimum, maximum, mean and standard deviation. </Caption>
+   <Data>0\1\0.618\0.486
+3e+07\3.01e+07\3.01e+07\1.36e+04
+0\1\0.78\0.414
+0\1\0.0856\0.28
+0\1\0.023\0.15
+0\1\0.111\0.314
+0\368\10\15.4
+0\1\0.303\0.46
+0\1\0.0416\0.2
+0\1\0.656\0.475
+1\365\172\113
+0\1e+05\1.92e+03\5.15e+03</Data>
+   <RowsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize</RowsName>
+   <ColumnsName>Minimum\Maximum\Mean\Deviation</ColumnsName>
+   <RowHeadingsWidth>15</RowHeadingsWidth>
+   <ColumnHeadingsWidth>6</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Table Id="zVaWzY" Title="Perceptron layers">
+   <Caption Id="LMAYXG">The number of perceptron layers in the neural network is 2. The following table depicts the size of each layer and its corresponding activation function. </Caption>
+   <Data>12\3\Logistic
+3\1\Logistic</Data>
+   <RowsName>1\2</RowsName>
+   <ColumnsName>Inputs number\Perceptrons number\Activation function</ColumnsName>
+   <RowHeadingsWidth>5</RowHeadingsWidth>
+   <ColumnHeadingsWidth>14</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Table Id="KImKoY" Title="Neural network parameters">
+   <Caption Id="8Aern8">The following table shows the statistics of the parameters of the neural network. The total number of parameters is 1. </Caption>
+   <Data>-11.2\11.5\-0.374\4.51</Data>
+   <RowsName>Statistics</RowsName>
+   <ColumnsName>Minimum\Maximum\Mean\Standard deviation</ColumnsName>
+   <RowHeadingsWidth>7</RowHeadingsWidth>
+   <ColumnHeadingsWidth>13</ColumnHeadingsWidth>
+   <Alignment>right</Alignment>
+  </Table>
+  <Text Id="wtqG0O" Title="Probabilistic layer">The size of the probabilistic layer is 1, the number of outputs. The probabilistic method for this layer is the probability. </Text>
+  <Table Id="DZAnpt" Title="Outputs table">
+   <Caption Id="kDekUq">The number of outputs is 1. The next table depicts some basic information about them, including the name, the units and the description. </Caption>
+   <Data>numOfSubmissions</Data>
+   <RowsName>1</RowsName>
+   <ColumnsName>  Name   </ColumnsName>
+   <RowHeadingsWidth>3</RowHeadingsWidth>
+   <ColumnHeadingsWidth>12</ColumnHeadingsWidth>
+   <Alignment>left</Alignment>
+  </Table>
+  <NeuralNetworkGraph Id="4cLil4" Title="Neural network graph">
+   <Caption Id="FlqPwX">A graphical representation of the network architecture is depicted next. It contains a scaling layer, a neural network and a probabilistic layer. The yellow circles represent scaling neurons, the blue circles perceptron neurons and the red circles probabilistic neurons. The number of inputs is 12, and the number of outputs is 1. The complexity, represented by the numbers of hidden neurons, is 3. </Caption>
+   <ProjectType>Classification</ProjectType>
+   <PrincipalComponentsMethod>NoPrincipalComponents</PrincipalComponentsMethod>
+   <BoundingMethod>NoBounding</BoundingMethod>
+   <InputsName>type\legacyId\Development\Data Science\Quality Assurance\Design\challenge_duration\high_freq_createdBy\low_freq_createdBy\medium_freq_createdBy\day_of_year\challenge_prize</InputsName>
+   <Architecture>12\12\3\1\1\1</Architecture>
+   <OutputsName>numOfSubmissions</OutputsName>
+  </NeuralNetworkGraph>
+ </Task>
+ <Task Id="tKEDLf" Component="Training strategy" Name="Report training strategy" Title="Training strategy">
+  <Text Id="rSpBpe" Title="Training strategy">The procedure used to carry out the learning process is called training(or learning) strategy. The training strategy is applied to the neural network in order to obtain the best possible loss. </Text>
+  <Table Id="ZM9Hih" Title="Optimization algorithm">
+   <Caption Id="yqko4t">The quasi-Newton method is used here as optimization algorithm. It is based on Newton's method, but does not require calculation of second derivatives. Instead, the quasi-Newton method computes an approximation of the inverse Hessian at each iteration of the algorithm, by only using gradient information. </Caption>
+   <Data>Method used to obtain a suitable training rate.\BFGS
+Method used to calculate the step for the quasi-Newton training direction.\BrentMethod
+Maximum interval length for the training rate.\0.001
+Norm of the parameters increment vector at which training stops.\1e-09
+Minimum loss improvement between two successive epochs.\1e-12
+Goal value for the loss.\1e-12
+Goal value for the norm of the objective function gradient.\0.001
+Maximum number of epochs at which the selection error increases.\100
+Maximum number of epochs to perform the training.\1000
+Maximum training time.\3600
+Plot a graph with the parameters norm of each iteration.\false
+Plot a graph with the loss of each iteration.\true
+Plot a graph with the selection error of each iteration.\true
+Plot a graph with the gradient norm of each iteration.\false</Data>
+   <RowsName>Inverse Hessian approximation method\Training rate method\Loss tolerance\Minimum parameters increment norm\Minimum loss decrease\Loss goal\Gradient norm goal\Maximum selection error increases\Maximum iterations number\Maximum time\Reserve parameters norm history\Reserve error history\Reserve selection error history\Reserve gradient norm history</RowsName>
+   <ColumnsName>Description\Value</ColumnsName>
+   <RowHeadingsWidth>27</RowHeadingsWidth>
+   <ColumnHeadingsWidth>25</ColumnHeadingsWidth>
+   <Alignment>center</Alignment>
+  </Table>
+ </Task>
+</NeuralDesignerOutput>

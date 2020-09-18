@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Document created by Neural Engine-->
+<NeuralDesignerProject ProjectType="Classification">
+   <Description Id="8K3Ip3"></Description>
+   <DataSet>
+      <DataFile>
+         <FileType>csv</FileType>
+         <FirstCell>No excel</FirstCell>
+         <LastCell>No excel</LastCell>
+         <SheetNumber>0</SheetNumber>
+         <LagsNumber>0</LagsNumber>
+         <StepsAhead>0</StepsAhead>
+         <TimeIndex>1947167506496</TimeIndex>
+         <ColumnsName>1</ColumnsName>
+         <RowsLabel>0</RowsLabel>
+         <Separator>Comma</Separator>
+         <MissingValuesLabel>NA</MissingValuesLabel>
+         <GroupingFactor>0</GroupingFactor>
+         <DataFileName>../../data/train/csv/training_classification.csv</DataFileName>
+      </DataFile>
+      <Variables>
+         <VariablesNumber>16</VariablesNumber>
+         <Item Index="1">
+            <Name>type</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="2">
+            <Name>legacyId</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="3">
+            <Name>Development</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="4">
+            <Name>Data Science</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="5">
+            <Name>Quality Assurance</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="6">
+            <Name>Design</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="7">
+            <Name>challenge_duration</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="8">
+            <Name>high_freq_createdBy</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="9">
+            <Name>low_freq_createdBy</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="10">
+            <Name>medium_freq_createdBy</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="11">
+            <Name>medium_freq_updatedBy</Name>
+            <Use>Unused</Use>
+         </Item>
+         <Item Index="12">
+            <Name>high_freq_updatedBy</Name>
+            <Use>Unused</Use>
+         </Item>
+         <Item Index="13">
+            <Name>low_freq_updatedBy</Name>
+            <Use>Unused</Use>
+         </Item>
+         <Item Index="14">
+            <Name>day_of_year</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="15">
+            <Name>challenge_prize</Name>
+            <Use>Input</Use>
+         </Item>
+         <Item Index="16">
+            <Name>numOfSubmissions</Name>
+            <Use>Target</Use>
+         </Item>
+      </Variables>
+      <Instances>
+         <InstancesNumber>2430</InstancesNumber>
+         <ItemsUses>0 0 0 2 0 1 0 0 1 0 1 1 0 0 0 2 1 0 0 0 1 1 0 0 0 0 0 1 2 2 0 0 0 0 0 2 2 2 0 1 2 0 2 0 0 0 0 1 1 2 0 2 0 0 0 1 1 1 0 0 0 0 2 2 0 2 1 0 1 0 0 0 0 0 0 0 1 0 0 2 0 0 1 1 0 0 2 0 0 0 2 0 0 0 0 0 1 2 0 2 2 0 1 1 1 0 1 0 2 0 0 0 2 1 0 1 0 0 0 0 1 1 0 0 2 0 2 2 1 0 1 2 1 0 1 0 0 1 0 0 0 2 0 0 2 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 2 0 1 1 0 0 0 1 1 2 0 0 1 2 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 1 0 0 0 2 1 2 1 0 0 1 0 0 2 0 0 1 0 0 0 0 2 0 1 2 2 1 1 0 1 2 0 0 0 1 1 0 0 0 0 1 2 0 0 0 0 2 0 2 0 1 0 0 2 0 2 0 0 0 0 0 1 2 0 0 1 0 0 1 1 0 0 2 0 0 0 0 1 2 0 0 0 0 1 0 0 0 2 0 2 2 0 1 1 0 1 1 2 0 0 0 0 0 0 1 0 2 0 0 0 1 1 1 2 2 0 0 1 0 0 0 0 0 1 0 1 0 2 0 1 0 0 0 2 0 0 2 0 1 0 0 0 0 1 0 0 0 0 2 0 0 2 0 1 1 0 0 0 1 2 2 0 0 0 0 0 2 0 2 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 2 0 0 1 0 0 1 0 1 0 0 2 1 0 1 1 2 2 0 0 1 0 1 1 1 0 1 1 1 2 0 2 2 2 0 0 0 0 2 0 2 1 1 0 2 0 0 1 0 0 0 0 2 0 2 1 2 1 0 0 0 0 1 2 1 1 1 1 0 0 2 2 1 0 1 0 2 0 1 1 0 0 0 0 0 0 2 0 2 0 0 0 0 0 2 0 0 1 0 0 1 2 1 0 2 0 1 0 2 0 0 0 0 0 0 2 1 2 0 2 0 0 1 1 1 1 0 0 1 0 2 2 0 0 0 0 1 2 2 2 0 0 1 0 2 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 1 0 0 0 1 2 1 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 1 1 0 2 2 1 0 1 2 0 0 0 0 0 1 0 2 1 2 0 2 0 0 1 0 2 2 1 2 2 1 0 0 1 0 0 1 0 0 2 0 0 0 0 1 2 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 2 1 2 0 2 2 0 1 0 1 0 0 0 0 1 0 0 2 2 2 0 0 0 0 0 2 0 0 1 0 0 0 0 0 1 0 0 2 0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 1 0 1 0 0 0 0 0 0 2 0 2 1 0 0 0 2 0 0 2 2 2 1 0 0 2 0 2 0 2 0 0 2 0 0 0 1 1 0 2 1 0 0 0 0 1 1 0 0 2 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 0 1 0 2 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 0 0 1 1 0 0 0 0 2 1 0 0 0 2 0 0 0 0 1 1 0 2 0 0 0 0 0 0 2 1 0 1 0 0 0 2 0 1 0 2 0 0 0 0 2 0 0 0 0 2 2 0 2 0 2 2 2 2 1 2 0 0 0 1 2 1 2 1 0 2 0 0 0 1 0 1 1 0 1 0 2 0 0 0 0 1 0 2 0 2 0 2 1 0 1 0 0 2 2 0 0 0 1 0 2 0 0 2 1 0 2 0 0 0 0 0 0 1 2 1 0 1 1 0 2 2 0 1 0 0 0 0 2 0 2 0 1 0 0 0 1 0 1 1 2 1 0 0 2 2 1 2 2 1 0 0 0 0 1 2 0 0 0 0 1 0 1 1 2 2 0 1 0 0 0 2 2 2 1 0 0 0 1 0 0 2 0 0 1 0 0 1 2 0 1 0 2 2 0 0 0 0 1 0 2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 2 0 2 2 1 1 0 2 1 0 0 2 0 0 0 2 0 0 1 0 0 1 0 0 0 0 2 0 1 0 0 0 1 2 2 2 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 2 0 0 0 2 1 1 1 0 1 0 1 1 0 0 0 0 2 0 0 0 0 0 0 1 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 2 0 0 1 0 0 1 0 0 1 2 0 0 0 0 1 0 0 2 0 2 2 0 0 2 0 0 0 0 0 1 0 1 0 1 0 0 2 0 2 2 2 0 2 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 2 0 1 1 2 0 0 0 0 1 0 2 2 0 1 1 2 0 0 0 0 0 0 1 0 1 1 2 2 0 0 0 0 2 0 0 0 0 1 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 2 0 1 0 0 0 1 2 2 0 0 0 0 0 1 2 0 0 2 2 0 0 0 0 0 2 0 0 0 1 0 0 1 2 0 2 1 0 0 2 0 1 0 2 0 0 0 0 2 1 2 1 0 1 0 0 0 0 0 0 0 1 0 2 0 0 1 2 1 0 0 0 0 0 0 1 2 0 0 1 1 0 2 0 0 2 0 0 0 0 1 1 0 0 2 0 1 0 0 2 0 0 0 2 0 1 2 2 1 0 1 1 0 0 0 1 1 0 0 1 2 2 1 0 0 0 2 0 2 0 1 0 0 0 0 1 0 2 2 2 2 0 0 0 0 1 0 0 0 0 0 2 1 2 2 0 2 2 2 0 0 1 0 0 0 2 0 1 1 0 1 0 0 0 0 1 0 2 1 2 0 0 1 0 0 1 1 0 2 0 0 0 0 0 0 0 2 1 0 2 1 0 0 2 1 1 2 2 0 2 0 2 1 0 1 2 0 0 1 1 0 0 0 2 0 0 0 0 0 1 0 1 2 0 2 0 0 0 1 0 0 0 1 2 0 1 2 1 0 1 2 2 1 2 0 0 0 0 2 2 1 0 1 0 0 0 0 0 0 2 1 1 0 2 0 1 0 2 0 1 2 2 0 0 2 1 0 1 1 0 0 0 0 0 2 1 1 0 0 2 0 0 0 0 1 0 0 0 2 0 0 0 0 0 2 0 2 1 2 0 0 0 2 2 0 1 1 0 0 0 0 1 0 1 2 1 0 1 2 0 0 0 0 1 0 0 2 1 1 0 2 1 0 1 0 0 2 0 0 0 1 0 0 0 1 0 1 2 1 0 2 2 2 0 0 0 2 0 2 0 0 2 0 0 0 0 0 2 1 2 0 2 0 1 0 1 0 0 0 0 0 0 1 0 0 2 0 1 0 0 0 0 0 0 1 0 0 0 2 0 0 2 2 0 2 0 0 0 2 0 1 0 0 0 0 0 0 1 2 2 0 2 0 0 0 0 1 0 2 2 0 0 0 0 1 0 0 0 0 1 1 2 0 1 1 0 0 2 0 1 1 1 0 2 0 0 1 0 2 0 1 2 1 0 2 2 0 1 1 0 2 0 1 0 0 0 0 2 2 2 1 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1 0 1 2 0 2 0 1 0 0 0 0 1 1 2 1 0 1 1 2 0 0 2 2 0 0 2 0 0 2 2 0 0 1 0 1 1 0 1 0 2 2 0 2 2 2 2 2 0 0 1 0 0 1 0 0 0 0 1 2 1 2 0 0 0 0 1 1 2 2 2 0 2 0 1 0 0 2 0 1 1 1 0 0 2 0 2 1 1 1 2 1 1 0 1 0 0 2 0 0 0 0 2 0 0 0 0 1 2 0 0 2 0 0 0 1 0 0 2 0 0 1 1 2 1 0 0 0 0 2 0 0 0 0 2 0 0 2 0 0 0 0 0 1 0 0 0 0 2 0 0 0 2 0 2 0 1 0 1 2 0 2 1 1 0 1 0 0 0 2 0 1 2 0 0 0 0 2 2 0 0 1 0 0 1 0 2 0 2 0 0 0 0 2 0 0 1 2 2 0 0 0 2 2 0 2 1 0 2 1 0 1 0 2 0 0 2 0 0 2 2 0 0 1 0 2 1 0 0 0 1 2 1 2 0 0 1 0 0 0 0 0 0 0 0 1 0 1 2 0 0 2 0 0 0 0 2 2 2 0 2 0 1 2 0 0 0 2 2 2 1 1 2 2 0 2 0 0 0 2 1 1 2 0 0 0 0 1 0 2 2 0 2 2 1 0 0 0 0 2 1 0 0 0 0 2 0 0 1 2 1 2 0 1 0 0 0 2 1 2 0 0 1 1 0 0 2 0 2 1 1 0 2 0 0 2 1 0 2 0 0 1 0 2 0 1 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 2 0 0 0 0 2 0 0 0 0 0 0 1 2 0 0 2 0 0 0 0 0 0 0 0 2 0 2 1 2 0 0 0 0 1 1 1 1 0 0 2 0 0 2 2 2 0 1 0 0 2 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 1 2 0 0 0 2 0 1 0 0 0 0 0 0 0 1 0 0 0 1 2 0 0 2 0 0 2 1 0 2 0 2 0 0 2 2 1 0 0 0 2 1 0 0 0 1 0 0 0 2 2 0 0 1 1 0 0 0 0 1 2 0 0 2 2 0 0 0 1 0 0 0 0 0 2 0 2 0 0 1 0 2 1 0 0 2 0 2 1 0 0 1 0 0 2 0 1 1 0 0 0 1 0 2 1 0 0 0 0 1 0 0 0 1 0 2 1 2 0 2 2 0 2 1 2 0 0 0 0 0 2 1 0 0 0 2 0 0 0 2 1 0 2 0 0 0 0 2 1 0 0 0 2 2 0 2 0 2 0 2 0 2 0 2 0 0 0 2 0</ItemsUses>
+      </Instances>
+      <MissingValues>
+         <InstancesNumber>2430</InstancesNumber>
+         <VariablesNumber>16</VariablesNumber>
+         <ScrubbingMethod>Mean</ScrubbingMethod>
+         <MissingValuesNumber>0</MissingValuesNumber>
+      </MissingValues>
+   </DataSet>
+   <NeuralNetwork>
+      <Inputs>
+         <InputsNumber>12</InputsNumber>
+         <Item Index="1">
+            <Name>type</Name>
+         </Item>
+         <Item Index="2">
+            <Name>legacyId</Name>
+         </Item>
+         <Item Index="3">
+            <Name>Development</Name>
+         </Item>
+         <Item Index="4">
+            <Name>Data Science</Name>
+         </Item>
+         <Item Index="5">
+            <Name>Quality Assurance</Name>
+         </Item>
+         <Item Index="6">
+            <Name>Design</Name>
+         </Item>
+         <Item Index="7">
+            <Name>challenge_duration</Name>
+         </Item>
+         <Item Index="8">
+            <Name>high_freq_createdBy</Name>
+         </Item>
+         <Item Index="9">
+            <Name>low_freq_createdBy</Name>
+         </Item>
+         <Item Index="10">
+            <Name>medium_freq_createdBy</Name>
+         </Item>
+         <Item Index="11">
+            <Name>day_of_year</Name>
+         </Item>
+         <Item Index="12">
+            <Name>challenge_prize</Name>
+         </Item>
+      </Inputs>
+      <ScalingLayer>
+         <ScalingNeuronsNumber>12</ScalingNeuronsNumber>
+         <ScalingNeuron Index="1">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.617695</Mean>
+            <StandardDeviation>0.48605</StandardDeviation>
+            <ScalingMethod>MinimumMaximum</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="2">
+            <Minimum>3.0026e+07</Minimum>
+            <Maximum>3.01176e+07</Maximum>
+            <Mean>3.00927e+07</Mean>
+            <StandardDeviation>13648.8</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="3">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.780247</Mean>
+            <StandardDeviation>0.414165</StandardDeviation>
+            <ScalingMethod>MinimumMaximum</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="4">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.0855967</Mean>
+            <StandardDeviation>0.279825</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="5">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.0230453</Mean>
+            <StandardDeviation>0.150078</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="6">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.111111</Mean>
+            <StandardDeviation>0.314334</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="7">
+            <Minimum>0</Minimum>
+            <Maximum>368</Maximum>
+            <Mean>10.049</Mean>
+            <StandardDeviation>15.3516</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="8">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.302881</Mean>
+            <StandardDeviation>0.459599</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="9">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.0415638</Mean>
+            <StandardDeviation>0.199631</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="10">
+            <Minimum>0</Minimum>
+            <Maximum>1</Maximum>
+            <Mean>0.655556</Mean>
+            <StandardDeviation>0.475285</StandardDeviation>
+            <ScalingMethod>MinimumMaximum</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="11">
+            <Minimum>1</Minimum>
+            <Maximum>365</Maximum>
+            <Mean>172.319</Mean>
+            <StandardDeviation>112.812</StandardDeviation>
+            <ScalingMethod>MinimumMaximum</ScalingMethod>
+         </ScalingNeuron>
+         <ScalingNeuron Index="12">
+            <Minimum>0</Minimum>
+            <Maximum>100000</Maximum>
+            <Mean>1919.63</Mean>
+            <StandardDeviation>5154.11</StandardDeviation>
+            <ScalingMethod>MeanStandardDeviation</ScalingMethod>
+         </ScalingNeuron>
+      </ScalingLayer>
+      <PrincipalComponentsLayer>
+         <InputsNumber>12</InputsNumber>
+         <PrincipalComponentsNumber>0</PrincipalComponentsNumber>
+         <PrincipalComponentsMethod>NoPrincipalComponents</PrincipalComponentsMethod>
+      </PrincipalComponentsLayer>
+      <MultilayerPerceptron>
+         <Architecture>12 3 1</Architecture>
+         <LayersActivationFunction>Logistic Logistic</LayersActivationFunction>
+         <Parameters>0.213451 2.3199 1.79326 -2.62986 1.24882 3.60868 -2.9721 1.89217 1.62103 0.548806 -1.28007 7.40932 -1.87706 -2.15233 0.0304841 -2.61317 2.98104 -2.4753 -2.63589 -2.17388 -2.31919 2.54207 -8.10497 -2.00058 4.57249 1.01853 -0.50226 -3.12569 -2.05476 2.12489 0.746509 0.303982 3.5088 -2.21073 4.58408 -9.62138 6.12049 -5.1726 -2.85548 11.5121 -10.8356 -11.1767 3.99695</Parameters>
+      </MultilayerPerceptron>
+      <ProbabilisticLayer>
+         <ProbabilisticNeuronsNumber>1</ProbabilisticNeuronsNumber>
+         <ProbabilisticMethod>Probability</ProbabilisticMethod>
+         <DecisionThreshold>0.5</DecisionThreshold>
+      </ProbabilisticLayer>
+      <BoundingLayer>
+         <BoundingNeuronsNumber>1</BoundingNeuronsNumber>
+         <Item Index="1">
+            <LowerBound>0</LowerBound>
+            <UpperBound>1</UpperBound>
+         </Item>
+         <UseBoundingLayer>0</UseBoundingLayer>
+      </BoundingLayer>
+      <Outputs>
+         <OutputsNumber>1</OutputsNumber>
+         <Item Index="1">
+            <Name>numOfSubmissions</Name>
+         </Item>
+      </Outputs>
+   </NeuralNetwork>
+   <TrainingStrategy>
+      <LossIndex>
+         <Error Type="WEIGHTED_SQUARED_ERROR">
+            <PositivesWeight>0.00746269</PositivesWeight>
+            <NegativesWeight>1</NegativesWeight>
+         </Error>
+         <Regularization Type="L2_NORM">
+            <NeuralParametersNormWeight>0.001</NeuralParametersNormWeight>
+         </Regularization>
+      </LossIndex>
+      <Main Type="QUASI_NEWTON_METHOD">
+         <InverseHessianApproximationMethod>BFGS</InverseHessianApproximationMethod>
+         <LearningRateAlgorithm>
+            <LearningRateMethod>BrentMethod</LearningRateMethod>
+            <LearningRateTolerance>0.001</LearningRateTolerance>
+         </LearningRateAlgorithm>
+         <ReturnMinimumSelectionErrorNN>0</ReturnMinimumSelectionErrorNN>
+         <ApplyEarlyStopping>0</ApplyEarlyStopping>
+         <MinimumParametersIncrementNorm>1e-09</MinimumParametersIncrementNorm>
+         <MinimumLossDecrease>1e-12</MinimumLossDecrease>
+         <LossGoal>1e-12</LossGoal>
+         <GradientNormGoal>0.001</GradientNormGoal>
+         <MaximumSelectionErrorIncreases>100</MaximumSelectionErrorIncreases>
+         <MaximumIterationsNumber>1000</MaximumIterationsNumber>
+         <MaximumTime>3600</MaximumTime>
+         <ReserveParametersNormHistory>0</ReserveParametersNormHistory>
+         <ReserveErrorHistory>1</ReserveErrorHistory>
+         <ReserveSelectionErrorHistory>1</ReserveSelectionErrorHistory>
+         <ReserveGradientNormHistory>0</ReserveGradientNormHistory>
+      </Main>
+   </TrainingStrategy>
+   <ModelSelection>
+      <InputsSelection Type="GROWING_INPUTS">
+         <TrialsNumber>3</TrialsNumber>
+         <Tolerance>0.01</Tolerance>
+         <SelectionErrorGoal>0</SelectionErrorGoal>
+         <MaximumSelectionFailures>10</MaximumSelectionFailures>
+         <MinimumInputsNumber>1</MinimumInputsNumber>
+         <MaximumInputsNumber>11</MaximumInputsNumber>
+         <MinimumCorrelation>0</MinimumCorrelation>
+         <MaximumCorrelation>1</MaximumCorrelation>
+         <MaximumIterationsNumber>100</MaximumIterationsNumber>
+         <MaximumTime>3600</MaximumTime>
+         <ReserveErrorHistory>1</ReserveErrorHistory>
+         <ReserveSelectionErrorHistory>1</ReserveSelectionErrorHistory>
+      </InputsSelection>
+      <OrderSelection Type="INCREMENTAL_ORDER">
+         <MinimumOrder>1</MinimumOrder>
+         <MaximumOrder>10</MaximumOrder>
+         <Step>1</Step>
+         <TrialsNumber>3</TrialsNumber>
+         <Tolerance>0.01</Tolerance>
+         <SelectionErrorGoal>0</SelectionErrorGoal>
+         <MaximumSelectionFailures>5</MaximumSelectionFailures>
+         <MaximumTime>3600</MaximumTime>
+         <ReserveErrorHistory>1</ReserveErrorHistory>
+         <ReserveSelectionErrorHistory>1</ReserveSelectionErrorHistory>
+      </OrderSelection>
+   </ModelSelection>
+</NeuralDesignerProject>

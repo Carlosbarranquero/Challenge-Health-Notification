@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NeuralReaderProject ProjectType="Classification">
+    <Columns>
+        <ColumnsNumber>9</ColumnsNumber>
+        <Column Index="1">
+            <ColumnName size="1">type</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+        <Column Index="2">
+            <ColumnName size="1">legacyId</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+        <Column Index="3">
+            <ColumnName size="4">track</ColumnName>
+            <ColumnType>Categorical</ColumnType>
+            <Item>
+                <Name size="1">Development</Name>
+                <Value>Development</Value>
+            </Item>
+            <Item>
+                <Name size="1">Data Science</Name>
+                <Value>Data Science</Value>
+            </Item>
+            <Item>
+                <Name size="1">Quality Assurance</Name>
+                <Value>Quality Assurance</Value>
+            </Item>
+            <Item>
+                <Name size="1">Design</Name>
+                <Value>Design</Value>
+            </Item>
+        </Column>
+        <Column Index="4">
+            <ColumnName size="1">challenge_duration</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+        <Column Index="5">
+            <ColumnName size="3">createdBy</ColumnName>
+            <ColumnType>Categorical</ColumnType>
+            <Item>
+                <Name size="1">high_freq_createdBy</Name>
+                <Value>high_freq_createdBy</Value>
+            </Item>
+            <Item>
+                <Name size="1">low_freq_createdBy</Name>
+                <Value>low_freq_createdBy</Value>
+            </Item>
+            <Item>
+                <Name size="1">medium_freq_createdBy</Name>
+                <Value>medium_freq_createdBy</Value>
+            </Item>
+        </Column>
+        <Column Index="6">
+            <ColumnName size="3">updatedBy</ColumnName>
+            <ColumnType>Categorical</ColumnType>
+            <Item>
+                <Name size="1">medium_freq_updatedBy</Name>
+                <Value>medium_freq_updatedBy</Value>
+            </Item>
+            <Item>
+                <Name size="1">high_freq_updatedBy</Name>
+                <Value>high_freq_updatedBy</Value>
+            </Item>
+            <Item>
+                <Name size="1">low_freq_updatedBy</Name>
+                <Value>low_freq_updatedBy</Value>
+            </Item>
+        </Column>
+        <Column Index="7">
+            <ColumnName size="1">day_of_year</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+        <Column Index="8">
+            <ColumnName size="1">challenge_prize</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+        <Column Index="9">
+            <ColumnName size="1">numOfSubmissions</ColumnName>
+            <ColumnType>Continuous</ColumnType>
+        </Column>
+    </Columns>
+    <InstancesNumber>2430</InstancesNumber>
+    <MissingValues>
+        <MissingValuesNumber>0</MissingValuesNumber>
+    </MissingValues>
+    <PreviewData>
+        <PreviewSize>4</PreviewSize>
+        <Item Index="1" Size="9">
+            <Value>type</Value>
+            <Value>legacyId</Value>
+            <Value>track</Value>
+            <Value>challenge_duration</Value>
+            <Value>createdBy</Value>
+            <Value>updatedBy</Value>
+            <Value>day_of_year</Value>
+            <Value>challenge_prize</Value>
+            <Value>numOfSubmissions</Value>
+        </Item>
+        <Item Index="2" Size="9">
+            <Value>0</Value>
+            <Value>30117628</Value>
+            <Value>Development</Value>
+            <Value>9</Value>
+            <Value>high_freq_createdBy</Value>
+            <Value>medium_freq_updatedBy</Value>
+            <Value>60</Value>
+            <Value>100.0</Value>
+            <Value>1</Value>
+        </Item>
+        <Item Index="3" Size="9">
+            <Value>1</Value>
+            <Value>30116342</Value>
+            <Value>Development</Value>
+            <Value>9</Value>
+            <Value>high_freq_createdBy</Value>
+            <Value>high_freq_updatedBy</Value>
+            <Value>50</Value>
+            <Value>1800.0</Value>
+            <Value>1</Value>
+        </Item>
+        <Item Index="4" Size="9">
+            <Value>0</Value>
+            <Value>30073261</Value>
+            <Value>Development</Value>
+            <Value>30</Value>
+            <Value>low_freq_createdBy</Value>
+            <Value>high_freq_updatedBy</Value>
+            <Value>299</Value>
+            <Value>10.0</Value>
+            <Value>1</Value>
+        </Item>
+    </PreviewData>
+</NeuralReaderProject>
